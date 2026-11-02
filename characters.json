@@ -1,0 +1,7674 @@
+[
+  {
+    "latin": "Naruto Uzumaki",
+    "hiragana": "なると うずまき",
+    "anime": "Naruto",
+    "role": "Ninja de Konoha qui rêve de devenir Hokage."
+  },
+  {
+    "latin": "Sasuke Uchiha",
+    "hiragana": "さすけ うちは",
+    "anime": "Naruto",
+    "role": "Rival de Naruto et héritier du clan Uchiha."
+  },
+  {
+    "latin": "Sakura Haruno",
+    "hiragana": "さくら はるの",
+    "anime": "Naruto",
+    "role": "Ninja médecin de l'équipe 7."
+  },
+  {
+    "latin": "Kakashi Hatake",
+    "hiragana": "かかし はたけ",
+    "anime": "Naruto",
+    "role": "Mentor de l'équipe 7."
+  },
+  {
+    "latin": "Minato Namikaze",
+    "hiragana": "みなと なみかぜ",
+    "anime": "Naruto",
+    "role": "Quatrième Hokage et père de Naruto."
+  },
+  {
+    "latin": "Gokū",
+    "hiragana": "ごくう",
+    "anime": "Dragon Ball",
+    "role": "Guerrier Saiyan qui protège la Terre."
+  },
+  {
+    "latin": "Vegeta",
+    "hiragana": "べじいた",
+    "anime": "Dragon Ball",
+    "role": "Prince des Saiyans et rival de Goku."
+  },
+  {
+    "latin": "Kuririn",
+    "hiragana": "くりりん",
+    "anime": "Dragon Ball",
+    "role": "Ami de Goku et combattant terrien."
+  },
+  {
+    "latin": "Tenshinhan",
+    "hiragana": "てんしんはん",
+    "anime": "Dragon Ball",
+    "role": "Artiste martial aux trois yeux."
+  },
+  {
+    "latin": "Buggy",
+    "hiragana": "ばぎい",
+    "anime": "One Piece",
+    "role": "Capitaine pirate au pouvoir de fragmentation."
+  },
+  {
+    "latin": "Zoro",
+    "hiragana": "ぞろ",
+    "anime": "One Piece",
+    "role": "Sabreur de l'équipage du Chapeau de paille."
+  },
+  {
+    "latin": "Nami",
+    "hiragana": "なみ",
+    "anime": "One Piece",
+    "role": "Navigatrice de l'équipage de Luffy."
+  },
+  {
+    "latin": "Sanji",
+    "hiragana": "さんじ",
+    "anime": "One Piece",
+    "role": "Cuisinier et combattant de l'équipage."
+  },
+  {
+    "latin": "Tashigi",
+    "hiragana": "たしぎ",
+    "anime": "One Piece",
+    "role": "Officière de la Marine passionnée de sabres."
+  },
+  {
+    "latin": "Izuku Midoriya",
+    "hiragana": "いずく みどりや",
+    "anime": "My Hero Academia",
+    "role": "Apprenti héros surnommé Deku."
+  },
+  {
+    "latin": "Katsuki Bakugō",
+    "hiragana": "かつき ばくごう",
+    "anime": "My Hero Academia",
+    "role": "Élève de Yuei au pouvoir explosif."
+  },
+  {
+    "latin": "Denki Kaminari",
+    "hiragana": "でんき かみなり",
+    "anime": "My Hero Academia",
+    "role": "Élève héros capable de produire de l'électricité."
+  },
+  {
+    "latin": "Minoru Mineta",
+    "hiragana": "みのる みねた",
+    "anime": "My Hero Academia",
+    "role": "Élève de la classe 1-A aux boules adhésives."
+  },
+  {
+    "latin": "Momo Yaoyorozu",
+    "hiragana": "もも やおよろず",
+    "anime": "My Hero Academia",
+    "role": "Élève héroïne capable de créer des objets."
+  },
+  {
+    "latin": "Tobio Kageyama",
+    "hiragana": "とびお かげやま",
+    "anime": "Haikyuu!!",
+    "role": "Passeur de l'équipe de volley de Karasuno."
+  },
+  {
+    "latin": "Tetsurō Kuroo",
+    "hiragana": "てつろう くろお",
+    "anime": "Haikyuu!!",
+    "role": "Capitaine et contreur de Nekoma."
+  },
+  {
+    "latin": "Daichi Sawamura",
+    "hiragana": "だいち さわむら",
+    "anime": "Haikyuu!!",
+    "role": "Capitaine de Karasuno."
+  },
+  {
+    "latin": "Yū Nishinoya",
+    "hiragana": "ゆう にしのや",
+    "anime": "Haikyuu!!",
+    "role": "Libéro de Karasuno."
+  },
+  {
+    "latin": "Mamoru Endō",
+    "hiragana": "まもる えんどう",
+    "anime": "Inazuma Eleven",
+    "role": "Gardien et capitaine de Raimon.",
+    "saga": "Original"
+  },
+  {
+    "latin": "Yūto Kidō",
+    "hiragana": "ゆうと きどう",
+    "anime": "Inazuma Eleven",
+    "role": "Stratège et milieu de terrain.",
+    "saga": "Original"
+  },
+  {
+    "latin": "Akio Fudō",
+    "hiragana": "あきお ふどう",
+    "anime": "Inazuma Eleven",
+    "role": "Milieu de terrain au caractère provocateur.",
+    "saga": "Original"
+  },
+  {
+    "latin": "Kazuya Ichinose",
+    "hiragana": "かずや いちのせ",
+    "anime": "Inazuma Eleven",
+    "role": "Milieu de terrain talentueux et ami de Domon.",
+    "saga": "Original"
+  },
+  {
+    "latin": "Asuka Domon",
+    "hiragana": "あすか どもん",
+    "anime": "Inazuma Eleven",
+    "role": "Défenseur et ami d'Ichinose.",
+    "saga": "Original"
+  },
+  {
+    "latin": "Genji Kamogawa",
+    "hiragana": "げんじ かもがわ",
+    "anime": "Hajime no Ippo",
+    "role": "Entraîneur de boxe du gymnase Kamogawa."
+  },
+  {
+    "latin": "Mamoru Takamura",
+    "hiragana": "まもる たかむら",
+    "anime": "Hajime no Ippo",
+    "role": "Boxeur champion et mentor d'Ippo."
+  },
+  {
+    "latin": "Masaru Aoki",
+    "hiragana": "まさる あおき",
+    "anime": "Hajime no Ippo",
+    "role": "Boxeur du gymnase Kamogawa."
+  },
+  {
+    "latin": "Tatsuya Fukuda",
+    "hiragana": "たつや ふくだ",
+    "anime": "Ao Ashi",
+    "role": "Entraîneur des jeunes d'Esperion."
+  },
+  {
+    "latin": "Tarō Misaki",
+    "hiragana": "たろう みさき",
+    "anime": "Captain Tsubasa",
+    "role": "Milieu de terrain et partenaire de Tsubasa."
+  },
+  {
+    "latin": "Hikaru Matsuyama",
+    "hiragana": "ひかる まつやま",
+    "anime": "Captain Tsubasa",
+    "role": "Capitaine de Furano et milieu travailleur."
+  },
+  {
+    "latin": "Kazuto Kirigaya",
+    "hiragana": "かずと きりがや",
+    "anime": "Sword Art Online",
+    "role": "Véritable identité de Kirito."
+  },
+  {
+    "latin": "Subaru Natsuki",
+    "hiragana": "すばる なつき",
+    "anime": "Re:Zero",
+    "role": "Héros capable de revenir après sa mort."
+  },
+  {
+    "latin": "Gen Asagiri",
+    "hiragana": "げん あさぎり",
+    "anime": "Dr. Stone",
+    "role": "Mentaliste allié du royaume de la science."
+  },
+  {
+    "latin": "Senkū Ishigami",
+    "hiragana": "せんくう いしがみ",
+    "anime": "Dr. Stone",
+    "role": "Scientifique qui veut reconstruire la civilisation."
+  },
+  {
+    "latin": "Jinshi",
+    "hiragana": "じんし",
+    "anime": "Les Carnets de l'Apothicaire",
+    "role": "Haut responsable du palais impérial."
+  },
+  {
+    "latin": "Maomao",
+    "hiragana": "まおまお",
+    "anime": "Les Carnets de l'Apothicaire",
+    "role": "Apothicaire qui résout des mystères médicaux."
+  },
+  {
+    "latin": "Reo Mikage",
+    "hiragana": "れお みかげ",
+    "anime": "Blue Lock",
+    "role": "Joueur polyvalent et ami de Nagi."
+  },
+  {
+    "latin": "Yoichi Isagi",
+    "hiragana": "よいち いさぎ",
+    "anime": "Blue Lock",
+    "role": "Attaquant qui développe sa vision du jeu."
+  },
+  {
+    "latin": "Eiji Niizuma",
+    "hiragana": "えいじ にいずま",
+    "anime": "Bakuman",
+    "role": "Mangaka prodige et rival des protagonistes."
+  },
+  {
+    "latin": "Taiki Inomata",
+    "hiragana": "たいき いのまた",
+    "anime": "Blue Box",
+    "role": "Lycéen passionné de badminton."
+  },
+  {
+    "latin": "Reno Ichikawa",
+    "hiragana": "れの いちかわ",
+    "anime": "Kaiju No. 8",
+    "role": "Recrue des Forces de Défense et allié de Kafka."
+  },
+  {
+    "latin": "Kikoru Shinomiya",
+    "hiragana": "きこる しのみや",
+    "anime": "Kaiju No. 8",
+    "role": "Jeune prodige des Forces de Défense."
+  },
+  {
+    "latin": "Aoi Kanzaki",
+    "hiragana": "あおい かんざき",
+    "anime": "Demon Slayer",
+    "role": "Assistante au domaine des Papillons."
+  },
+  {
+    "latin": "Shirō Fubuki",
+    "hiragana": "しろう ふぶき",
+    "anime": "Inazuma Eleven",
+    "role": "Défenseur et attaquant de Hakuren.",
+    "saga": "Original"
+  },
+  {
+    "latin": "Ichirōta Kazemaru",
+    "hiragana": "いちろうた かぜまる",
+    "anime": "Inazuma Eleven",
+    "role": "Défenseur rapide de Raimon.",
+    "saga": "Original"
+  },
+  {
+    "latin": "Hiroto Kiyama",
+    "hiragana": "ひろと きやま",
+    "anime": "Inazuma Eleven",
+    "role": "Ancien capitaine de Genesis.",
+    "saga": "Original"
+  },
+  {
+    "latin": "Jirō Sakuma",
+    "hiragana": "じろう さくま",
+    "anime": "Inazuma Eleven",
+    "role": "Milieu de la Royal Academy.",
+    "saga": "Original"
+  },
+  {
+    "latin": "Yūki Tachimukai",
+    "hiragana": "ゆうき たちむかい",
+    "anime": "Inazuma Eleven",
+    "role": "Gardien admirateur d'Endo.",
+    "saga": "Original"
+  },
+  {
+    "latin": "Tenma Matsukaze",
+    "hiragana": "てんま まつかぜ",
+    "anime": "Inazuma Eleven",
+    "role": "Héros de la série GO.",
+    "saga": "GO"
+  },
+  {
+    "latin": "Takuto Shindō",
+    "hiragana": "たくと しんどう",
+    "anime": "Inazuma Eleven",
+    "role": "Capitaine et meneur de Raimon GO.",
+    "saga": "GO"
+  },
+  {
+    "latin": "Ranmaru Kirino",
+    "hiragana": "らんまる きりの",
+    "anime": "Inazuma Eleven",
+    "role": "Défenseur de Raimon GO.",
+    "saga": "GO"
+  },
+  {
+    "latin": "Taiyou Amemiya",
+    "hiragana": "たいよう あめみや",
+    "anime": "Inazuma Eleven",
+    "role": "Attaquant prodige d'Arakumo.",
+    "saga": "GO"
+  },
+  {
+    "latin": "Kinako Nanobana",
+    "hiragana": "きなこ なのばな",
+    "anime": "Inazuma Eleven",
+    "role": "Défenseuse de Chrono Stone.",
+    "saga": "GO Chrono Stone"
+  },
+  {
+    "latin": "Masaki Kariya",
+    "hiragana": "まさき かりや",
+    "anime": "Inazuma Eleven",
+    "role": "Défenseur de Raimon GO.",
+    "saga": "GO"
+  },
+  {
+    "latin": "Moritaka Mashiro",
+    "hiragana": "もりたか ましろ",
+    "anime": "Bakuman",
+    "role": "Dessinateur du duo Ashirogi Muto."
+  },
+  {
+    "latin": "Akito Takagi",
+    "hiragana": "あきと たかぎ",
+    "anime": "Bakuman",
+    "role": "Scénariste du duo Ashirogi Muto."
+  },
+  {
+    "latin": "Miho Azuki",
+    "hiragana": "みほ あずき",
+    "anime": "Bakuman",
+    "role": "Doubleuse et amour de Mashiro."
+  },
+  {
+    "latin": "Kaya Miyoshi",
+    "hiragana": "かや みよし",
+    "anime": "Bakuman",
+    "role": "Amie de Miho et compagne de Takagi."
+  },
+  {
+    "latin": "Kazuya Hiramaru",
+    "hiragana": "かずや ひらまる",
+    "anime": "Bakuman",
+    "role": "Mangaka à l'humour désabusé."
+  },
+  {
+    "latin": "Shinta Fukuda",
+    "hiragana": "しんた ふくだ",
+    "anime": "Bakuman",
+    "role": "Mangaka rival du duo principal."
+  },
+  {
+    "latin": "Kenji Gion",
+    "hiragana": "けんじ ぎおん",
+    "anime": "All Out!!",
+    "role": "Lycéen passionné qui débute au rugby."
+  },
+  {
+    "latin": "Sumiaki Iwashimizu",
+    "hiragana": "すみあき いわしみず",
+    "anime": "All Out!!",
+    "role": "Grand joueur de rugby de Jinko."
+  },
+  {
+    "latin": "Takuya Sekizan",
+    "hiragana": "たくや せきざん",
+    "anime": "All Out!!",
+    "role": "Capitaine de l'équipe de rugby de Jinko."
+  },
+  {
+    "latin": "Mutsumi Hachiouji",
+    "hiragana": "むつみ はちおうじ",
+    "anime": "All Out!!",
+    "role": "Vice-capitaine du club de rugby."
+  },
+  {
+    "latin": "Etsugo Ōharano",
+    "hiragana": "えつご おおはらの",
+    "anime": "All Out!!",
+    "role": "Joueur talentueux au tempérament difficile."
+  },
+  {
+    "latin": "Nico Robin",
+    "hiragana": "にこ ろびん",
+    "anime": "One Piece",
+    "role": "Archéologue de l'équipage."
+  },
+  {
+    "latin": "Franky",
+    "hiragana": "ふらんきい",
+    "anime": "One Piece",
+    "role": "Charpentier cyborg des Chapeaux de paille."
+  },
+  {
+    "latin": "Jinbē",
+    "hiragana": "じんべえ",
+    "anime": "One Piece",
+    "role": "Timonier homme-poisson."
+  },
+  {
+    "latin": "Rimuru Tempest",
+    "hiragana": "りむる てんぺすと",
+    "anime": "Slime",
+    "role": "Slime devenu chef de Tempest."
+  },
+  {
+    "latin": "Benimaru",
+    "hiragana": "べにまる",
+    "anime": "Slime",
+    "role": "Commandant des forces de Rimuru."
+  },
+  {
+    "latin": "Shion",
+    "hiragana": "しおん",
+    "anime": "Slime",
+    "role": "Secrétaire et combattante de Rimuru."
+  },
+  {
+    "latin": "Souei",
+    "hiragana": "そうえい",
+    "anime": "Slime",
+    "role": "Espion et ninja de Tempest."
+  },
+  {
+    "latin": "Hakurō",
+    "hiragana": "はくろう",
+    "anime": "Slime",
+    "role": "Maître d'armes et instructeur."
+  },
+  {
+    "latin": "Gobta",
+    "hiragana": "ごぶた",
+    "anime": "Slime",
+    "role": "Gobelin devenu combattant de Tempest."
+  },
+  {
+    "latin": "Milim Nava",
+    "hiragana": "みりむ なあば",
+    "anime": "Slime",
+    "role": "Puissante reine démon."
+  },
+  {
+    "latin": "Rintarō Tsumugi",
+    "hiragana": "りんたろう つむぎ",
+    "anime": "The Fragrant Flower Blooms with Dignity",
+    "role": "Lycéen de Chidori au grand cœur."
+  },
+  {
+    "latin": "Kaoruko Waguri",
+    "hiragana": "かおるこ わぐり",
+    "anime": "The Fragrant Flower Blooms with Dignity",
+    "role": "Lycéenne de Kikyo et amie de Rintaro."
+  },
+  {
+    "latin": "Subaru Hoshina",
+    "hiragana": "すばる ほしな",
+    "anime": "The Fragrant Flower Blooms with Dignity",
+    "role": "Amie protectrice de Kaoruko."
+  },
+  {
+    "latin": "Saku Natsusawa",
+    "hiragana": "さく なつさわ",
+    "anime": "The Fragrant Flower Blooms with Dignity",
+    "role": "Ami de Rintaro et élève de Chidori."
+  },
+  {
+    "latin": "Ayato Yorita",
+    "hiragana": "あやと よりた",
+    "anime": "The Fragrant Flower Blooms with Dignity",
+    "role": "Ami de Rintaro à Chidori."
+  },
+  {
+    "latin": "Kaguya Shinomiya",
+    "hiragana": "かぐや しのみや",
+    "anime": "Kaguya-sama",
+    "role": "Vice-présidente du conseil des élèves."
+  },
+  {
+    "latin": "Miyuki Shirogane",
+    "hiragana": "みゆき しろがね",
+    "anime": "Kaguya-sama",
+    "role": "Président du conseil des élèves."
+  },
+  {
+    "latin": "Chika Fujiwara",
+    "hiragana": "ちか ふじわら",
+    "anime": "Kaguya-sama",
+    "role": "Secrétaire espiègle du conseil."
+  },
+  {
+    "latin": "Yū Ishigami",
+    "hiragana": "ゆう いしがみ",
+    "anime": "Kaguya-sama",
+    "role": "Trésorier du conseil des élèves."
+  },
+  {
+    "latin": "Ai Hayasaka",
+    "hiragana": "あい はやさか",
+    "anime": "Kaguya-sama",
+    "role": "Assistante et confidente de Kaguya."
+  },
+  {
+    "latin": "Miko Iino",
+    "hiragana": "みこ いいの",
+    "anime": "Kaguya-sama",
+    "role": "Élève rigoureuse du conseil."
+  },
+  {
+    "latin": "Kazuya Kinoshita",
+    "hiragana": "かずや きのした",
+    "anime": "Rent-a-Girlfriend",
+    "role": "Étudiant au cœur de l'intrigue."
+  },
+  {
+    "latin": "Chizuru Mizuhara",
+    "hiragana": "ちずる みずはら",
+    "anime": "Rent-a-Girlfriend",
+    "role": "Étudiante et petite amie de location."
+  },
+  {
+    "latin": "Ruka Sarashina",
+    "hiragana": "るか さらしな",
+    "anime": "Rent-a-Girlfriend",
+    "role": "Jeune fille amoureuse de Kazuya."
+  },
+  {
+    "latin": "Sumi Sakurasawa",
+    "hiragana": "すみ さくらさわ",
+    "anime": "Rent-a-Girlfriend",
+    "role": "Petite amie de location timide."
+  },
+  {
+    "latin": "Mami Nanami",
+    "hiragana": "まみ ななみ",
+    "anime": "Rent-a-Girlfriend",
+    "role": "Ex-petite amie de Kazuya."
+  },
+  {
+    "latin": "Mini Yaemori",
+    "hiragana": "みに やえもり",
+    "anime": "Rent-a-Girlfriend",
+    "role": "Voisine qui soutient Kazuya."
+  },
+  {
+    "latin": "Satoru Fujinuma",
+    "hiragana": "さとる ふじぬま",
+    "anime": "Erased",
+    "role": "Héros qui revit son enfance."
+  },
+  {
+    "latin": "Kayo Hinazuki",
+    "hiragana": "かよ ひなづき",
+    "anime": "Erased",
+    "role": "Camarade de classe que Satoru veut sauver."
+  },
+  {
+    "latin": "Sachiko Fujinuma",
+    "hiragana": "さちこ ふじぬま",
+    "anime": "Erased",
+    "role": "Mère perspicace de Satoru."
+  },
+  {
+    "latin": "Airi Katagiri",
+    "hiragana": "あいり かたぎり",
+    "anime": "Erased",
+    "role": "Collègue qui croit en Satoru."
+  },
+  {
+    "latin": "Boruto Uzumaki",
+    "hiragana": "ぼると うずまき",
+    "anime": "Boruto",
+    "role": "Fils de Naruto et jeune ninja."
+  },
+  {
+    "latin": "Sarada Uchiha",
+    "hiragana": "さらだ うちは",
+    "anime": "Boruto",
+    "role": "Fille de Sasuke qui rêve d'être Hokage."
+  },
+  {
+    "latin": "Mitsuki",
+    "hiragana": "みつき",
+    "anime": "Boruto",
+    "role": "Ninja de l'équipe de Boruto."
+  },
+  {
+    "latin": "Kawaki",
+    "hiragana": "かわき",
+    "anime": "Boruto",
+    "role": "Jeune garçon lié à Kara."
+  },
+  {
+    "latin": "Himawari Uzumaki",
+    "hiragana": "ひまわり うずまき",
+    "anime": "Boruto",
+    "role": "Petite sœur de Boruto."
+  },
+  {
+    "latin": "Seishirō Nagi",
+    "hiragana": "せいしろう なぎ",
+    "anime": "Blue Lock",
+    "role": "Attaquant doté d'un contrôle exceptionnel."
+  },
+  {
+    "latin": "Meguru Bachira",
+    "hiragana": "めぐる ばちら",
+    "anime": "Blue Lock",
+    "role": "Dribbleur créatif et imprévisible."
+  },
+  {
+    "latin": "Rensuke Kunigami",
+    "hiragana": "れんすけ くにがみ",
+    "anime": "Blue Lock",
+    "role": "Attaquant puissant du projet Blue Lock."
+  },
+  {
+    "latin": "Rin Itoshi",
+    "hiragana": "りん いとし",
+    "anime": "Blue Lock",
+    "role": "Attaquant d'élite du projet Blue Lock."
+  },
+  {
+    "latin": "Sae Itoshi",
+    "hiragana": "さえ いとし",
+    "anime": "Blue Lock",
+    "role": "Milieu de terrain prodige."
+  },
+  {
+    "latin": "Gin Gagamaru",
+    "hiragana": "ぎん ががまる",
+    "anime": "Blue Lock",
+    "role": "Joueur athlétique reconverti gardien."
+  },
+  {
+    "latin": "Gon Freecss",
+    "hiragana": "ごん ふりいくす",
+    "anime": "Hunter x Hunter",
+    "role": "Jeune Hunter qui cherche son père."
+  },
+  {
+    "latin": "Kurapika",
+    "hiragana": "くらぴか",
+    "anime": "Hunter x Hunter",
+    "role": "Hunter du clan Kurta."
+  },
+  {
+    "latin": "Leorio",
+    "hiragana": "れおりお",
+    "anime": "Hunter x Hunter",
+    "role": "Ami de Gon qui veut devenir médecin."
+  },
+  {
+    "latin": "Hisoka",
+    "hiragana": "ひそか",
+    "anime": "Hunter x Hunter",
+    "role": "Combattant redoutable et imprévisible."
+  },
+  {
+    "latin": "Meruem",
+    "hiragana": "めるえむ",
+    "anime": "Hunter x Hunter",
+    "role": "Roi des fourmis-chimères."
+  },
+  {
+    "latin": "Gohan",
+    "hiragana": "ごはん",
+    "anime": "Dragon Ball",
+    "role": "Fils de Goku et combattant érudit."
+  },
+  {
+    "latin": "Bulma",
+    "hiragana": "ぶるま",
+    "anime": "Dragon Ball",
+    "role": "Inventrice et amie de Goku."
+  },
+  {
+    "latin": "Trunks",
+    "hiragana": "とらんくす",
+    "anime": "Dragon Ball",
+    "role": "Fils de Vegeta et Bulma."
+  },
+  {
+    "latin": "Frieza",
+    "hiragana": "ふりいざ",
+    "anime": "Dragon Ball",
+    "role": "Tyran galactique ennemi des Saiyans."
+  },
+  {
+    "latin": "Cell",
+    "hiragana": "せる",
+    "anime": "Dragon Ball",
+    "role": "Bio-androïde ennemi de Gohan."
+  },
+  {
+    "latin": "Beerus",
+    "hiragana": "びいるす",
+    "anime": "Dragon Ball",
+    "role": "Dieu de la destruction."
+  },
+  {
+    "latin": "Damian Desmond",
+    "hiragana": "だみあん ですもんど",
+    "anime": "Spy x Family",
+    "role": "Camarade d'Anya à Eden."
+  },
+  {
+    "latin": "Tarō Sakamoto",
+    "hiragana": "たろう さかもと",
+    "anime": "Sakamoto Days",
+    "role": "Ancien assassin devenu commerçant."
+  },
+  {
+    "latin": "Shin Asakura",
+    "hiragana": "しん あさくら",
+    "anime": "Sakamoto Days",
+    "role": "Télépathe allié de Sakamoto."
+  },
+  {
+    "latin": "Heisuke Mashimo",
+    "hiragana": "へいすけ ましも",
+    "anime": "Sakamoto Days",
+    "role": "Tireur d'élite et ami du groupe."
+  },
+  {
+    "latin": "Himmel",
+    "hiragana": "ひんめる",
+    "anime": "Frieren",
+    "role": "Héros de l'ancienne compagnie."
+  },
+  {
+    "latin": "Eisen",
+    "hiragana": "あいぜん",
+    "anime": "Frieren",
+    "role": "Guerrier nain du groupe de héros."
+  },
+  {
+    "latin": "Heiter",
+    "hiragana": "はいたあ",
+    "anime": "Frieren",
+    "role": "Prêtre de l'ancienne compagnie."
+  },
+  {
+    "latin": "Flamme",
+    "hiragana": "ふらんめ",
+    "anime": "Frieren",
+    "role": "Mage légendaire et mentor de Frieren."
+  },
+  {
+    "latin": "Serie",
+    "hiragana": "ぜえりえ",
+    "anime": "Frieren",
+    "role": "Elfe et mage à l'immense savoir."
+  },
+  {
+    "latin": "Yuru",
+    "hiragana": "ゆる",
+    "anime": "Yomi no Tsugai",
+    "role": "Jeune héros lié à deux tsugai."
+  },
+  {
+    "latin": "Asa",
+    "hiragana": "あさ",
+    "anime": "Yomi no Tsugai",
+    "role": "Sœur jumelle de Yuru."
+  },
+  {
+    "latin": "Ichika Nakano",
+    "hiragana": "いちか なかの",
+    "anime": "The Quintessential Quintuplets",
+    "role": "Aînée des cinq sœurs."
+  },
+  {
+    "latin": "Nino Nakano",
+    "hiragana": "にの なかの",
+    "anime": "The Quintessential Quintuplets",
+    "role": "Deuxième des cinq sœurs."
+  },
+  {
+    "latin": "Miku Nakano",
+    "hiragana": "みく なかの",
+    "anime": "The Quintessential Quintuplets",
+    "role": "Troisième des cinq sœurs."
+  },
+  {
+    "latin": "Yotsuba Nakano",
+    "hiragana": "よつば なかの",
+    "anime": "The Quintessential Quintuplets",
+    "role": "Quatrième des cinq sœurs."
+  },
+  {
+    "latin": "Itsuki Nakano",
+    "hiragana": "いつき なかの",
+    "anime": "The Quintessential Quintuplets",
+    "role": "Cinquième des cinq sœurs."
+  },
+  {
+    "latin": "Fūtarō Uesugi",
+    "hiragana": "ふうたろう うえすぎ",
+    "anime": "The Quintessential Quintuplets",
+    "role": "Tuteur scolaire des quintuplées."
+  },
+  {
+    "latin": "Gingka Hagane",
+    "hiragana": "ぎんが はがね",
+    "anime": "Beyblade Metal",
+    "role": "Blader héros et maître de Pegasus."
+  },
+  {
+    "latin": "Kenta Yumiya",
+    "hiragana": "けんた ゆみや",
+    "anime": "Beyblade Metal",
+    "role": "Jeune blader ami de Gingka."
+  },
+  {
+    "latin": "Tsubasa Ōtori",
+    "hiragana": "つばさ おおとり",
+    "anime": "Beyblade Metal",
+    "role": "Blader et agent de la WBBA."
+  },
+  {
+    "latin": "Yū Tendō",
+    "hiragana": "ゆう てんどう",
+    "anime": "Beyblade Metal",
+    "role": "Blader utilisant Libra."
+  },
+  {
+    "latin": "Masamune Kadoya",
+    "hiragana": "まさむね かどや",
+    "anime": "Beyblade Metal",
+    "role": "Blader de Ray Striker."
+  },
+  {
+    "latin": "Benkei Hanawa",
+    "hiragana": "べんけい はなわ",
+    "anime": "Beyblade Metal",
+    "role": "Ami et fidèle soutien de Kyoya."
+  },
+  {
+    "latin": "Tsubasa Ōzora",
+    "hiragana": "つばさ おおぞら",
+    "anime": "Captain Tsubasa",
+    "role": "Prodige du football japonais."
+  },
+  {
+    "latin": "Genzō Wakabayashi",
+    "hiragana": "げんぞう わかばやし",
+    "anime": "Captain Tsubasa",
+    "role": "Gardien d'exception."
+  },
+  {
+    "latin": "Ken Wakashimazu",
+    "hiragana": "けん わかしまづ",
+    "anime": "Captain Tsubasa",
+    "role": "Gardien acrobatique de Toho."
+  },
+  {
+    "latin": "Shingo Aoi",
+    "hiragana": "しんご あおい",
+    "anime": "Captain Tsubasa",
+    "role": "Jeune footballeur parti jouer en Italie."
+  },
+  {
+    "latin": "Sōma Yukihira",
+    "hiragana": "そうま ゆきひら",
+    "anime": "Food Wars",
+    "role": "Jeune cuisinier du restaurant familial."
+  },
+  {
+    "latin": "Erina Nakiri",
+    "hiragana": "えりな なきり",
+    "anime": "Food Wars",
+    "role": "Cuisinière au palais divin."
+  },
+  {
+    "latin": "Megumi Tadokoro",
+    "hiragana": "めぐみ たどころ",
+    "anime": "Food Wars",
+    "role": "Cuisinière douce et persévérante."
+  },
+  {
+    "latin": "Ikumi Mito",
+    "hiragana": "いくみ みと",
+    "anime": "Food Wars",
+    "role": "Cuisinière spécialiste des viandes."
+  },
+  {
+    "latin": "Alice Nakiri",
+    "hiragana": "ありす なきり",
+    "anime": "Food Wars",
+    "role": "Cuisinière adepte de gastronomie moléculaire."
+  },
+  {
+    "latin": "Izumi Miyamura",
+    "hiragana": "いずみ みやむら",
+    "anime": "Horimiya",
+    "role": "Lycéen discret aux nombreux piercings."
+  },
+  {
+    "latin": "Yuki Yoshikawa",
+    "hiragana": "ゆき よしかわ",
+    "anime": "Horimiya",
+    "role": "Amie de Hori."
+  },
+  {
+    "latin": "Tōru Ishikawa",
+    "hiragana": "とおる いしかわ",
+    "anime": "Horimiya",
+    "role": "Ami de Miyamura et Hori."
+  },
+  {
+    "latin": "Sakura Kōno",
+    "hiragana": "さくら こうの",
+    "anime": "Horimiya",
+    "role": "Membre du conseil des élèves."
+  },
+  {
+    "latin": "Ranma Saotome",
+    "hiragana": "らんま さおとめ",
+    "anime": "Ranma 1/2",
+    "role": "Artiste martial victime d'une malédiction."
+  },
+  {
+    "latin": "Akane Tendō",
+    "hiragana": "あかね てんどう",
+    "anime": "Ranma 1/2",
+    "role": "Artiste martiale fiancée à Ranma."
+  },
+  {
+    "latin": "Nabiki Tendō",
+    "hiragana": "なびき てんどう",
+    "anime": "Ranma 1/2",
+    "role": "Sœur pragmatique d'Akane."
+  },
+  {
+    "latin": "Kasumi Tendō",
+    "hiragana": "かすみ てんどう",
+    "anime": "Ranma 1/2",
+    "role": "Aînée bienveillante des sœurs Tendo."
+  },
+  {
+    "latin": "Genma Saotome",
+    "hiragana": "げんま さおとめ",
+    "anime": "Ranma 1/2",
+    "role": "Père de Ranma transformé en panda."
+  },
+  {
+    "latin": "Asuna Yuuki",
+    "hiragana": "あすな ゆうき",
+    "anime": "Sword Art Online",
+    "role": "Épéiste et partenaire de Kirito."
+  },
+  {
+    "latin": "Suguha Kirigaya",
+    "hiragana": "すぐは きりがや",
+    "anime": "Sword Art Online",
+    "role": "Sœur de Kazuto et joueuse d'ALO."
+  },
+  {
+    "latin": "Shino Asada",
+    "hiragana": "しの あさだ",
+    "anime": "Sword Art Online",
+    "role": "Joueuse connue sous le nom de Sinon."
+  },
+  {
+    "latin": "Keiko Ayano",
+    "hiragana": "けいこ あやの",
+    "anime": "Sword Art Online",
+    "role": "Joueuse connue sous le nom de Silica."
+  },
+  {
+    "latin": "Rika Shinozaki",
+    "hiragana": "りか しのざき",
+    "anime": "Sword Art Online",
+    "role": "Forgeronne connue sous le nom de Lisbeth."
+  },
+  {
+    "latin": "Yui",
+    "hiragana": "ゆい",
+    "anime": "Sword Art Online",
+    "role": "Intelligence artificielle proche de Kirito."
+  },
+  {
+    "latin": "Mitsuha Miyamizu",
+    "hiragana": "みつは みやみず",
+    "anime": "Your Name",
+    "role": "Lycéenne vivant à Itomori."
+  },
+  {
+    "latin": "Taki Tachibana",
+    "hiragana": "たき たちばな",
+    "anime": "Your Name",
+    "role": "Lycéen de Tokyo lié à Mitsuha."
+  },
+  {
+    "latin": "Sayaka Natori",
+    "hiragana": "さやか なとり",
+    "anime": "Your Name",
+    "role": "Amie de Mitsuha."
+  },
+  {
+    "latin": "Toshiki Miyamizu",
+    "hiragana": "としき みやみず",
+    "anime": "Your Name",
+    "role": "Père de Mitsuha et maire d'Itomori."
+  },
+  {
+    "latin": "Tenya Iida",
+    "hiragana": "てんや いいだ",
+    "anime": "My Hero Academia",
+    "role": "Délégué de classe à la vitesse remarquable."
+  },
+  {
+    "latin": "Eijirō Kirishima",
+    "hiragana": "えいじろう きりしま",
+    "anime": "My Hero Academia",
+    "role": "Élève héros capable de durcir son corps."
+  },
+  {
+    "latin": "Tsuyu Asui",
+    "hiragana": "つゆ あすい",
+    "anime": "My Hero Academia",
+    "role": "Élève héroïne aux capacités de grenouille."
+  },
+  {
+    "latin": "Fumikage Tokoyami",
+    "hiragana": "ふみかげ とこやみ",
+    "anime": "My Hero Academia",
+    "role": "Élève héros accompagné de Dark Shadow."
+  },
+  {
+    "latin": "Tamaki Amajiki",
+    "hiragana": "たまき あまじき",
+    "anime": "My Hero Academia",
+    "role": "Membre des Big Three de Yuei."
+  },
+  {
+    "latin": "Tomura Shigaraki",
+    "hiragana": "とむら しがらき",
+    "anime": "My Hero Academia",
+    "role": "Chef de l'Alliance des super-vilains."
+  },
+  {
+    "latin": "Crocodile",
+    "hiragana": "くろこだいる",
+    "anime": "One Piece",
+    "role": "Ancien Grand Corsaire, chef de Baroque Works."
+  },
+  {
+    "latin": "Mihawk",
+    "hiragana": "みほおく",
+    "anime": "One Piece",
+    "role": "Sabreur redouté, ancien Grand Corsaire."
+  },
+  {
+    "latin": "Vivi",
+    "hiragana": "びび",
+    "anime": "One Piece",
+    "role": "Princesse du royaume d'Alabasta."
+  },
+  {
+    "latin": "Nico Olvia",
+    "hiragana": "にこ おるびあ",
+    "anime": "One Piece",
+    "role": "Archéologue d'Ohara et mère de Robin."
+  },
+  {
+    "latin": "Shirahoshi",
+    "hiragana": "しらほし",
+    "anime": "One Piece",
+    "role": "Princesse sirène de l'île des Hommes-Poissons."
+  },
+  {
+    "latin": "Arlong",
+    "hiragana": "ああろんぐ",
+    "anime": "One Piece",
+    "role": "Pirate homme-poisson ennemi de Nami."
+  },
+  {
+    "latin": "Bepo",
+    "hiragana": "べぽ",
+    "anime": "One Piece",
+    "role": "Navigateur des Heart Pirates et compagnon de Law."
+  },
+  {
+    "latin": "Law",
+    "hiragana": "ろお",
+    "anime": "One Piece",
+    "role": "Capitaine des Heart Pirates, surnommé Chirurgien de la Mort."
+  },
+  {
+    "latin": "Killer",
+    "hiragana": "きらあ",
+    "anime": "One Piece",
+    "role": "Combattant des Pirates de Kid."
+  },
+  {
+    "latin": "Kaidō",
+    "hiragana": "かいどう",
+    "anime": "One Piece",
+    "role": "Empereur pirate et ancien souverain de Wano."
+  },
+  {
+    "latin": "Linlin",
+    "hiragana": "りんりん",
+    "anime": "One Piece",
+    "role": "Véritable prénom de Big Mom."
+  },
+  {
+    "latin": "Katakuri",
+    "hiragana": "かたくり",
+    "anime": "One Piece",
+    "role": "Fils de Big Mom et puissant combattant de son équipage."
+  },
+  {
+    "latin": "Perospero",
+    "hiragana": "ぺろすぺろお",
+    "anime": "One Piece",
+    "role": "Fils aîné de Big Mom, utilisateur du fruit du bonbon."
+  },
+  {
+    "latin": "Smoothie",
+    "hiragana": "すむうじい",
+    "anime": "One Piece",
+    "role": "Une des commandantes de l'équipage de Big Mom."
+  },
+  {
+    "latin": "Pudding",
+    "hiragana": "ぷりん",
+    "anime": "One Piece",
+    "role": "Fille de Big Mom et proche de Sanji."
+  },
+  {
+    "latin": "Daifuku",
+    "hiragana": "だいふく",
+    "anime": "One Piece",
+    "role": "Fils de Big Mom capable d'invoquer un génie."
+  },
+  {
+    "latin": "Oven",
+    "hiragana": "おおぶん",
+    "anime": "One Piece",
+    "role": "Fils de Big Mom maîtrisant la chaleur."
+  },
+  {
+    "latin": "Tamago",
+    "hiragana": "たまご",
+    "anime": "One Piece",
+    "role": "Combattant au service de Big Mom."
+  },
+  {
+    "latin": "Pekoms",
+    "hiragana": "ぺこむず",
+    "anime": "One Piece",
+    "role": "Combattant homme-lion des Pirates de Big Mom."
+  },
+  {
+    "latin": "Ichiji",
+    "hiragana": "いちじ",
+    "anime": "One Piece",
+    "role": "Frère de Sanji, membre du Germa 66."
+  },
+  {
+    "latin": "Niji",
+    "hiragana": "にじ",
+    "anime": "One Piece",
+    "role": "Frère de Sanji, membre du Germa 66."
+  },
+  {
+    "latin": "Yonji",
+    "hiragana": "よんじ",
+    "anime": "One Piece",
+    "role": "Frère de Sanji, membre du Germa 66."
+  },
+  {
+    "latin": "Zeff",
+    "hiragana": "ぜふ",
+    "anime": "One Piece",
+    "role": "Chef cuisinier du Baratie et père adoptif de Sanji."
+  },
+  {
+    "latin": "Gin",
+    "hiragana": "ぎん",
+    "anime": "One Piece",
+    "role": "Pirate ayant noué un lien avec Sanji au Baratie."
+  },
+  {
+    "latin": "Don Krieg",
+    "hiragana": "どん くりいく",
+    "anime": "One Piece",
+    "role": "Capitaine pirate vaincu au Baratie."
+  },
+  {
+    "latin": "Bellamy",
+    "hiragana": "べらみい",
+    "anime": "One Piece",
+    "role": "Pirate ayant croisé la route de Luffy à Jaya."
+  },
+  {
+    "latin": "Doflamingo",
+    "hiragana": "どふらみんご",
+    "anime": "One Piece",
+    "role": "Ancien Grand Corsaire et tyran de Dressrosa."
+  },
+  {
+    "latin": "Rosinante",
+    "hiragana": "ろしなんて",
+    "anime": "One Piece",
+    "role": "Frère de Doflamingo et protecteur de Law."
+  },
+  {
+    "latin": "Kuma",
+    "hiragana": "くま",
+    "anime": "One Piece",
+    "role": "Ancien Grand Corsaire lié à l'Armée révolutionnaire."
+  },
+  {
+    "latin": "Bonney",
+    "hiragana": "ぼにい",
+    "anime": "One Piece",
+    "role": "Pirate de la Pire Génération, fille de Kuma."
+  },
+  {
+    "latin": "Smoker",
+    "hiragana": "すもおかあ",
+    "anime": "One Piece",
+    "role": "Vice-amiral de la Marine maîtrisant la fumée."
+  },
+  {
+    "latin": "Hina",
+    "hiragana": "ひな",
+    "anime": "One Piece",
+    "role": "Officière de la Marine, collègue de Smoker."
+  },
+  {
+    "latin": "Koby",
+    "hiragana": "こびい",
+    "anime": "One Piece",
+    "role": "Jeune marine et ami de Luffy."
+  },
+  {
+    "latin": "Sengoku",
+    "hiragana": "せんごく",
+    "anime": "One Piece",
+    "role": "Ancien amiral en chef de la Marine."
+  },
+  {
+    "latin": "Akainu",
+    "hiragana": "あかいぬ",
+    "anime": "One Piece",
+    "role": "Surnom de Sakazuki, amiral en chef de la Marine."
+  },
+  {
+    "latin": "Aokiji",
+    "hiragana": "あおきじ",
+    "anime": "One Piece",
+    "role": "Surnom de Kuzan, ancien amiral de la Marine."
+  },
+  {
+    "latin": "Kizaru",
+    "hiragana": "きざる",
+    "anime": "One Piece",
+    "role": "Surnom de Borsalino, amiral de la Marine."
+  },
+  {
+    "latin": "Fujitora",
+    "hiragana": "ふじとら",
+    "anime": "One Piece",
+    "role": "Amiral aveugle capable de manipuler la gravité."
+  },
+  {
+    "latin": "Kuzan",
+    "hiragana": "くざん",
+    "anime": "One Piece",
+    "role": "Ancien amiral connu sous le nom d'Aokiji."
+  },
+  {
+    "latin": "Sakazuki",
+    "hiragana": "さかずき",
+    "anime": "One Piece",
+    "role": "Véritable nom d'Akainu."
+  },
+  {
+    "latin": "Borsalino",
+    "hiragana": "ぼるさりいの",
+    "anime": "One Piece",
+    "role": "Véritable nom de Kizaru."
+  },
+  {
+    "latin": "Perōna",
+    "hiragana": "ぺろおな",
+    "anime": "One Piece",
+    "role": "Pirate utilisant le pouvoir des fantômes."
+  },
+  {
+    "latin": "Moria",
+    "hiragana": "もりあ",
+    "anime": "One Piece",
+    "role": "Ancien Grand Corsaire et maître de Thriller Bark."
+  },
+  {
+    "latin": "Marco",
+    "hiragana": "まるこ",
+    "anime": "One Piece",
+    "role": "Commandant des pirates de Barbe Blanche."
+  },
+  {
+    "latin": "Ace",
+    "hiragana": "ええす",
+    "anime": "One Piece",
+    "role": "Frère juré de Luffy, ancien commandant de Barbe Blanche."
+  },
+  {
+    "latin": "Sabo",
+    "hiragana": "さぼ",
+    "anime": "One Piece",
+    "role": "Frère juré de Luffy et chef d'état-major révolutionnaire."
+  },
+  {
+    "latin": "Dragon",
+    "hiragana": "どらごん",
+    "anime": "One Piece",
+    "role": "Chef de l'Armée révolutionnaire et père de Luffy."
+  },
+  {
+    "latin": "Ivankov",
+    "hiragana": "いわんこふ",
+    "anime": "One Piece",
+    "role": "Révolutionnaire capable de modifier les hormones."
+  },
+  {
+    "latin": "Inazuma",
+    "hiragana": "いなずま",
+    "anime": "One Piece",
+    "role": "Révolutionnaire capable de découper la matière."
+  },
+  {
+    "latin": "Koala",
+    "hiragana": "こあら",
+    "anime": "One Piece",
+    "role": "Combattante et instructrice de l'Armée révolutionnaire."
+  },
+  {
+    "latin": "Rayleigh",
+    "hiragana": "れいりい",
+    "anime": "One Piece",
+    "role": "Ancien second de Roger, mentor de Luffy."
+  },
+  {
+    "latin": "Oden",
+    "hiragana": "おでん",
+    "anime": "One Piece",
+    "role": "Ancien daimyo de Kuri, grand samouraï de Wano."
+  },
+  {
+    "latin": "Kinemon",
+    "hiragana": "きんえもん",
+    "anime": "One Piece",
+    "role": "Samouraï de Wano et vassal des Kozuki."
+  },
+  {
+    "latin": "Momonosuke",
+    "hiragana": "もものすけ",
+    "anime": "One Piece",
+    "role": "Héritier de la famille Kozuki."
+  },
+  {
+    "latin": "Hiyori",
+    "hiragana": "ひより",
+    "anime": "One Piece",
+    "role": "Fille d'Oden et sœur de Momonosuke."
+  },
+  {
+    "latin": "Yamato",
+    "hiragana": "やまと",
+    "anime": "One Piece",
+    "role": "Enfant de Kaido, admirateur d'Oden."
+  },
+  {
+    "latin": "Otama",
+    "hiragana": "おたま",
+    "anime": "One Piece",
+    "role": "Fillette de Wano qui se lie d'amitié avec Luffy."
+  },
+  {
+    "latin": "Orochi",
+    "hiragana": "おろち",
+    "anime": "One Piece",
+    "role": "Ancien shogun tyrannique de Wano."
+  },
+  {
+    "latin": "Denjirō",
+    "hiragana": "でんじろう",
+    "anime": "One Piece",
+    "role": "Vassal d'Oden et Fourreau rouge."
+  },
+  {
+    "latin": "Inuarashi",
+    "hiragana": "いぬあらし",
+    "anime": "One Piece",
+    "role": "Dirigeant des Minks et Fourreau rouge."
+  },
+  {
+    "latin": "Nekomamushi",
+    "hiragana": "ねこまむし",
+    "anime": "One Piece",
+    "role": "Dirigeant des Minks et Fourreau rouge."
+  },
+  {
+    "latin": "Kawamatsu",
+    "hiragana": "かわまつ",
+    "anime": "One Piece",
+    "role": "Samouraï homme-poisson, Fourreau rouge."
+  },
+  {
+    "latin": "Shinobu",
+    "hiragana": "しのぶ",
+    "anime": "One Piece",
+    "role": "Kunoichi alliée des samouraïs de Wano."
+  },
+  {
+    "latin": "Hawkins",
+    "hiragana": "ほおきんす",
+    "anime": "One Piece",
+    "role": "Pirate de la Pire Génération adepte des cartes."
+  },
+  {
+    "latin": "Apoo",
+    "hiragana": "あぷう",
+    "anime": "One Piece",
+    "role": "Pirate utilisant la musique comme arme."
+  },
+  {
+    "latin": "Drake",
+    "hiragana": "どれえく",
+    "anime": "One Piece",
+    "role": "Pirate de la Pire Génération lié à SWORD."
+  },
+  {
+    "latin": "Pedro",
+    "hiragana": "ぺどろ",
+    "anime": "One Piece",
+    "role": "Combattant mink de l'île de Zou."
+  },
+  {
+    "latin": "Wanda",
+    "hiragana": "わんだ",
+    "anime": "One Piece",
+    "role": "Guerrière mink de l'île de Zou."
+  },
+  {
+    "latin": "Kuro",
+    "hiragana": "くろ",
+    "anime": "One Piece",
+    "role": "Ancien capitaine pirate de l'arc Village de Sirop."
+  },
+  {
+    "latin": "Kaya",
+    "hiragana": "かや",
+    "anime": "One Piece",
+    "role": "Amie d'Usopp, habitante du Village de Sirop."
+  },
+  {
+    "latin": "Nojiko",
+    "hiragana": "のじこ",
+    "anime": "One Piece",
+    "role": "Sœur adoptive de Nami."
+  },
+  {
+    "latin": "Genzō",
+    "hiragana": "げんぞう",
+    "anime": "One Piece",
+    "role": "Policier du village natal de Nami."
+  },
+  {
+    "latin": "Bellemere",
+    "hiragana": "べるめえる",
+    "anime": "One Piece",
+    "role": "Ancienne marine, mère adoptive de Nami."
+  },
+  {
+    "latin": "Lola",
+    "hiragana": "ろおら",
+    "anime": "One Piece",
+    "role": "Pirate liée à Thriller Bark et à Big Mom."
+  },
+  {
+    "latin": "Hisako Arato",
+    "hiragana": "ひさこ あらと",
+    "anime": "Food Wars",
+    "role": "Assistante fidèle d'Erina Nakiri."
+  },
+  {
+    "latin": "Yūki Yoshino",
+    "hiragana": "ゆうき よしの",
+    "anime": "Food Wars",
+    "role": "Résidente joyeuse du dortoir de l'Étoile Polaire."
+  },
+  {
+    "latin": "Zenji Marui",
+    "hiragana": "ぜんじ まるい",
+    "anime": "Food Wars",
+    "role": "Cuisinier érudit du dortoir de l'Étoile Polaire."
+  },
+  {
+    "latin": "Daigo Aoki",
+    "hiragana": "だいご あおき",
+    "anime": "Food Wars",
+    "role": "Résident du dortoir de l'Étoile Polaire."
+  },
+  {
+    "latin": "Nao Sadatsuka",
+    "hiragana": "なお さだつか",
+    "anime": "Food Wars",
+    "role": "Cuisinière spécialisée dans les odeurs fortes."
+  },
+  {
+    "latin": "Akira Hayama",
+    "hiragana": "あきら はやま",
+    "anime": "Food Wars",
+    "role": "Expert des épices et rival de Soma."
+  },
+  {
+    "latin": "Subaru Mimasaka",
+    "hiragana": "すばる みまさか",
+    "anime": "Food Wars",
+    "role": "Cuisinier capable de reproduire les techniques adverses."
+  },
+  {
+    "latin": "Terunori Kuga",
+    "hiragana": "てるのり くが",
+    "anime": "Food Wars",
+    "role": "Membre des Dix Maîtres, spécialiste de la cuisine chinoise."
+  },
+  {
+    "latin": "Nene Kinokuni",
+    "hiragana": "ねね きのくに",
+    "anime": "Food Wars",
+    "role": "Membre des Dix Maîtres, experte en soba."
+  },
+  {
+    "latin": "Etsuya Eizan",
+    "hiragana": "えつや えいざん",
+    "anime": "Food Wars",
+    "role": "Cuisinier homme d'affaires du Conseil des Dix."
+  },
+  {
+    "latin": "Gin Dōjima",
+    "hiragana": "ぎん どうじま",
+    "anime": "Food Wars",
+    "role": "Ancien premier siège, directeur de Totsuki Resorts."
+  },
+  {
+    "latin": "Azami Nakiri",
+    "hiragana": "あざみ なきり",
+    "anime": "Food Wars",
+    "role": "Père d'Erina et antagoniste de l'arc Central."
+  },
+  {
+    "latin": "Senzaemon Nakiri",
+    "hiragana": "せんざえもん なきり",
+    "anime": "Food Wars",
+    "role": "Grand-père d'Erina et ancien directeur de Totsuki."
+  },
+  {
+    "latin": "Leonora Nakiri",
+    "hiragana": "れおのら なきり",
+    "anime": "Food Wars",
+    "role": "Mère d'Alice et chercheuse culinaire."
+  },
+  {
+    "latin": "Mana Nakiri",
+    "hiragana": "まな なきり",
+    "anime": "Food Wars",
+    "role": "Mère d'Erina et détentrice du palais divin."
+  },
+  {
+    "latin": "Eishi Tsukasa",
+    "hiragana": "えいし つかさ",
+    "anime": "Food Wars",
+    "role": "Premier siège des Dix Maîtres de Totsuki."
+  },
+  {
+    "latin": "Rindō Kobayashi",
+    "hiragana": "りんどう こばやし",
+    "anime": "Food Wars",
+    "role": "Deuxième siège, curieuse de cuisines exotiques."
+  },
+  {
+    "latin": "Momo Akanegakubo",
+    "hiragana": "もも あかねがくぼ",
+    "anime": "Food Wars",
+    "role": "Spécialiste des pâtisseries du Conseil des Dix."
+  },
+  {
+    "latin": "Sōmei Saitō",
+    "hiragana": "そうめい さいとう",
+    "anime": "Food Wars",
+    "role": "Maître du sushi parmi les Dix Maîtres."
+  },
+  {
+    "latin": "Tōsuke Megishima",
+    "hiragana": "とうすけ めぎしま",
+    "anime": "Food Wars",
+    "role": "Expert du ramen et ancien troisième siège."
+  },
+  {
+    "latin": "Fumio Daimidō",
+    "hiragana": "ふみお だいみどう",
+    "anime": "Food Wars",
+    "role": "Responsable du dortoir de l'Étoile Polaire."
+  },
+  {
+    "latin": "Kojirō Shinomiya",
+    "hiragana": "こじろう しのみや",
+    "anime": "Food Wars",
+    "role": "Chef français renommé et ancien de Totsuki."
+  },
+  {
+    "latin": "Hinako Inui",
+    "hiragana": "ひなこ いぬい",
+    "anime": "Food Wars",
+    "role": "Ancienne élève de Totsuki devenue cheffe."
+  },
+  {
+    "latin": "Tamako Yukihira",
+    "hiragana": "たまこ ゆきひら",
+    "anime": "Food Wars",
+    "role": "Mère de Soma Yukihira."
+  },
+  {
+    "latin": "Kiyoshi Gōdabayashi",
+    "hiragana": "きよし ごうだばやし",
+    "anime": "Food Wars",
+    "role": "Élève de Totsuki, actif dans un club de recherche culinaire."
+  },
+  {
+    "latin": "Kanichi Konishi",
+    "hiragana": "かんいち こにし",
+    "anime": "Food Wars",
+    "role": "Président du club de recherche sur le donburi."
+  },
+  {
+    "latin": "Rentarō Kusunoki",
+    "hiragana": "れんたろう くすのき",
+    "anime": "Food Wars",
+    "role": "Cuisinier lié au groupe Central."
+  },
+  {
+    "latin": "Mea Yanai",
+    "hiragana": "めあ やない",
+    "anime": "Food Wars",
+    "role": "Étudiante de l'académie Totsuki."
+  },
+  {
+    "latin": "Shigemichi Kumai",
+    "hiragana": "しげみち くまい",
+    "anime": "Food Wars",
+    "role": "Étudiant de Totsuki et membre de son club de cuisine."
+  },
+  {
+    "latin": "Madoka Enomoto",
+    "hiragana": "まどか えのもと",
+    "anime": "Food Wars",
+    "role": "Élève de l'académie Totsuki."
+  },
+  {
+    "latin": "Yua Sasaki",
+    "hiragana": "ゆあ ささき",
+    "anime": "Food Wars",
+    "role": "Élève de l'académie Totsuki."
+  },
+  {
+    "latin": "Tetsuji Kabutoyama",
+    "hiragana": "てつじ かぶとやま",
+    "anime": "Food Wars",
+    "role": "Élève de Totsuki."
+  },
+  {
+    "latin": "Natsume Sendawara",
+    "hiragana": "なつめ せんだわら",
+    "anime": "Food Wars",
+    "role": "Juge des compétitions culinaires et professionnelle de l'alimentation."
+  },
+  {
+    "latin": "Orie Sendawara",
+    "hiragana": "おりえ せんだわら",
+    "anime": "Food Wars",
+    "role": "Sœur de Natsume et juge gastronomique."
+  },
+  {
+    "latin": "Takao Miyazato",
+    "hiragana": "たかお みやざと",
+    "anime": "Food Wars",
+    "role": "Président de la société de recherche culinaire."
+  },
+  {
+    "latin": "Anne",
+    "hiragana": "あん",
+    "anime": "Food Wars",
+    "role": "Juge gastronomique de l'organisation WGO."
+  },
+  {
+    "latin": "Toshinori Yagi",
+    "hiragana": "としのり やぎ",
+    "anime": "My Hero Academia",
+    "role": "Véritable nom d'All Might, symbole de la paix."
+  },
+  {
+    "latin": "Enji Todoroki",
+    "hiragana": "えんじ とどろき",
+    "anime": "My Hero Academia",
+    "role": "Véritable nom d'Endeavor, héros professionnel."
+  },
+  {
+    "latin": "Keigo Takami",
+    "hiragana": "けいご たかみ",
+    "anime": "My Hero Academia",
+    "role": "Véritable nom de Hawks, héros aux ailes rouges."
+  },
+  {
+    "latin": "Mirko",
+    "hiragana": "みるこ",
+    "anime": "My Hero Academia",
+    "role": "Héroïne professionnelle réputée pour ses coups de pied."
+  },
+  {
+    "latin": "Nemuri Kayama",
+    "hiragana": "ねむり かやま",
+    "anime": "My Hero Academia",
+    "role": "Véritable nom de Midnight, professeure de Yuei."
+  },
+  {
+    "latin": "Yū Takeyama",
+    "hiragana": "ゆう たけやま",
+    "anime": "My Hero Academia",
+    "role": "Véritable nom de Mt. Lady."
+  },
+  {
+    "latin": "Tōru Hagakure",
+    "hiragana": "とおる はがくれ",
+    "anime": "My Hero Academia",
+    "role": "Élève héroïne dont le corps est invisible."
+  },
+  {
+    "latin": "Mina Ashido",
+    "hiragana": "みな あしど",
+    "anime": "My Hero Academia",
+    "role": "Élève héroïne utilisant un acide corrosif."
+  },
+  {
+    "latin": "Kōji Kōda",
+    "hiragana": "こうじ こうだ",
+    "anime": "My Hero Academia",
+    "role": "Élève héros pouvant parler aux animaux."
+  },
+  {
+    "latin": "Rikidō Satō",
+    "hiragana": "りきどう さとう",
+    "anime": "My Hero Academia",
+    "role": "Élève héros dont la force augmente avec le sucre."
+  },
+  {
+    "latin": "Mashirao Ojirō",
+    "hiragana": "ましらお おじろう",
+    "anime": "My Hero Academia",
+    "role": "Élève héros utilisant sa queue au combat."
+  },
+  {
+    "latin": "Hanta Sero",
+    "hiragana": "はんた せろ",
+    "anime": "My Hero Academia",
+    "role": "Élève héros projetant du ruban adhésif."
+  },
+  {
+    "latin": "Yūga Aoyama",
+    "hiragana": "ゆうが あおやま",
+    "anime": "My Hero Academia",
+    "role": "Élève héros capable de lancer un rayon laser."
+  },
+  {
+    "latin": "Mirio Tōgata",
+    "hiragana": "みりお とおがた",
+    "anime": "My Hero Academia",
+    "role": "Membre des Big Three au pouvoir de perméation."
+  },
+  {
+    "latin": "Nejire Hadō",
+    "hiragana": "ねじれ はどう",
+    "anime": "My Hero Academia",
+    "role": "Membre des Big Three utilisant des vagues d'énergie."
+  },
+  {
+    "latin": "Hitoshi Shinsō",
+    "hiragana": "ひとし しんそう",
+    "anime": "My Hero Academia",
+    "role": "Élève capable de contrôler ceux qui lui répondent."
+  },
+  {
+    "latin": "Itsuka Kendō",
+    "hiragana": "いつか けんどう",
+    "anime": "My Hero Academia",
+    "role": "Déléguée de la classe 1-B, aux mains géantes."
+  },
+  {
+    "latin": "Tetsutetsu Tetsutetsu",
+    "hiragana": "てつてつ てつてつ",
+    "anime": "My Hero Academia",
+    "role": "Élève de 1-B capable de transformer son corps en acier."
+  },
+  {
+    "latin": "Neito Monoma",
+    "hiragana": "ねいと ものま",
+    "anime": "My Hero Academia",
+    "role": "Élève de 1-B capable de copier temporairement les Alters."
+  },
+  {
+    "latin": "Ibara Shiozaki",
+    "hiragana": "いばら しおざき",
+    "anime": "My Hero Academia",
+    "role": "Élève de 1-B aux cheveux en forme de lianes."
+  },
+  {
+    "latin": "Pony Tsunotori",
+    "hiragana": "ぽにい つのとり",
+    "anime": "My Hero Academia",
+    "role": "Élève de 1-B utilisant ses cornes."
+  },
+  {
+    "latin": "Manga Fukidashi",
+    "hiragana": "まんが ふきだし",
+    "anime": "My Hero Academia",
+    "role": "Élève de 1-B matérialisant les onomatopées."
+  },
+  {
+    "latin": "Kōsei Tsuburaba",
+    "hiragana": "こうせい つぶらば",
+    "anime": "My Hero Academia",
+    "role": "Élève de 1-B créant des murs d'air."
+  },
+  {
+    "latin": "Yōsetsu Awase",
+    "hiragana": "ようせつ あわせ",
+    "anime": "My Hero Academia",
+    "role": "Élève de 1-B capable de souder les objets."
+  },
+  {
+    "latin": "Reiko Yanagi",
+    "hiragana": "れいこ やなぎ",
+    "anime": "My Hero Academia",
+    "role": "Élève de 1-B déplaçant des objets à distance."
+  },
+  {
+    "latin": "Sen Kaibara",
+    "hiragana": "せん かいばら",
+    "anime": "My Hero Academia",
+    "role": "Élève de 1-B capable de faire tourner son corps."
+  },
+  {
+    "latin": "Togaru Kamakiri",
+    "hiragana": "とがる かまきり",
+    "anime": "My Hero Academia",
+    "role": "Élève de 1-B faisant apparaître des lames."
+  },
+  {
+    "latin": "Kojirō Bondo",
+    "hiragana": "こじろう ぼんど",
+    "anime": "My Hero Academia",
+    "role": "Élève de 1-B produisant de la colle."
+  },
+  {
+    "latin": "Shihai Kuroiro",
+    "hiragana": "しはい くろいろ",
+    "anime": "My Hero Academia",
+    "role": "Élève de 1-B fusionnant avec les matières sombres."
+  },
+  {
+    "latin": "Dabi",
+    "hiragana": "だび",
+    "anime": "My Hero Academia",
+    "role": "Vilain utilisant des flammes bleues."
+  },
+  {
+    "latin": "Himiko Toga",
+    "hiragana": "ひみこ とが",
+    "anime": "My Hero Academia",
+    "role": "Vilaine capable de prendre l'apparence d'autrui."
+  },
+  {
+    "latin": "Jin Bubaigawara",
+    "hiragana": "じん ぶばいがわら",
+    "anime": "My Hero Academia",
+    "role": "Véritable nom de Twice, membre de l'Alliance des vilains."
+  },
+  {
+    "latin": "Spinner",
+    "hiragana": "すぴなあ",
+    "anime": "My Hero Academia",
+    "role": "Vilain à l'apparence de lézard."
+  },
+  {
+    "latin": "Compress",
+    "hiragana": "こんぷれす",
+    "anime": "My Hero Academia",
+    "role": "Vilain qui peut comprimer les personnes et les objets."
+  },
+  {
+    "latin": "Kurogiri",
+    "hiragana": "くろぎり",
+    "anime": "My Hero Academia",
+    "role": "Vilain générant des portails de brume."
+  },
+  {
+    "latin": "Stain",
+    "hiragana": "すていん",
+    "anime": "My Hero Academia",
+    "role": "Tueur de héros connu pour son idéologie radicale."
+  },
+  {
+    "latin": "Kai Chisaki",
+    "hiragana": "かい ちさき",
+    "anime": "My Hero Academia",
+    "role": "Chef yakuza surnommé Overhaul."
+  },
+  {
+    "latin": "Eri",
+    "hiragana": "えり",
+    "anime": "My Hero Academia",
+    "role": "Fillette possédant un Alter de rembobinage."
+  },
+  {
+    "latin": "Kōta Izumi",
+    "hiragana": "こうた いずみ",
+    "anime": "My Hero Academia",
+    "role": "Enfant sauvé par Deku au camp d'entraînement."
+  },
+  {
+    "latin": "Nana Shimura",
+    "hiragana": "なな しむら",
+    "anime": "My Hero Academia",
+    "role": "Septième détentrice du One For All."
+  },
+  {
+    "latin": "Sorahiko Torino",
+    "hiragana": "そらひこ とりの",
+    "anime": "My Hero Academia",
+    "role": "Véritable nom du héros Gran Torino."
+  },
+  {
+    "latin": "Inko Midoriya",
+    "hiragana": "いんこ みどりや",
+    "anime": "My Hero Academia",
+    "role": "Mère d'Izuku Midoriya."
+  },
+  {
+    "latin": "Rei Todoroki",
+    "hiragana": "れい とどろき",
+    "anime": "My Hero Academia",
+    "role": "Mère de Shoto Todoroki."
+  },
+  {
+    "latin": "Fuyumi Todoroki",
+    "hiragana": "ふゆみ とどろき",
+    "anime": "My Hero Academia",
+    "role": "Sœur aînée de Shoto Todoroki."
+  },
+  {
+    "latin": "Natsuo Todoroki",
+    "hiragana": "なつお とどろき",
+    "anime": "My Hero Academia",
+    "role": "Frère aîné de Shoto Todoroki."
+  },
+  {
+    "latin": "Tōya Todoroki",
+    "hiragana": "とうや とどろき",
+    "anime": "My Hero Academia",
+    "role": "Fils d'Endeavor au passé tragique."
+  },
+  {
+    "latin": "Shikamaru Nara",
+    "hiragana": "しかまる なら",
+    "anime": "Naruto",
+    "role": "Stratège du village de Konoha."
+  },
+  {
+    "latin": "Ino Yamanaka",
+    "hiragana": "いの やまなか",
+    "anime": "Naruto",
+    "role": "Ninja du clan Yamanaka, amie de Sakura."
+  },
+  {
+    "latin": "Neji",
+    "hiragana": "ねじ",
+    "anime": "Naruto",
+    "role": "Ninja génial du clan Hyuga."
+  },
+  {
+    "latin": "Might Guy",
+    "hiragana": "まいと がい",
+    "anime": "Naruto",
+    "role": "Expert du taijutsu, mentor de Lee."
+  },
+  {
+    "latin": "Tenten",
+    "hiragana": "てんてん",
+    "anime": "Naruto",
+    "role": "Kunoichi spécialiste des armes."
+  },
+  {
+    "latin": "Kiba Inuzuka",
+    "hiragana": "きば いぬづか",
+    "anime": "Naruto",
+    "role": "Ninja combattant avec son chien Akamaru."
+  },
+  {
+    "latin": "Shino Aburame",
+    "hiragana": "しの あぶらめ",
+    "anime": "Naruto",
+    "role": "Ninja utilisant des insectes."
+  },
+  {
+    "latin": "Kurenai Yūhi",
+    "hiragana": "くれない ゆうひ",
+    "anime": "Naruto",
+    "role": "Jônin experte en genjutsu."
+  },
+  {
+    "latin": "Asuma Sarutobi",
+    "hiragana": "あすま さるとび",
+    "anime": "Naruto",
+    "role": "Mentor de l'équipe de Shikamaru."
+  },
+  {
+    "latin": "Hiruzen Sarutobi",
+    "hiragana": "ひるぜん さるとび",
+    "anime": "Naruto",
+    "role": "Troisième Hokage de Konoha."
+  },
+  {
+    "latin": "Konohamaru Sarutobi",
+    "hiragana": "このはまる さるとび",
+    "anime": "Naruto",
+    "role": "Élève de Naruto et futur sensei de Boruto."
+  },
+  {
+    "latin": "Tsunade",
+    "hiragana": "つなで",
+    "anime": "Naruto",
+    "role": "Cinquième Hokage et ninja médecin."
+  },
+  {
+    "latin": "Jiraiya",
+    "hiragana": "じらいや",
+    "anime": "Naruto",
+    "role": "Sannin légendaire, mentor de Naruto."
+  },
+  {
+    "latin": "Orochimaru",
+    "hiragana": "おろちまる",
+    "anime": "Naruto",
+    "role": "Sannin légendaire obsédé par les techniques interdites."
+  },
+  {
+    "latin": "Kabuto Yakushi",
+    "hiragana": "かぶと やくし",
+    "anime": "Naruto",
+    "role": "Ninja espion et bras droit d'Orochimaru."
+  },
+  {
+    "latin": "Itachi Uchiha",
+    "hiragana": "いたち うちは",
+    "anime": "Naruto",
+    "role": "Frère aîné de Sasuke, membre de l'Akatsuki."
+  },
+  {
+    "latin": "Obito Uchiha",
+    "hiragana": "おびと うちは",
+    "anime": "Naruto",
+    "role": "Ancien coéquipier de Kakashi devenu antagoniste."
+  },
+  {
+    "latin": "Madara Uchiha",
+    "hiragana": "まだら うちは",
+    "anime": "Naruto",
+    "role": "Fondateur du clan Uchiha et adversaire légendaire."
+  },
+  {
+    "latin": "Shisui Uchiha",
+    "hiragana": "しすい うちは",
+    "anime": "Naruto",
+    "role": "Ninja Uchiha admiré pour sa vitesse."
+  },
+  {
+    "latin": "Fugaku Uchiha",
+    "hiragana": "ふがく うちは",
+    "anime": "Naruto",
+    "role": "Père d'Itachi et Sasuke."
+  },
+  {
+    "latin": "Mikoto Uchiha",
+    "hiragana": "みこと うちは",
+    "anime": "Naruto",
+    "role": "Mère d'Itachi et Sasuke."
+  },
+  {
+    "latin": "Tobirama",
+    "hiragana": "とびらま",
+    "anime": "Naruto",
+    "role": "Deuxième Hokage et frère de Hashirama."
+  },
+  {
+    "latin": "Kakuzu",
+    "hiragana": "かくず",
+    "anime": "Naruto",
+    "role": "Membre de l'Akatsuki aux multiples cœurs."
+  },
+  {
+    "latin": "Hidan",
+    "hiragana": "ひだん",
+    "anime": "Naruto",
+    "role": "Membre immortel de l'Akatsuki."
+  },
+  {
+    "latin": "Deidara",
+    "hiragana": "でいだら",
+    "anime": "Naruto",
+    "role": "Artiste explosif de l'Akatsuki."
+  },
+  {
+    "latin": "Sasori",
+    "hiragana": "さそり",
+    "anime": "Naruto",
+    "role": "Marionnettiste de l'Akatsuki."
+  },
+  {
+    "latin": "Kisame Hoshigaki",
+    "hiragana": "きさめ ほしがき",
+    "anime": "Naruto",
+    "role": "Épéiste de Kiri et partenaire d'Itachi."
+  },
+  {
+    "latin": "Konan",
+    "hiragana": "こなん",
+    "anime": "Naruto",
+    "role": "Membre de l'Akatsuki maîtrisant le papier."
+  },
+  {
+    "latin": "Nagato",
+    "hiragana": "ながと",
+    "anime": "Naruto",
+    "role": "Ninja de la Pluie lié aux Six Chemins de Pain."
+  },
+  {
+    "latin": "Yahiko",
+    "hiragana": "やひこ",
+    "anime": "Naruto",
+    "role": "Fondateur de l'Akatsuki originelle."
+  },
+  {
+    "latin": "Zetsu",
+    "hiragana": "ぜつ",
+    "anime": "Naruto",
+    "role": "Espion de l'Akatsuki."
+  },
+  {
+    "latin": "Pain",
+    "hiragana": "ぺいん",
+    "anime": "Naruto",
+    "role": "Identité associée aux Six Chemins de Nagato."
+  },
+  {
+    "latin": "Gaara",
+    "hiragana": "があら",
+    "anime": "Naruto",
+    "role": "Kazekage du village de Suna."
+  },
+  {
+    "latin": "Temari",
+    "hiragana": "てまり",
+    "anime": "Naruto",
+    "role": "Kunoichi de Suna, sœur de Gaara."
+  },
+  {
+    "latin": "Kankurō",
+    "hiragana": "かんくろう",
+    "anime": "Naruto",
+    "role": "Marionnettiste de Suna, frère de Gaara."
+  },
+  {
+    "latin": "Rasa",
+    "hiragana": "らさ",
+    "anime": "Naruto",
+    "role": "Quatrième Kazekage, père de Gaara."
+  },
+  {
+    "latin": "Karin",
+    "hiragana": "かりん",
+    "anime": "Naruto",
+    "role": "Ninja sensorielle de l'équipe de Sasuke."
+  },
+  {
+    "latin": "Suigetsu Hōzuki",
+    "hiragana": "すいげつ ほおずき",
+    "anime": "Naruto",
+    "role": "Ninja de Kiri allié de Sasuke."
+  },
+  {
+    "latin": "Sai",
+    "hiragana": "さい",
+    "anime": "Naruto",
+    "role": "Ancien membre de la Racine devenu allié de Naruto."
+  },
+  {
+    "latin": "Yamato",
+    "hiragana": "やまと",
+    "anime": "Naruto",
+    "role": "Ninja de Konoha maîtrisant le Mokuton."
+  },
+  {
+    "latin": "Danzō Shimura",
+    "hiragana": "だんぞう しむら",
+    "anime": "Naruto",
+    "role": "Chef de la Racine et homme politique de Konoha."
+  },
+  {
+    "latin": "Iruka Umino",
+    "hiragana": "いるか うみの",
+    "anime": "Naruto",
+    "role": "Professeur de l'Académie ninja et soutien de Naruto."
+  },
+  {
+    "latin": "Rin Nohara",
+    "hiragana": "りん のはら",
+    "anime": "Naruto",
+    "role": "Ancienne camarade de Kakashi et Obito."
+  },
+  {
+    "latin": "Kushina Uzumaki",
+    "hiragana": "くしな うずまき",
+    "anime": "Naruto",
+    "role": "Mère de Naruto et ancienne hôte de Kyubi."
+  },
+  {
+    "latin": "Killer Bee",
+    "hiragana": "きらあ びい",
+    "anime": "Naruto",
+    "role": "Hôte du démon à huit queues, rappeur et ninja."
+  },
+  {
+    "latin": "Mei Terumi",
+    "hiragana": "めい てるみ",
+    "anime": "Naruto",
+    "role": "Cinquième Mizukage du village de Kiri."
+  },
+  {
+    "latin": "Ōnoki",
+    "hiragana": "おおのき",
+    "anime": "Naruto",
+    "role": "Troisième Tsuchikage du village d'Iwa."
+  },
+  {
+    "latin": "Darui",
+    "hiragana": "だるい",
+    "anime": "Naruto",
+    "role": "Ninja de Kumo devenu Raikage."
+  },
+  {
+    "latin": "Karui",
+    "hiragana": "かるい",
+    "anime": "Naruto",
+    "role": "Kunoichi du village de Kumo."
+  },
+  {
+    "latin": "Omoi",
+    "hiragana": "おもい",
+    "anime": "Naruto",
+    "role": "Ninja de Kumo au tempérament anxieux."
+  },
+  {
+    "latin": "Utakata",
+    "hiragana": "うたかた",
+    "anime": "Naruto",
+    "role": "Hôte du démon à six queues."
+  },
+  {
+    "latin": "Yugito Nii",
+    "hiragana": "ゆぎと にい",
+    "anime": "Naruto",
+    "role": "Hôte du démon à deux queues."
+  },
+  {
+    "latin": "Yagura",
+    "hiragana": "やぐら",
+    "anime": "Naruto",
+    "role": "Quatrième Mizukage et ancien hôte de Sanbi."
+  },
+  {
+    "latin": "Fuu",
+    "hiragana": "ふう",
+    "anime": "Naruto",
+    "role": "Hôte du démon à sept queues."
+  },
+  {
+    "latin": "Rōshi",
+    "hiragana": "ろうし",
+    "anime": "Naruto",
+    "role": "Hôte du démon à quatre queues."
+  },
+  {
+    "latin": "Han",
+    "hiragana": "はん",
+    "anime": "Naruto",
+    "role": "Hôte du démon à cinq queues."
+  },
+  {
+    "latin": "Kaguya Ōtsutsuki",
+    "hiragana": "かぐや おおつつき",
+    "anime": "Naruto",
+    "role": "Ancêtre du chakra, antagoniste majeur."
+  },
+  {
+    "latin": "Toneri Ōtsutsuki",
+    "hiragana": "とねり おおつつき",
+    "anime": "Naruto",
+    "role": "Descendant du clan Otsutsuki dans The Last."
+  },
+  {
+    "latin": "Shikadai Nara",
+    "hiragana": "しかだい なら",
+    "anime": "Boruto",
+    "role": "Fils de Shikamaru et Temari, jeune stratège."
+  },
+  {
+    "latin": "Inojin Yamanaka",
+    "hiragana": "いのじん やまなか",
+    "anime": "Boruto",
+    "role": "Fils de Sai et Ino, artiste ninja."
+  },
+  {
+    "latin": "Sumire Kakei",
+    "hiragana": "すみれ かけい",
+    "anime": "Boruto",
+    "role": "Ancienne déléguée de l'Académie de Boruto."
+  },
+  {
+    "latin": "Wasabi Izuno",
+    "hiragana": "わさび いずの",
+    "anime": "Boruto",
+    "role": "Kunoichi de la promotion de Boruto."
+  },
+  {
+    "latin": "Namida Suzumeno",
+    "hiragana": "なみだ すずめの",
+    "anime": "Boruto",
+    "role": "Amie de Wasabi aux cris redoutables."
+  },
+  {
+    "latin": "Iwabē Yuino",
+    "hiragana": "いわべえ ゆいの",
+    "anime": "Boruto",
+    "role": "Élève ninja de Konoha plus âgé que Boruto."
+  },
+  {
+    "latin": "Denki Kaminarimon",
+    "hiragana": "でんき かみなりもん",
+    "anime": "Boruto",
+    "role": "Ami de Boruto passionné de technologie."
+  },
+  {
+    "latin": "Metal Lee",
+    "hiragana": "めたる りい",
+    "anime": "Boruto",
+    "role": "Fils de Rock Lee et spécialiste du taijutsu."
+  },
+  {
+    "latin": "Houki Taketori",
+    "hiragana": "ほうき たけとり",
+    "anime": "Boruto",
+    "role": "Jeune ninja adepte des techniques d'Anbu."
+  },
+  {
+    "latin": "Yodo",
+    "hiragana": "よど",
+    "anime": "Boruto",
+    "role": "Kunoichi de Suna, coéquipière de Shinki."
+  },
+  {
+    "latin": "Araya",
+    "hiragana": "あらや",
+    "anime": "Boruto",
+    "role": "Ninja de Suna expert en marionnettes."
+  },
+  {
+    "latin": "Shinki",
+    "hiragana": "しんき",
+    "anime": "Boruto",
+    "role": "Fils adoptif de Gaara et utilisateur du sable de fer."
+  },
+  {
+    "latin": "Urashiki Ōtsutsuki",
+    "hiragana": "うらしき おおつつき",
+    "anime": "Boruto",
+    "role": "Membre du clan Otsutsuki."
+  },
+  {
+    "latin": "Ao",
+    "hiragana": "あお",
+    "anime": "Boruto",
+    "role": "Ancien ninja de Kiri lié à l'organisation Kara."
+  },
+  {
+    "latin": "Code",
+    "hiragana": "こおど",
+    "anime": "Boruto",
+    "role": "Membre de Kara dévoué à Isshiki."
+  },
+  {
+    "latin": "Eida",
+    "hiragana": "えいだ",
+    "anime": "Boruto",
+    "role": "Cyborg capable d'influencer les sentiments."
+  },
+  {
+    "latin": "Daemon",
+    "hiragana": "でえもん",
+    "anime": "Boruto",
+    "role": "Petit frère d'Eida doté d'un pouvoir de réflexion."
+  },
+  {
+    "latin": "Delta",
+    "hiragana": "でるた",
+    "anime": "Boruto",
+    "role": "Membre de Kara au corps artificiel."
+  },
+  {
+    "latin": "Boro",
+    "hiragana": "ぼろ",
+    "anime": "Boruto",
+    "role": "Membre de Kara utilisant des techniques virales."
+  },
+  {
+    "latin": "Kashin Kōji",
+    "hiragana": "かしん こうじ",
+    "anime": "Boruto",
+    "role": "Clone de Jiraiya et agent de Kara."
+  },
+  {
+    "latin": "Amado",
+    "hiragana": "あまど",
+    "anime": "Boruto",
+    "role": "Scientifique ayant créé plusieurs cyborgs de Kara."
+  },
+  {
+    "latin": "Jigen",
+    "hiragana": "じげん",
+    "anime": "Boruto",
+    "role": "Chef de Kara et réceptacle d'Isshiki."
+  },
+  {
+    "latin": "Momoshiki Ōtsutsuki",
+    "hiragana": "ももしき おおつつき",
+    "anime": "Boruto",
+    "role": "Membre du clan Otsutsuki lié au Karma de Boruto."
+  },
+  {
+    "latin": "Isshiki Ōtsutsuki",
+    "hiragana": "いしき おおつつき",
+    "anime": "Boruto",
+    "role": "Chef extraterrestre lié à l'organisation Kara."
+  },
+  {
+    "latin": "Natsumi Raimon",
+    "hiragana": "なつみ らいもん",
+    "anime": "Inazuma Eleven",
+    "role": "Manageuse de Raimon et alliée d'Endo.",
+    "saga": "Original"
+  },
+  {
+    "latin": "Aki Kino",
+    "hiragana": "あき きの",
+    "anime": "Inazuma Eleven",
+    "role": "Manageuse bienveillante de Raimon.",
+    "saga": "Original"
+  },
+  {
+    "latin": "Haruna Otonashi",
+    "hiragana": "はるな おとなし",
+    "anime": "Inazuma Eleven",
+    "role": "Manageuse de Raimon et sœur de Kido.",
+    "saga": "Original"
+  },
+  {
+    "latin": "Fuyuka Kudō",
+    "hiragana": "ふゆか くどう",
+    "anime": "Inazuma Eleven",
+    "role": "Manageuse d'Inazuma Japon.",
+    "saga": "Original"
+  },
+  {
+    "latin": "Rika Urabe",
+    "hiragana": "りか うらべ",
+    "anime": "Inazuma Eleven",
+    "role": "Joueuse de l'équipe d'Osaka CCC.",
+    "saga": "Original"
+  },
+  {
+    "latin": "Reina Yagami",
+    "hiragana": "れいな やがみ",
+    "anime": "Inazuma Eleven",
+    "role": "Ancienne joueuse de l'Académie Alius.",
+    "saga": "Original"
+  },
+  {
+    "latin": "Tōko Zaizen",
+    "hiragana": "とうこ ざいぜん",
+    "anime": "Inazuma Eleven",
+    "role": "Défenseuse alliée de Raimon.",
+    "saga": "Original"
+  },
+  {
+    "latin": "Terumi Afuro",
+    "hiragana": "てるみ あふろ",
+    "anime": "Inazuma Eleven",
+    "role": "Star de Zeus connue sous le surnom d'Aphrodi.",
+    "saga": "Original"
+  },
+  {
+    "latin": "Kōjirō Genda",
+    "hiragana": "こうじろう げんだ",
+    "anime": "Inazuma Eleven",
+    "role": "Gardien principal de la Royal Academy.",
+    "saga": "Original"
+  },
+  {
+    "latin": "Densuke Ōno",
+    "hiragana": "でんすけ おおの",
+    "anime": "Inazuma Eleven",
+    "role": "Défenseur de la Royal Academy.",
+    "saga": "Original"
+  },
+  {
+    "latin": "Kazuto Megane",
+    "hiragana": "かずと めがね",
+    "anime": "Inazuma Eleven",
+    "role": "Frère jumeau de Kakeru Megane, joueur candidat pour Inazuma Japon.",
+    "saga": "Original"
+  },
+  {
+    "latin": "Jin Kageno",
+    "hiragana": "じん かげの",
+    "anime": "Inazuma Eleven",
+    "role": "Défenseur discret de Raimon.",
+    "saga": "Original"
+  },
+  {
+    "latin": "Heigorō Kabeyama",
+    "hiragana": "へいごろう かべやま",
+    "anime": "Inazuma Eleven",
+    "role": "Défenseur robuste de Raimon.",
+    "saga": "Original"
+  },
+  {
+    "latin": "Shinichi Handa",
+    "hiragana": "しんいち はんだ",
+    "anime": "Inazuma Eleven",
+    "role": "Milieu polyvalent de Raimon.",
+    "saga": "Original"
+  },
+  {
+    "latin": "Sakichi Shishido",
+    "hiragana": "さきち ししど",
+    "anime": "Inazuma Eleven",
+    "role": "Milieu de terrain de Raimon.",
+    "saga": "Original"
+  },
+  {
+    "latin": "Kōsuke Matsuno",
+    "hiragana": "こうすけ まつの",
+    "anime": "Inazuma Eleven",
+    "role": "Milieu surnommé Max à Raimon.",
+    "saga": "Original"
+  },
+  {
+    "latin": "Daisuke Endō",
+    "hiragana": "だいすけ えんどう",
+    "anime": "Inazuma Eleven",
+    "role": "Grand-père de Mamoru Endo, gardien légendaire.",
+    "saga": "Original"
+  },
+  {
+    "latin": "Seigo Hibiki",
+    "hiragana": "せいご ひびき",
+    "anime": "Inazuma Eleven",
+    "role": "Entraîneur emblématique de Raimon.",
+    "saga": "Original"
+  },
+  {
+    "latin": "Reiji Kageyama",
+    "hiragana": "れいじ かげやま",
+    "anime": "Inazuma Eleven",
+    "role": "Ancien entraîneur de la Royal Academy.",
+    "saga": "Original"
+  },
+  {
+    "latin": "Osamu Saginuma",
+    "hiragana": "おさむ さぎぬま",
+    "anime": "Inazuma Eleven",
+    "role": "Joueur devenu gardien, connu comme Desarm.",
+    "saga": "Original"
+  },
+  {
+    "latin": "Hitomiko Kira",
+    "hiragana": "ひとみこ きら",
+    "anime": "Inazuma Eleven",
+    "role": "Entraîneuse de Raimon pendant la crise Alius.",
+    "saga": "Original"
+  },
+  {
+    "latin": "Haruya Nagumo",
+    "hiragana": "はるや なぐも",
+    "anime": "Inazuma Eleven",
+    "role": "Joueur d'Alius connu comme Burn.",
+    "saga": "Original"
+  },
+  {
+    "latin": "Fūsuke Suzuno",
+    "hiragana": "ふうすけ すずの",
+    "anime": "Inazuma Eleven",
+    "role": "Joueur d'Alius connu comme Gazelle.",
+    "saga": "Original"
+  },
+  {
+    "latin": "Rococo Urupa",
+    "hiragana": "ろここ うるぱ",
+    "anime": "Inazuma Eleven",
+    "role": "Gardien de Little Gigant au tournoi mondial.",
+    "saga": "Original"
+  },
+  {
+    "latin": "Taichi Sangoku",
+    "hiragana": "たいち さんごく",
+    "anime": "Inazuma Eleven",
+    "role": "Gardien de Raimon dans Inazuma GO.",
+    "saga": "GO"
+  },
+  {
+    "latin": "Shinsuke Nishizono",
+    "hiragana": "しんすけ にしぞの",
+    "anime": "Inazuma Eleven",
+    "role": "Petit gardien de Raimon GO.",
+    "saga": "GO"
+  },
+  {
+    "latin": "Hikaru Kageyama",
+    "hiragana": "ひかる かげやま",
+    "anime": "Inazuma Eleven",
+    "role": "Milieu et neveu de Reiji Kageyama dans GO.",
+    "saga": "GO"
+  },
+  {
+    "latin": "Kaiji Hamano",
+    "hiragana": "かいじ はまの",
+    "anime": "Inazuma Eleven",
+    "role": "Milieu de Raimon dans GO.",
+    "saga": "GO"
+  },
+  {
+    "latin": "Tsurumasa Hayami",
+    "hiragana": "つるまさ はやみ",
+    "anime": "Inazuma Eleven",
+    "role": "Joueur de Raimon dans GO.",
+    "saga": "GO"
+  },
+  {
+    "latin": "Daichi Amagi",
+    "hiragana": "だいち あまぎ",
+    "anime": "Inazuma Eleven",
+    "role": "Défenseur imposant de Raimon GO.",
+    "saga": "GO"
+  },
+  {
+    "latin": "Norihito Kurama",
+    "hiragana": "のりひと くらま",
+    "anime": "Inazuma Eleven",
+    "role": "Attaquant de Raimon GO.",
+    "saga": "GO"
+  },
+  {
+    "latin": "Gōichi Kurumada",
+    "hiragana": "ごういち くるまだ",
+    "anime": "Inazuma Eleven",
+    "role": "Défenseur de Raimon GO.",
+    "saga": "GO"
+  },
+  {
+    "latin": "Aoi Sorano",
+    "hiragana": "あおい そらの",
+    "anime": "Inazuma Eleven",
+    "role": "Manageuse de Raimon GO puis d'Earth Eleven.",
+    "saga": "GO"
+  },
+  {
+    "latin": "Akane Yamana",
+    "hiragana": "あかね やまな",
+    "anime": "Inazuma Eleven",
+    "role": "Manageuse du club de Raimon GO.",
+    "saga": "GO"
+  },
+  {
+    "latin": "Midori Seto",
+    "hiragana": "みどり せと",
+    "anime": "Inazuma Eleven",
+    "role": "Manageuse de Raimon GO.",
+    "saga": "GO"
+  },
+  {
+    "latin": "Zanark Avalonic",
+    "hiragana": "ざなあく あばろにく",
+    "anime": "Inazuma Eleven",
+    "role": "Puissant joueur et antagoniste de Chrono Stone.",
+    "saga": "GO Chrono Stone"
+  },
+  {
+    "latin": "Saru",
+    "hiragana": "さる",
+    "anime": "Inazuma Eleven",
+    "role": "Chef d'équipe adversaire de Chrono Stone.",
+    "saga": "GO Chrono Stone"
+  },
+  {
+    "latin": "Meia",
+    "hiragana": "めいあ",
+    "anime": "Inazuma Eleven",
+    "role": "Joueuse de Giru et de The Lagoon dans Chrono Stone.",
+    "saga": "GO Chrono Stone"
+  },
+  {
+    "latin": "Giris",
+    "hiragana": "ぎりす",
+    "anime": "Inazuma Eleven",
+    "role": "Joueur de Giru et de The Lagoon dans Chrono Stone.",
+    "saga": "GO Chrono Stone"
+  },
+  {
+    "latin": "Munemasa Ibuki",
+    "hiragana": "むねまさ いぶき",
+    "anime": "Inazuma Eleven",
+    "role": "Gardien de l'Earth Eleven dans GO Galaxy.",
+    "saga": "GO Galaxy"
+  },
+  {
+    "latin": "Konoha Morimura",
+    "hiragana": "このは もりむら",
+    "anime": "Inazuma Eleven",
+    "role": "Défenseuse de l'Earth Eleven dans GO Galaxy.",
+    "saga": "GO Galaxy"
+  },
+  {
+    "latin": "Kazuto Minaho",
+    "hiragana": "かずと みなほ",
+    "anime": "Inazuma Eleven",
+    "role": "Défenseur intelligent de l'Earth Eleven.",
+    "saga": "GO Galaxy"
+  },
+  {
+    "latin": "Jinichirō Manabe",
+    "hiragana": "じんいちろう まなべ",
+    "anime": "Inazuma Eleven",
+    "role": "Défenseur calculateur de l'Earth Eleven.",
+    "saga": "GO Galaxy"
+  },
+  {
+    "latin": "Shin Tetsukado",
+    "hiragana": "しん てつかど",
+    "anime": "Inazuma Eleven",
+    "role": "Défenseur de l'Earth Eleven.",
+    "saga": "GO Galaxy"
+  },
+  {
+    "latin": "Sakura Nozaki",
+    "hiragana": "さくら のざき",
+    "anime": "Inazuma Eleven",
+    "role": "Milieu de l'Earth Eleven et gymnaste.",
+    "saga": "GO Galaxy"
+  },
+  {
+    "latin": "Hayato Matatagi",
+    "hiragana": "はやと またたぎ",
+    "anime": "Inazuma Eleven",
+    "role": "Attaquant rapide de l'Earth Eleven dans Galaxy.",
+    "saga": "GO Galaxy"
+  },
+  {
+    "latin": "Zanakurō Ichikawa",
+    "hiragana": "ざなくろう いちかわ",
+    "anime": "Inazuma Eleven",
+    "role": "Attaquant de l'Earth Eleven dans Galaxy.",
+    "saga": "GO Galaxy"
+  },
+  {
+    "latin": "Asuto Inamori",
+    "hiragana": "あすと いなもり",
+    "anime": "Inazuma Eleven",
+    "role": "Héros de la série Inazuma Eleven Ares.",
+    "saga": "Ares"
+  },
+  {
+    "latin": "Sasuke Kozoumaru",
+    "hiragana": "さすけ こぞうまる",
+    "anime": "Inazuma Eleven",
+    "role": "Attaquant de Raimon dans Ares.",
+    "saga": "Ares"
+  },
+  {
+    "latin": "Tetsunosuke Goujin",
+    "hiragana": "てつのすけ ごうじん",
+    "anime": "Inazuma Eleven",
+    "role": "Attaquant passionné de Raimon dans Ares.",
+    "saga": "Ares"
+  },
+  {
+    "latin": "Hiro Okuiri",
+    "hiragana": "ひろ おくいり",
+    "anime": "Inazuma Eleven",
+    "role": "Milieu de Raimon dans Ares.",
+    "saga": "Ares"
+  },
+  {
+    "latin": "Tatsumi Michinari",
+    "hiragana": "たつみ みちなり",
+    "anime": "Inazuma Eleven",
+    "role": "Capitaine de Raimon dans Ares.",
+    "saga": "Ares"
+  },
+  {
+    "latin": "Kirina Hiura",
+    "hiragana": "きりな ひうら",
+    "anime": "Inazuma Eleven",
+    "role": "Milieu de Raimon, présent dans Ares et Orion.",
+    "saga": "Ares"
+  },
+  {
+    "latin": "Takashi Iwato",
+    "hiragana": "たかし いわと",
+    "anime": "Inazuma Eleven",
+    "role": "Défenseur de Raimon dans Ares.",
+    "saga": "Ares"
+  },
+  {
+    "latin": "Masakatsu Hiyori",
+    "hiragana": "まさかつ ひより",
+    "anime": "Inazuma Eleven",
+    "role": "Défenseur de Raimon dans Ares.",
+    "saga": "Ares"
+  },
+  {
+    "latin": "Yūichirō Mansaku",
+    "hiragana": "ゆういちろう まんさく",
+    "anime": "Inazuma Eleven",
+    "role": "Défenseur de Raimon, sélectionné dans Orion.",
+    "saga": "Ares"
+  },
+  {
+    "latin": "Norika Umihara",
+    "hiragana": "のりか うみはら",
+    "anime": "Inazuma Eleven",
+    "role": "Gardienne de Raimon dans Ares.",
+    "saga": "Ares"
+  },
+  {
+    "latin": "Yukinori Kameda",
+    "hiragana": "ゆきのり かめだ",
+    "anime": "Inazuma Eleven",
+    "role": "Entraîneur adjoint de Raimon dans Ares.",
+    "saga": "Ares"
+  },
+  {
+    "latin": "Tsukushi Ōtani",
+    "hiragana": "つくし おおたに",
+    "anime": "Inazuma Eleven",
+    "role": "Manageuse de Raimon dans Ares.",
+    "saga": "Ares"
+  },
+  {
+    "latin": "Anna Mikado",
+    "hiragana": "あんな みかど",
+    "anime": "Inazuma Eleven",
+    "role": "Manageuse de Raimon et d'Inazuma Japon.",
+    "saga": "Ares"
+  },
+  {
+    "latin": "Fuyuki Orio",
+    "hiragana": "ふゆき おりお",
+    "anime": "Inazuma Eleven",
+    "role": "Joueur de l'académie Seishou dans Ares.",
+    "saga": "Ares"
+  },
+  {
+    "latin": "Eiji Sasotsuka",
+    "hiragana": "えいじ さそつか",
+    "anime": "Inazuma Eleven",
+    "role": "Joueur de l'académie Seishou dans Ares.",
+    "saga": "Ares"
+  },
+  {
+    "latin": "Seiya Saotome",
+    "hiragana": "せいや さおとめ",
+    "anime": "Inazuma Eleven",
+    "role": "Joueur de l'académie Seishou dans Ares.",
+    "saga": "Ares"
+  },
+  {
+    "latin": "Tetsuya Futagotamagawa",
+    "hiragana": "てつや ふたごたまがわ",
+    "anime": "Inazuma Eleven",
+    "role": "Joueur de l'académie Seishou dans Ares.",
+    "saga": "Ares"
+  },
+  {
+    "latin": "Yūma Nosaka",
+    "hiragana": "ゆうま のさか",
+    "anime": "Inazuma Eleven",
+    "role": "Stratège de l'Outei Tsukinomiya dans Ares et Orion.",
+    "saga": "Ares"
+  },
+  {
+    "latin": "Seiya Nishikage",
+    "hiragana": "せいや にしかげ",
+    "anime": "Inazuma Eleven",
+    "role": "Gardien de l'Outei Tsukinomiya dans Ares.",
+    "saga": "Ares"
+  },
+  {
+    "latin": "Hiroto Kira",
+    "hiragana": "ひろと きら",
+    "anime": "Inazuma Eleven",
+    "role": "Attaquant de l'Eisei Gakuen dans Ares et Orion.",
+    "saga": "Ares"
+  },
+  {
+    "latin": "Tatsuya Kiyama",
+    "hiragana": "たつや きやま",
+    "anime": "Inazuma Eleven",
+    "role": "Milieu de l'Eisei Gakuen, sélectionné dans Orion.",
+    "saga": "Ares"
+  },
+  {
+    "latin": "Mitsuru Ichihoshi",
+    "hiragana": "みつる いちほし",
+    "anime": "Inazuma Eleven",
+    "role": "Frère de Hikaru, associé à l'histoire d'Orion.",
+    "saga": "Orion"
+  },
+  {
+    "latin": "Hikaru Ichihoshi",
+    "hiragana": "ひかる いちほし",
+    "anime": "Inazuma Eleven",
+    "role": "Joueur d'Inazuma Japon au centre de l'intrigue d'Orion.",
+    "saga": "Orion"
+  },
+  {
+    "latin": "Noboru Sakanoue",
+    "hiragana": "のぼる さかのうえ",
+    "anime": "Inazuma Eleven",
+    "role": "Défenseur d'Inazuma Japon dans Orion.",
+    "saga": "Orion"
+  },
+  {
+    "latin": "Froy Girikanan",
+    "hiragana": "ふろい ぎりかなん",
+    "anime": "Inazuma Eleven",
+    "role": "Joueur russe et rival d'Inazuma Japon dans Orion.",
+    "saga": "Orion"
+  },
+  {
+    "latin": "Natsu Dragneel",
+    "hiragana": "なつ どらぐにる",
+    "anime": "Fairy Tail",
+    "role": "Mage de feu élevé par le dragon Ignir."
+  },
+  {
+    "latin": "Lucy",
+    "hiragana": "るうしい",
+    "anime": "Fairy Tail",
+    "role": "Mage des esprits célestes, membre de Fairy Tail."
+  },
+  {
+    "latin": "Erza",
+    "hiragana": "えるざ",
+    "anime": "Fairy Tail",
+    "role": "Mage chevalière capable de changer d'armure."
+  },
+  {
+    "latin": "Gray Fullbuster",
+    "hiragana": "ぐれい ふるばすたあ",
+    "anime": "Fairy Tail",
+    "role": "Mage de glace de Fairy Tail."
+  },
+  {
+    "latin": "Gajeel",
+    "hiragana": "がじる",
+    "anime": "Fairy Tail",
+    "role": "Chasseur de dragons d'acier de Fairy Tail."
+  },
+  {
+    "latin": "Makarov Dreyar",
+    "hiragana": "まかろふ どれあ",
+    "anime": "Fairy Tail",
+    "role": "Troisième maître de la guilde Fairy Tail."
+  },
+  {
+    "latin": "Laxus Dreyar",
+    "hiragana": "らくさす どれあ",
+    "anime": "Fairy Tail",
+    "role": "Chasseur de dragons de foudre de Fairy Tail."
+  },
+  {
+    "latin": "Cana Alberona",
+    "hiragana": "かな あるべろおな",
+    "anime": "Fairy Tail",
+    "role": "Mage de Fairy Tail utilisant des cartes."
+  },
+  {
+    "latin": "Mavis Vermillion",
+    "hiragana": "めいびす ばあみりおん",
+    "anime": "Fairy Tail",
+    "role": "Fondatrice et première maîtresse de Fairy Tail."
+  },
+  {
+    "latin": "Lisanna Strauss",
+    "hiragana": "りさあな すとらうす",
+    "anime": "Fairy Tail",
+    "role": "Mage de transformation et sœur de Mirajane."
+  },
+  {
+    "latin": "Elfman Strauss",
+    "hiragana": "えるふまん すとらうす",
+    "anime": "Fairy Tail",
+    "role": "Mage de transformation, frère de Lisanna."
+  },
+  {
+    "latin": "Levy McGarden",
+    "hiragana": "れびい まくがあでん",
+    "anime": "Fairy Tail",
+    "role": "Membre de Shadow Gear et spécialiste des écritures."
+  },
+  {
+    "latin": "Fried",
+    "hiragana": "ふりいど",
+    "anime": "Fairy Tail",
+    "role": "Mage spécialisé dans les runes et les enchantements."
+  },
+  {
+    "latin": "Evergreen",
+    "hiragana": "えばあぐりいん",
+    "anime": "Fairy Tail",
+    "role": "Membre de l'unité Raijinshuu de Laxus."
+  },
+  {
+    "latin": "Panther Lily",
+    "hiragana": "ぱんさありりい",
+    "anime": "Fairy Tail",
+    "role": "Exceed allié de Gajeel."
+  },
+  {
+    "latin": "Loke",
+    "hiragana": "ろき",
+    "anime": "Fairy Tail",
+    "role": "Esprit céleste du Lion lié à Lucy."
+  },
+  {
+    "latin": "Macao Conbolt",
+    "hiragana": "まかお こんぼると",
+    "anime": "Fairy Tail",
+    "role": "Mage vétéran devenu maître par intérim de Fairy Tail."
+  },
+  {
+    "latin": "Wakaba Mine",
+    "hiragana": "わかば みね",
+    "anime": "Fairy Tail",
+    "role": "Mage vétéran et ami de Macao."
+  },
+  {
+    "latin": "Gildarts Clive",
+    "hiragana": "ぎるだあつ くらいぶ",
+    "anime": "Fairy Tail",
+    "role": "Mage de rang S au pouvoir destructeur."
+  },
+  {
+    "latin": "Zeref Dragneel",
+    "hiragana": "ぜれふ どらぐにる",
+    "anime": "Fairy Tail",
+    "role": "Mage noir lié au destin de Natsu."
+  },
+  {
+    "latin": "Acnologia",
+    "hiragana": "あくのろぎあ",
+    "anime": "Fairy Tail",
+    "role": "Chasseur de dragons devenu dragon noir."
+  },
+  {
+    "latin": "Kagura Mikazuchi",
+    "hiragana": "かぐら みかづち",
+    "anime": "Fairy Tail",
+    "role": "Épéiste de la guilde Mermaid Heel."
+  },
+  {
+    "latin": "Rogue",
+    "hiragana": "ろおぐ",
+    "anime": "Fairy Tail",
+    "role": "Chasseur de dragons des ombres de Sabertooth."
+  },
+  {
+    "latin": "Yukino Agria",
+    "hiragana": "ゆきの あぐりあ",
+    "anime": "Fairy Tail",
+    "role": "Mage des esprits célestes de Sabertooth."
+  },
+  {
+    "latin": "Ren Akatsuki",
+    "hiragana": "れん あかつき",
+    "anime": "Fairy Tail",
+    "role": "Mage de Blue Pegasus, membre des Trimens."
+  },
+  {
+    "latin": "Lyon",
+    "hiragana": "りおん",
+    "anime": "Fairy Tail",
+    "role": "Mage de glace rival de Gray."
+  },
+  {
+    "latin": "Flare Corona",
+    "hiragana": "ふれあ ころな",
+    "anime": "Fairy Tail",
+    "role": "Mage spécialisée dans ses cheveux."
+  },
+  {
+    "latin": "Minerva Orland",
+    "hiragana": "みねるば おおらんど",
+    "anime": "Fairy Tail",
+    "role": "Mage puissante de Sabertooth."
+  },
+  {
+    "latin": "Orga Nanagear",
+    "hiragana": "おるが なのぎあ",
+    "anime": "Fairy Tail",
+    "role": "Mage de foudre noire de Sabertooth."
+  },
+  {
+    "latin": "Mest Gryder",
+    "hiragana": "めすと ぐらいだあ",
+    "anime": "Fairy Tail",
+    "role": "Mage de téléportation et membre de Fairy Tail."
+  },
+  {
+    "latin": "August",
+    "hiragana": "おおがすと",
+    "anime": "Fairy Tail",
+    "role": "Puissant mage de l'empire Alvarez."
+  },
+  {
+    "latin": "Irene Belserion",
+    "hiragana": "あいりいん べるせりおん",
+    "anime": "Fairy Tail",
+    "role": "Mage d'Alvarez appelée la Reine des Dragons."
+  },
+  {
+    "latin": "Azuma",
+    "hiragana": "あずま",
+    "anime": "Fairy Tail",
+    "role": "Mage de Grimoire Heart maîtrisant la magie des arbres."
+  },
+  {
+    "latin": "Zancrow",
+    "hiragana": "ざんくろう",
+    "anime": "Fairy Tail",
+    "role": "Chasseur de dieux des flammes de Grimoire Heart."
+  },
+  {
+    "latin": "Hades",
+    "hiragana": "はです",
+    "anime": "Fairy Tail",
+    "role": "Maître de Grimoire Heart et ancien maître de Fairy Tail."
+  },
+  {
+    "latin": "Gabimaru",
+    "hiragana": "がびまる",
+    "anime": "Hell's Paradise",
+    "role": "Ninja condamné cherchant l'élixir de vie pour retrouver sa femme."
+  },
+  {
+    "latin": "Yamada Asaemon Sagiri",
+    "hiragana": "やまだ あさえもん さぎり",
+    "anime": "Hell's Paradise",
+    "role": "Bourreau et sabreuse accompagnant Gabimaru."
+  },
+  {
+    "latin": "Yuzuriha",
+    "hiragana": "ゆずりは",
+    "anime": "Hell's Paradise",
+    "role": "Kunoichi condamnée, experte en infiltration."
+  },
+  {
+    "latin": "Yamada Asaemon Shion",
+    "hiragana": "やまだ あさえもん しおん",
+    "anime": "Hell's Paradise",
+    "role": "Bourreau aveugle et maître de Tenza."
+  },
+  {
+    "latin": "Yamada Asaemon Tenza",
+    "hiragana": "やまだ あさえもん てんざ",
+    "anime": "Hell's Paradise",
+    "role": "Bourreau chargé de surveiller Nurugai."
+  },
+  {
+    "latin": "Yamada Asaemon Fuchi",
+    "hiragana": "やまだ あさえもん ふち",
+    "anime": "Hell's Paradise",
+    "role": "Bourreau aux talents médicaux."
+  },
+  {
+    "latin": "Yamada Asaemon Senta",
+    "hiragana": "やまだ あさえもん せんた",
+    "anime": "Hell's Paradise",
+    "role": "Bourreau lettré chargé de surveiller Yuzuriha."
+  },
+  {
+    "latin": "Tamiya Gantetsusai",
+    "hiragana": "たみや がんてつさい",
+    "anime": "Hell's Paradise",
+    "role": "Sabreur condamné en quête de l'élixir."
+  },
+  {
+    "latin": "Nurugai",
+    "hiragana": "ぬるがい",
+    "anime": "Hell's Paradise",
+    "role": "Jeune survivante accompagnée de Tenza."
+  },
+  {
+    "latin": "Aza Tōma",
+    "hiragana": "あざ とうま",
+    "anime": "Hell's Paradise",
+    "role": "Frère de Chobei infiltré parmi les bourreaux."
+  },
+  {
+    "latin": "Rokurōta",
+    "hiragana": "ろくろうた",
+    "anime": "Hell's Paradise",
+    "role": "Condamné géant envoyé sur l'île."
+  },
+  {
+    "latin": "Mei",
+    "hiragana": "めい",
+    "anime": "Hell's Paradise",
+    "role": "Enfant mystérieuse rencontrée sur l'île."
+  },
+  {
+    "latin": "Yui",
+    "hiragana": "ゆい",
+    "anime": "Hell's Paradise",
+    "role": "Épouse de Gabimaru qui lui donne une raison de vivre."
+  },
+  {
+    "latin": "Yamada Asaemon Eizen",
+    "hiragana": "やまだ あさえもん えいぜん",
+    "anime": "Hell's Paradise",
+    "role": "Bourreau classé premier de son école."
+  },
+  {
+    "latin": "Yamada Asaemon Genji",
+    "hiragana": "やまだ あさえもん げんじ",
+    "anime": "Hell's Paradise",
+    "role": "Bourreau participant à l'expédition."
+  },
+  {
+    "latin": "Aqua Hoshino",
+    "hiragana": "あくあ ほしの",
+    "anime": "Oshi no Ko",
+    "role": "Acteur aspirant à découvrir la vérité sur sa mère."
+  },
+  {
+    "latin": "Ruby Hoshino",
+    "hiragana": "るびい ほしの",
+    "anime": "Oshi no Ko",
+    "role": "Idole du groupe B-Komachi et sœur d'Aqua."
+  },
+  {
+    "latin": "Ai Hoshino",
+    "hiragana": "あい ほしの",
+    "anime": "Oshi no Ko",
+    "role": "Idole légendaire et mère des jumeaux."
+  },
+  {
+    "latin": "Kana Arima",
+    "hiragana": "かな ありま",
+    "anime": "Oshi no Ko",
+    "role": "Ancienne enfant actrice et membre de B-Komachi."
+  },
+  {
+    "latin": "Akane Kurokawa",
+    "hiragana": "あかね くろかわ",
+    "anime": "Oshi no Ko",
+    "role": "Actrice brillante douée pour l'imitation."
+  },
+  {
+    "latin": "Miyako Saitō",
+    "hiragana": "みやこ さいとう",
+    "anime": "Oshi no Ko",
+    "role": "Dirigeante de Strawberry Productions et tutrice des jumeaux."
+  },
+  {
+    "latin": "Ichigo Saitō",
+    "hiragana": "いちご さいとう",
+    "anime": "Oshi no Ko",
+    "role": "Ancien président de Strawberry Productions."
+  },
+  {
+    "latin": "Minami Kotobuki",
+    "hiragana": "みなみ ことぶき",
+    "anime": "Oshi no Ko",
+    "role": "Camarade de classe de Ruby et mannequin."
+  },
+  {
+    "latin": "Frill Shiranui",
+    "hiragana": "ふりる しらぬい",
+    "anime": "Oshi no Ko",
+    "role": "Actrice et élève très populaire."
+  },
+  {
+    "latin": "Taiki Himekawa",
+    "hiragana": "たいき ひめかわ",
+    "anime": "Oshi no Ko",
+    "role": "Acteur professionnel de la troupe Lalalai."
+  },
+  {
+    "latin": "Hikaru Kamiki",
+    "hiragana": "ひかる かみき",
+    "anime": "Oshi no Ko",
+    "role": "Personnage lié à l'enquête sur la mort d'Ai."
+  },
+  {
+    "latin": "Yura Katayose",
+    "hiragana": "ゆら かたよせ",
+    "anime": "Oshi no Ko",
+    "role": "Actrice populaire du milieu du divertissement."
+  },
+  {
+    "latin": "Gorō Amamiya",
+    "hiragana": "ごろう あまみや",
+    "anime": "Oshi no Ko",
+    "role": "Médecin fan d'Ai, lié au destin d'Aqua."
+  },
+  {
+    "latin": "Sarina Tendōji",
+    "hiragana": "さりな てんどうじ",
+    "anime": "Oshi no Ko",
+    "role": "Patiente passionnée d'idoles liée à Ruby."
+  },
+  {
+    "latin": "Masaya Kaburagi",
+    "hiragana": "まさや かぶらぎ",
+    "anime": "Oshi no Ko",
+    "role": "Producteur audiovisuel du milieu du spectacle."
+  },
+  {
+    "latin": "Rin Okumura",
+    "hiragana": "りん おくむら",
+    "anime": "Blue Exorcist",
+    "role": "Fils de Satan voulant devenir exorciste."
+  },
+  {
+    "latin": "Yukio Okumura",
+    "hiragana": "ゆきお おくむら",
+    "anime": "Blue Exorcist",
+    "role": "Frère jumeau de Rin et professeur exorciste."
+  },
+  {
+    "latin": "Shiemi Moriyama",
+    "hiragana": "しえみ もりやま",
+    "anime": "Blue Exorcist",
+    "role": "Jeune apprentie exorciste passionnée de plantes."
+  },
+  {
+    "latin": "Renzō Shima",
+    "hiragana": "れんぞう しま",
+    "anime": "Blue Exorcist",
+    "role": "Étudiant exorciste et ami de Rin."
+  },
+  {
+    "latin": "Konekomaru Miwa",
+    "hiragana": "こねこまる みわ",
+    "anime": "Blue Exorcist",
+    "role": "Étudiant exorciste et ami de Ryuji."
+  },
+  {
+    "latin": "Izumo Kamiki",
+    "hiragana": "いずも かみき",
+    "anime": "Blue Exorcist",
+    "role": "Apprentie exorciste capable d'invoquer des renards."
+  },
+  {
+    "latin": "Shirō Fujimoto",
+    "hiragana": "しろう ふじもと",
+    "anime": "Blue Exorcist",
+    "role": "Prêtre exorciste ayant élevé Rin et Yukio."
+  },
+  {
+    "latin": "Kuro",
+    "hiragana": "くろ",
+    "anime": "Blue Exorcist",
+    "role": "Démon chat lié à Rin Okumura."
+  },
+  {
+    "latin": "Tatsuma Suguro",
+    "hiragana": "たつま すぐろ",
+    "anime": "Blue Exorcist",
+    "role": "Prêtre du temple Myoda et père de Ryuji."
+  },
+  {
+    "latin": "Kinzō Shima",
+    "hiragana": "きんぞう しま",
+    "anime": "Blue Exorcist",
+    "role": "Frère de Renzo, exorciste du temple Myoda."
+  },
+  {
+    "latin": "Saburōta Tōdō",
+    "hiragana": "さぶろうた とうどう",
+    "anime": "Blue Exorcist",
+    "role": "Exorciste déchu, antagoniste de l'arc Kyoto."
+  },
+  {
+    "latin": "Nemu Takara",
+    "hiragana": "ねむ たから",
+    "anime": "Blue Exorcist",
+    "role": "Élève exorciste à l'apparence mystérieuse."
+  },
+  {
+    "latin": "Noriko Paku",
+    "hiragana": "のりこ ぱく",
+    "anime": "Blue Exorcist",
+    "role": "Amie d'Izumo à l'académie."
+  },
+  {
+    "latin": "Yuri Egin",
+    "hiragana": "ゆり えぎん",
+    "anime": "Blue Exorcist",
+    "role": "Mère de Rin et Yukio."
+  },
+  {
+    "latin": "Amaimon",
+    "hiragana": "あまいもん",
+    "anime": "Blue Exorcist",
+    "role": "Roi de la Terre, démon lié à Mephisto."
+  },
+  {
+    "latin": "Yuzuriha Ogawa",
+    "hiragana": "ゆずりは おがわ",
+    "anime": "Dr. Stone",
+    "role": "Amie de Senku qui aide à reconstruire le monde après la pétrification."
+  },
+  {
+    "latin": "Kohaku",
+    "hiragana": "こはく",
+    "anime": "Dr. Stone",
+    "role": "Guerrière du village Ishigami et alliée du Royaume de la science."
+  },
+  {
+    "latin": "Ruri",
+    "hiragana": "るり",
+    "anime": "Dr. Stone",
+    "role": "Prêtresse du village Ishigami et sœur de Kohaku."
+  },
+  {
+    "latin": "Chrome",
+    "hiragana": "くろむ",
+    "anime": "Dr. Stone",
+    "role": "Jeune inventeur passionné par les sciences."
+  },
+  {
+    "latin": "Suika",
+    "hiragana": "すいか",
+    "anime": "Dr. Stone",
+    "role": "Petite espionne du Royaume de la science, souvent cachée dans une pastèque."
+  },
+  {
+    "latin": "Kaseki",
+    "hiragana": "かせき",
+    "anime": "Dr. Stone",
+    "role": "Artisan expérimenté qui fabrique des inventions pour Senku."
+  },
+  {
+    "latin": "Kinrō",
+    "hiragana": "きんろう",
+    "anime": "Dr. Stone",
+    "role": "Garde du village Ishigami, frère aîné de Ginro."
+  },
+  {
+    "latin": "Ginrō",
+    "hiragana": "ぎんろう",
+    "anime": "Dr. Stone",
+    "role": "Garde du village Ishigami, frère cadet de Kinro."
+  },
+  {
+    "latin": "Magma",
+    "hiragana": "まぐま",
+    "anime": "Dr. Stone",
+    "role": "Combattant imposant du village Ishigami."
+  },
+  {
+    "latin": "Tsukasa Shishio",
+    "hiragana": "つかさ ししお",
+    "anime": "Dr. Stone",
+    "role": "Combattant surpuissant qui fonde son propre empire."
+  },
+  {
+    "latin": "Mirai Shishio",
+    "hiragana": "みらい ししお",
+    "anime": "Dr. Stone",
+    "role": "Petite sœur de Tsukasa, sauvée grâce à la science."
+  },
+  {
+    "latin": "Minami Hokutōzai",
+    "hiragana": "みなみ ほくとうざい",
+    "anime": "Dr. Stone",
+    "role": "Journaliste capable de reconnaître des personnes célèbres."
+  },
+  {
+    "latin": "Francois",
+    "hiragana": "ふらんそわ",
+    "anime": "Dr. Stone",
+    "role": "Majordome et cuisinier de Ryusui, membre de l'équipe scientifique."
+  },
+  {
+    "latin": "Moz",
+    "hiragana": "もず",
+    "anime": "Dr. Stone",
+    "role": "Guerrier redoutable de l'île au Trésor."
+  },
+  {
+    "latin": "Kirisame",
+    "hiragana": "きりさめ",
+    "anime": "Dr. Stone",
+    "role": "Combattante de l'île au Trésor chargée du dispositif de pétrification."
+  },
+  {
+    "latin": "Ibara",
+    "hiragana": "いばら",
+    "anime": "Dr. Stone",
+    "role": "Dirigeant manipulateur de l'île au Trésor."
+  },
+  {
+    "latin": "Soyuz",
+    "hiragana": "そゆうず",
+    "anime": "Dr. Stone",
+    "role": "Jeune homme lié au passé de l'île au Trésor."
+  },
+  {
+    "latin": "Matsukaze",
+    "hiragana": "まつかぜ",
+    "anime": "Dr. Stone",
+    "role": "Samouraï pétrifié qui rejoint le Royaume de la science."
+  },
+  {
+    "latin": "Sai Nanami",
+    "hiragana": "さい ななみ",
+    "anime": "Dr. Stone",
+    "role": "Mathématicien et programmeur, frère de Ryusui."
+  },
+  {
+    "latin": "Xeno",
+    "hiragana": "ぜの",
+    "anime": "Dr. Stone",
+    "role": "Scientifique américain rival de Senku."
+  },
+  {
+    "latin": "Stanley Snyder",
+    "hiragana": "すたんりい すないだあ",
+    "anime": "Dr. Stone",
+    "role": "Soldat d'élite américain fidèle au scientifique Xeno."
+  },
+  {
+    "latin": "Luna Wright",
+    "hiragana": "るうな らいと",
+    "anime": "Dr. Stone",
+    "role": "Étudiante américaine en médecine rencontrée par Senku."
+  },
+  {
+    "latin": "Carlos",
+    "hiragana": "かるろす",
+    "anime": "Dr. Stone",
+    "role": "Ami et garde du corps de Luna au sein de l'équipe américaine."
+  },
+  {
+    "latin": "Maya",
+    "hiragana": "まや",
+    "anime": "Dr. Stone",
+    "role": "Combattante de l'équipe américaine."
+  },
+  {
+    "latin": "Satoru Furuya",
+    "hiragana": "さとる ふるや",
+    "anime": "Ace of Diamond",
+    "role": "Lanceur de Seido réputé pour ses balles particulièrement rapides."
+  },
+  {
+    "latin": "Kazuya Miyuki",
+    "hiragana": "かずや みゆき",
+    "anime": "Ace of Diamond",
+    "role": "Receveur et meneur de Seido au sens tactique remarquable."
+  },
+  {
+    "latin": "Haruichi Kominato",
+    "hiragana": "はるいち こみなと",
+    "anime": "Ace of Diamond",
+    "role": "Joueur de champ de Seido et excellent frappeur de contact."
+  },
+  {
+    "latin": "Tetsuya Yūki",
+    "hiragana": "てつや ゆうき",
+    "anime": "Ace of Diamond",
+    "role": "Ancien capitaine exemplaire de l'équipe de Seido."
+  },
+  {
+    "latin": "Tōru Masuko",
+    "hiragana": "とおる ますこ",
+    "anime": "Ace of Diamond",
+    "role": "Puissant batteur et joueur de troisième base de Seido."
+  },
+  {
+    "latin": "Shinji Kanemaru",
+    "hiragana": "しんじ かねまる",
+    "anime": "Ace of Diamond",
+    "role": "Joueur de troisième base et coéquipier exigeant de Sawamura."
+  },
+  {
+    "latin": "Kenjirō Shirasu",
+    "hiragana": "けんじろう しらす",
+    "anime": "Ace of Diamond",
+    "role": "Joueur extérieur fiable et régulier de Seido."
+  },
+  {
+    "latin": "Kōichirō Tanba",
+    "hiragana": "こういちろう たんば",
+    "anime": "Ace of Diamond",
+    "role": "Lanceur de Seido de la génération de Tetsuya Yuki."
+  },
+  {
+    "latin": "Norifumi Kawakami",
+    "hiragana": "のりふみ かわかみ",
+    "anime": "Ace of Diamond",
+    "role": "Lanceur droitier expérimenté de Seido."
+  },
+  {
+    "latin": "Yōichi Kuramochi",
+    "hiragana": "よういち くらもち",
+    "anime": "Ace of Diamond",
+    "role": "Arrêt-court rapide et joueur-clé de l'attaque de Seido."
+  },
+  {
+    "latin": "Hisashi Watanabe",
+    "hiragana": "ひさし わたなべ",
+    "anime": "Ace of Diamond",
+    "role": "Joueur de Seido réputé pour ses analyses des adversaires."
+  },
+  {
+    "latin": "Takuma Seto",
+    "hiragana": "たくま せと",
+    "anime": "Ace of Diamond",
+    "role": "Jeune joueur rapide de Seido et ami d'Okumura."
+  },
+  {
+    "latin": "Kaoru Yui",
+    "hiragana": "かおる ゆい",
+    "anime": "Ace of Diamond",
+    "role": "Jeune receveur talentueux de Seido."
+  },
+  {
+    "latin": "Masashi Yūki",
+    "hiragana": "まさし ゆうき",
+    "anime": "Ace of Diamond",
+    "role": "Frappeur puissant de Seido et petit frère de Tetsuya."
+  },
+  {
+    "latin": "Hiroomi Takatsu",
+    "hiragana": "ひろおみ たかつ",
+    "anime": "Ace of Diamond",
+    "role": "Joueur de Seido en concurrence pour une place dans l'équipe."
+  },
+  {
+    "latin": "Takeru Asou",
+    "hiragana": "たける あそう",
+    "anime": "Ace of Diamond",
+    "role": "Joueur extérieur de Seido à la défense solide."
+  },
+  {
+    "latin": "Rei Takashima",
+    "hiragana": "れい たかしま",
+    "anime": "Ace of Diamond",
+    "role": "Responsable du recrutement de l'équipe de baseball de Seido."
+  },
+  {
+    "latin": "Hiromitsu Ochiai",
+    "hiragana": "ひろみつ おちあい",
+    "anime": "Ace of Diamond",
+    "role": "Entraîneur adjoint de l'équipe de Seido."
+  },
+  {
+    "latin": "Mei Narumiya",
+    "hiragana": "めい なるみや",
+    "anime": "Ace of Diamond",
+    "role": "Lanceur vedette de l'équipe rivale Inashiro."
+  },
+  {
+    "latin": "Katsuyuki Shirakawa",
+    "hiragana": "かつゆき しらかわ",
+    "anime": "Ace of Diamond",
+    "role": "Joueur de champ intérieur du lycée Inashiro."
+  },
+  {
+    "latin": "Riku Yamaoka",
+    "hiragana": "りく やまおか",
+    "anime": "Ace of Diamond",
+    "role": "Puissant frappeur de l'équipe Inashiro."
+  },
+  {
+    "latin": "Itsuki Tadano",
+    "hiragana": "いつき ただの",
+    "anime": "Ace of Diamond",
+    "role": "Receveur de Inashiro qui travaille avec Mei Narumiya."
+  },
+  {
+    "latin": "Raichi Todoroki",
+    "hiragana": "らいち とどろき",
+    "anime": "Ace of Diamond",
+    "role": "Frappeur prodige de l'équipe Yakushi."
+  },
+  {
+    "latin": "Kōsei Amahisa",
+    "hiragana": "こうせい あまひさ",
+    "anime": "Ace of Diamond",
+    "role": "Excellent lanceur du lycée Ichidai San."
+  },
+  {
+    "latin": "Masamune Hongō",
+    "hiragana": "まさむね ほんごう",
+    "anime": "Ace of Diamond",
+    "role": "Redoutable lanceur du lycée Komadai Fujimaki."
+  },
+  {
+    "latin": "Kengo Inui",
+    "hiragana": "けんご いぬい",
+    "anime": "Ace of Diamond",
+    "role": "Receveur de l'équipe du lycée Teito."
+  },
+  {
+    "latin": "Taiyō Mukai",
+    "hiragana": "たいよう むかい",
+    "anime": "Ace of Diamond",
+    "role": "Lanceur de Teito aux effets difficiles à lire."
+  },
+  {
+    "latin": "Hirofumi Asada",
+    "hiragana": "ひろふみ あさだ",
+    "anime": "Ace of Diamond",
+    "role": "Jeune lanceur débutant de l'équipe de Seido."
+  },
+  {
+    "latin": "Tadahiro Kaneda",
+    "hiragana": "ただひろ かねだ",
+    "anime": "Ace of Diamond",
+    "role": "Lanceur de Seido de la promotion de Sawamura."
+  },
+  {
+    "latin": "Wataru Kariba",
+    "hiragana": "わたる かりば",
+    "anime": "Ace of Diamond",
+    "role": "Receveur de Seido qui aide aux entraînements des lanceurs."
+  },
+  {
+    "latin": "Emilia",
+    "hiragana": "えみりあ",
+    "anime": "Re:Zero",
+    "role": "Candidate au trône de Lugnica et amie proche de Subaru."
+  },
+  {
+    "latin": "Rem",
+    "hiragana": "れむ",
+    "anime": "Re:Zero",
+    "role": "Servante oni du manoir Roswaal, dévouée à Subaru."
+  },
+  {
+    "latin": "Ram",
+    "hiragana": "らむ",
+    "anime": "Re:Zero",
+    "role": "Sœur jumelle de Rem et servante du manoir Roswaal."
+  },
+  {
+    "latin": "Beatrice",
+    "hiragana": "べあとりす",
+    "anime": "Re:Zero",
+    "role": "Gardienne de la bibliothèque interdite du manoir."
+  },
+  {
+    "latin": "Roswaal",
+    "hiragana": "ろずわある",
+    "anime": "Re:Zero",
+    "role": "Noble magicien qui soutient la candidature d'Emilia."
+  },
+  {
+    "latin": "Reinhard",
+    "hiragana": "らいんはると",
+    "anime": "Re:Zero",
+    "role": "Chevalier légendaire surnommé le Saint de l'épée."
+  },
+  {
+    "latin": "Echidna",
+    "hiragana": "えきどな",
+    "anime": "Re:Zero",
+    "role": "Sorcière de l'Avarice, attirée par la connaissance."
+  },
+  {
+    "latin": "Satella",
+    "hiragana": "さてら",
+    "anime": "Re:Zero",
+    "role": "Mystérieuse Sorcière de l'Envie."
+  },
+  {
+    "latin": "Petelgeuse",
+    "hiragana": "ぺてるぎうす",
+    "anime": "Re:Zero",
+    "role": "Archevêque du Péché représentant la Paresse."
+  },
+  {
+    "latin": "Regulus Corneas",
+    "hiragana": "れぐるす こるにあす",
+    "anime": "Re:Zero",
+    "role": "Archevêque du Péché représentant l'Avarice."
+  },
+  {
+    "latin": "Pandora",
+    "hiragana": "ぱんどら",
+    "anime": "Re:Zero",
+    "role": "Sorcière de la Vanité aux pouvoirs mystérieux."
+  },
+  {
+    "latin": "Sirius",
+    "hiragana": "しりうす",
+    "anime": "Re:Zero",
+    "role": "Archevêque du Péché représentant la Colère."
+  },
+  {
+    "latin": "Elsa Granhiert",
+    "hiragana": "えるざ ぐらんひるて",
+    "anime": "Re:Zero",
+    "role": "Assassine surnommée la Chasseuse d'entrailles."
+  },
+  {
+    "latin": "Frederica Baumann",
+    "hiragana": "ふれでりか ばうまん",
+    "anime": "Re:Zero",
+    "role": "Servante du manoir Roswaal et sœur de Garfiel."
+  },
+  {
+    "latin": "Anastasia Hōshin",
+    "hiragana": "あなすたしあ ほおしん",
+    "anime": "Re:Zero",
+    "role": "Marchande et candidate à la succession royale."
+  },
+  {
+    "latin": "Priscilla Barielle",
+    "hiragana": "ぷりしら ばありえる",
+    "anime": "Re:Zero",
+    "role": "Candidate au trône connue pour sa confiance absolue."
+  },
+  {
+    "latin": "Julius Juukulius",
+    "hiragana": "ゆりうす ゆうくりうす",
+    "anime": "Re:Zero",
+    "role": "Chevalier talentueux et rival de Subaru."
+  },
+  {
+    "latin": "Petra Leyte",
+    "hiragana": "ぺとら れいて",
+    "anime": "Re:Zero",
+    "role": "Jeune villageoise devenue servante au manoir."
+  },
+  {
+    "latin": "Carmilla",
+    "hiragana": "かるみら",
+    "anime": "Re:Zero",
+    "role": "Sorcière de la Luxure."
+  },
+  {
+    "latin": "Sekhmet",
+    "hiragana": "せくめと",
+    "anime": "Re:Zero",
+    "role": "Sorcière de la Paresse."
+  },
+  {
+    "latin": "Daphne",
+    "hiragana": "だふね",
+    "anime": "Re:Zero",
+    "role": "Sorcière de la Gourmandise."
+  },
+  {
+    "latin": "Sunraku",
+    "hiragana": "さんらく",
+    "anime": "Shangri-La Frontier",
+    "role": "Avatar joueur de Rakuro, spécialiste des jeux très difficiles."
+  },
+  {
+    "latin": "Rakurō Hizutome",
+    "hiragana": "らくろう ひづとめ",
+    "anime": "Shangri-La Frontier",
+    "role": "Lycéen qui incarne Sunraku dans Shangri-La Frontier."
+  },
+  {
+    "latin": "Rei Saiga",
+    "hiragana": "れい さいが",
+    "anime": "Shangri-La Frontier",
+    "role": "Joueuse de haut niveau connue sous le pseudonyme Psyger-0."
+  },
+  {
+    "latin": "Towa Amane",
+    "hiragana": "とわ あまね",
+    "anime": "Shangri-La Frontier",
+    "role": "Joueuse stratégique derrière l'avatar Arthur Pencilgon."
+  },
+  {
+    "latin": "Arthur Pencilgon",
+    "hiragana": "ああさあ ぺんしるごん",
+    "anime": "Shangri-La Frontier",
+    "role": "Ancienne cheffe de joueurs assassins, alliée de Sunraku."
+  },
+  {
+    "latin": "Kei Uomi",
+    "hiragana": "けい うおみ",
+    "anime": "Shangri-La Frontier",
+    "role": "Joueur professionnel incarnant le personnage Oikatzo."
+  },
+  {
+    "latin": "Emul",
+    "hiragana": "えむる",
+    "anime": "Shangri-La Frontier",
+    "role": "Lapine du jeu qui accompagne Sunraku dans ses aventures."
+  },
+  {
+    "latin": "Momo Saiga",
+    "hiragana": "もも さいが",
+    "anime": "Shangri-La Frontier",
+    "role": "Sœur aînée de Rei et dirigeante d'un groupe de joueurs."
+  },
+  {
+    "latin": "Animalia",
+    "hiragana": "あにまりあ",
+    "anime": "Shangri-La Frontier",
+    "role": "Joueuse passionnée par les animaux et les monstres du jeu."
+  },
+  {
+    "latin": "Mold",
+    "hiragana": "もるど",
+    "anime": "Shangri-La Frontier",
+    "role": "Joueur spécialisé dans la magie, partenaire de Rust."
+  },
+  {
+    "latin": "Rust",
+    "hiragana": "るすと",
+    "anime": "Shangri-La Frontier",
+    "role": "Joueuse habile au combat, partenaire de Mold."
+  },
+  {
+    "latin": "Akane Akitsu",
+    "hiragana": "あかね あきつ",
+    "anime": "Shangri-La Frontier",
+    "role": "Joueuse ninja qui rencontre Sunraku au cours de l'aventure."
+  },
+  {
+    "latin": "Akane Oki",
+    "hiragana": "あかね おき",
+    "anime": "Shangri-La Frontier",
+    "role": "Véritable identité de la joueuse Akane Akitsu."
+  },
+  {
+    "latin": "Karen Sabi",
+    "hiragana": "かれん さび",
+    "anime": "Shangri-La Frontier",
+    "role": "Véritable identité de la joueuse Rust."
+  },
+  {
+    "latin": "Mana Iwamaki",
+    "hiragana": "まな いわまき",
+    "anime": "Shangri-La Frontier",
+    "role": "Amie de Rei qui suit ses aventures dans le jeu."
+  },
+  {
+    "latin": "Aramis",
+    "hiragana": "あらみいす",
+    "anime": "Shangri-La Frontier",
+    "role": "Personnage du jeu lié aux habitants félins."
+  },
+  {
+    "latin": "Elk",
+    "hiragana": "えるく",
+    "anime": "Shangri-La Frontier",
+    "role": "Personnage non joueur qui participe aux quêtes de Sunraku."
+  },
+  {
+    "latin": "Takemichi Hanagaki",
+    "hiragana": "たけみち はながき",
+    "anime": "Tokyo Revengers",
+    "role": "Héros qui voyage dans le passé pour sauver ses proches."
+  },
+  {
+    "latin": "Manjirō Sano",
+    "hiragana": "まんじろう さの",
+    "anime": "Tokyo Revengers",
+    "role": "Chef charismatique du Tokyo Manji Gang, surnommé Mikey."
+  },
+  {
+    "latin": "Draken",
+    "hiragana": "どらけん",
+    "anime": "Tokyo Revengers",
+    "role": "Surnom du vice-capitaine du Tokyo Manji Gang, proche de Mikey."
+  },
+  {
+    "latin": "Keisuke Baji",
+    "hiragana": "けいすけ ばじ",
+    "anime": "Tokyo Revengers",
+    "role": "Membre fondateur de Toman et capitaine de division."
+  },
+  {
+    "latin": "Chifuyu Matsuno",
+    "hiragana": "ちふゆ まつの",
+    "anime": "Tokyo Revengers",
+    "role": "Bras droit de Baji puis fidèle allié de Takemichi."
+  },
+  {
+    "latin": "Takashi Mitsuya",
+    "hiragana": "たかし みつや",
+    "anime": "Tokyo Revengers",
+    "role": "Capitaine de division de Toman et passionné de couture."
+  },
+  {
+    "latin": "Nahoya Kawata",
+    "hiragana": "なほや かわた",
+    "anime": "Tokyo Revengers",
+    "role": "Capitaine de division de Toman, surnommé Smiley."
+  },
+  {
+    "latin": "Souya Kawata",
+    "hiragana": "そうや かわた",
+    "anime": "Tokyo Revengers",
+    "role": "Frère jumeau de Nahoya, surnommé Angry."
+  },
+  {
+    "latin": "Haruki Hayashida",
+    "hiragana": "はるき はやしだ",
+    "anime": "Tokyo Revengers",
+    "role": "Membre de Toman surnommé Pah-chin."
+  },
+  {
+    "latin": "Atsushi Sendō",
+    "hiragana": "あつし せんどう",
+    "anime": "Tokyo Revengers",
+    "role": "Ami d'enfance de Takemichi, surnommé Akkun."
+  },
+  {
+    "latin": "Takuya Yamamoto",
+    "hiragana": "たくや やまもと",
+    "anime": "Tokyo Revengers",
+    "role": "Ami de Takemichi depuis le collège."
+  },
+  {
+    "latin": "Kazushi Yamagishi",
+    "hiragana": "かずし やまぎし",
+    "anime": "Tokyo Revengers",
+    "role": "Ami de Takemichi qui connaît bien les gangs."
+  },
+  {
+    "latin": "Makoto Suzuki",
+    "hiragana": "まこと すずき",
+    "anime": "Tokyo Revengers",
+    "role": "Ami proche de Takemichi."
+  },
+  {
+    "latin": "Hinata Tachibana",
+    "hiragana": "ひなた たちばな",
+    "anime": "Tokyo Revengers",
+    "role": "Petite amie de Takemichi, au cœur de sa mission."
+  },
+  {
+    "latin": "Naoto Tachibana",
+    "hiragana": "なおと たちばな",
+    "anime": "Tokyo Revengers",
+    "role": "Frère de Hinata et allié de Takemichi."
+  },
+  {
+    "latin": "Yuzuha Shiba",
+    "hiragana": "ゆずは しば",
+    "anime": "Tokyo Revengers",
+    "role": "Grande sœur de Hakkai et sœur de Taiju Shiba."
+  },
+  {
+    "latin": "Kazutora Hanemiya",
+    "hiragana": "かずとら はねみや",
+    "anime": "Tokyo Revengers",
+    "role": "Ancien membre fondateur de Toman lié à Valhalla."
+  },
+  {
+    "latin": "Izana Kurokawa",
+    "hiragana": "いざな くろかわ",
+    "anime": "Tokyo Revengers",
+    "role": "Chef du gang Tenjiku, rival de Mikey."
+  },
+  {
+    "latin": "Ran Haitani",
+    "hiragana": "らん はいたに",
+    "anime": "Tokyo Revengers",
+    "role": "L'aîné des frères Haitani, combattant de Tenjiku."
+  },
+  {
+    "latin": "Rindō Haitani",
+    "hiragana": "りんどう はいたに",
+    "anime": "Tokyo Revengers",
+    "role": "Le cadet des frères Haitani, spécialiste des prises."
+  },
+  {
+    "latin": "Hajime Kokonoi",
+    "hiragana": "はじめ ここのい",
+    "anime": "Tokyo Revengers",
+    "role": "Membre de Black Dragon réputé pour ses talents financiers."
+  },
+  {
+    "latin": "Haruchiyo Sanzu",
+    "hiragana": "はるちよ さんず",
+    "anime": "Tokyo Revengers",
+    "role": "Combattant de Toman puis de Kanto Manji."
+  },
+  {
+    "latin": "Takeomi Akashi",
+    "hiragana": "たけおみ あかし",
+    "anime": "Tokyo Revengers",
+    "role": "Ancien vice-président des Black Dragon."
+  },
+  {
+    "latin": "Shinichirō Sano",
+    "hiragana": "しんいちろう さの",
+    "anime": "Tokyo Revengers",
+    "role": "Grand frère de Mikey et fondateur des Black Dragon."
+  },
+  {
+    "latin": "Wakasa Imaushi",
+    "hiragana": "わかさ いまうし",
+    "anime": "Tokyo Revengers",
+    "role": "Combattant vétéran, ancien des Black Dragon."
+  },
+  {
+    "latin": "Keizō Arashi",
+    "hiragana": "けいぞう あらし",
+    "anime": "Tokyo Revengers",
+    "role": "Ancien membre des Black Dragon, surnommé Benkei."
+  },
+  {
+    "latin": "Emma Sano",
+    "hiragana": "えま さの",
+    "anime": "Tokyo Revengers",
+    "role": "Demi-sœur de Mikey et proche de Draken."
+  },
+  {
+    "latin": "Yasuhiro Mutō",
+    "hiragana": "やすひろ むとう",
+    "anime": "Tokyo Revengers",
+    "role": "Capitaine de la cinquième division de Toman."
+  },
+  {
+    "latin": "Kanji Mochizuki",
+    "hiragana": "かんじ もちづき",
+    "anime": "Tokyo Revengers",
+    "role": "Combattant puissant du gang Tenjiku."
+  },
+  {
+    "latin": "Shion Madarame",
+    "hiragana": "しおん まだらめ",
+    "anime": "Tokyo Revengers",
+    "role": "Ancien chef des Black Dragon et membre de Tenjiku."
+  },
+  {
+    "latin": "Nobutaka Osanai",
+    "hiragana": "のぶたか おさない",
+    "anime": "Tokyo Revengers",
+    "role": "Chef du groupe Moebius."
+  },
+  {
+    "latin": "Akane Inui",
+    "hiragana": "あかね いぬい",
+    "anime": "Tokyo Revengers",
+    "role": "Grande sœur de Seishu Inui, liée au passé de Kokonoi."
+  },
+  {
+    "latin": "Tetsuya Kuroko",
+    "hiragana": "てつや くろこ",
+    "anime": "Kuroko's Basketball",
+    "role": "Sixième homme fantôme de Teiko, passeur de Seirin."
+  },
+  {
+    "latin": "Taiga Kagami",
+    "hiragana": "たいが かがみ",
+    "anime": "Kuroko's Basketball",
+    "role": "Ailier fort de Seirin et partenaire de Kuroko."
+  },
+  {
+    "latin": "Shintarō Midorima",
+    "hiragana": "しんたろう みどりま",
+    "anime": "Kuroko's Basketball",
+    "role": "Tireur d'élite de Shutoku, membre de la Génération des Miracles."
+  },
+  {
+    "latin": "Daiki Aomine",
+    "hiragana": "だいき あおみね",
+    "anime": "Kuroko's Basketball",
+    "role": "Joueur exceptionnel de Too, ancien coéquipier de Kuroko."
+  },
+  {
+    "latin": "Atsushi Murasakibara",
+    "hiragana": "あつし むらさきばら",
+    "anime": "Kuroko's Basketball",
+    "role": "Pivot géant de Yosen et membre des Miracles."
+  },
+  {
+    "latin": "Rinnosuke Mitobe",
+    "hiragana": "りんのすけ みとべ",
+    "anime": "Kuroko's Basketball",
+    "role": "Pivot discret et défenseur fiable de Seirin."
+  },
+  {
+    "latin": "Satoshi Tsuchida",
+    "hiragana": "さとし つちだ",
+    "anime": "Kuroko's Basketball",
+    "role": "Joueur de Seirin réputé pour ses rebonds."
+  },
+  {
+    "latin": "Kōki Furihata",
+    "hiragana": "こうき ふりはた",
+    "anime": "Kuroko's Basketball",
+    "role": "Meneur remplaçant de Seirin."
+  },
+  {
+    "latin": "Shinji Koganei",
+    "hiragana": "しんじ こがねい",
+    "anime": "Kuroko's Basketball",
+    "role": "Joueur polyvalent et énergique de Seirin."
+  },
+  {
+    "latin": "Riko Aida",
+    "hiragana": "りこ あいだ",
+    "anime": "Kuroko's Basketball",
+    "role": "Entraîneuse de Seirin, spécialiste de la condition physique."
+  },
+  {
+    "latin": "Satsuki Momoi",
+    "hiragana": "さつき ももい",
+    "anime": "Kuroko's Basketball",
+    "role": "Analyste de l'équipe Too et amie de la Génération des Miracles."
+  },
+  {
+    "latin": "Yukio Kasamatsu",
+    "hiragana": "ゆきお かさまつ",
+    "anime": "Kuroko's Basketball",
+    "role": "Capitaine et meneur de l'équipe Kaijo."
+  },
+  {
+    "latin": "Yoshitaka Moriyama",
+    "hiragana": "よしたか もりやま",
+    "anime": "Kuroko's Basketball",
+    "role": "Joueur de Kaijo au tir atypique."
+  },
+  {
+    "latin": "Kōji Kobori",
+    "hiragana": "こうじ こぼり",
+    "anime": "Kuroko's Basketball",
+    "role": "Pivot de l'équipe Kaijo."
+  },
+  {
+    "latin": "Mitsuhiro Hayakawa",
+    "hiragana": "みつひろ はやかわ",
+    "anime": "Kuroko's Basketball",
+    "role": "Joueur de Kaijo spécialiste des rebonds offensifs."
+  },
+  {
+    "latin": "Kazunari Takao",
+    "hiragana": "かずなり たかお",
+    "anime": "Kuroko's Basketball",
+    "role": "Meneur de Shutoku qui possède une excellente vision du jeu."
+  },
+  {
+    "latin": "Taisuke Ōtsubo",
+    "hiragana": "たいすけ おおつぼ",
+    "anime": "Kuroko's Basketball",
+    "role": "Capitaine et pivot de Shutoku."
+  },
+  {
+    "latin": "Kiyoshi Miyaji",
+    "hiragana": "きよし みやじ",
+    "anime": "Kuroko's Basketball",
+    "role": "Joueur expérimenté de Shutoku."
+  },
+  {
+    "latin": "Shinsuke Kimura",
+    "hiragana": "しんすけ きむら",
+    "anime": "Kuroko's Basketball",
+    "role": "Joueur intérieur de Shutoku."
+  },
+  {
+    "latin": "Kōsuke Wakamatsu",
+    "hiragana": "こうすけ わかまつ",
+    "anime": "Kuroko's Basketball",
+    "role": "Pivot de Too et coéquipier d'Aomine."
+  },
+  {
+    "latin": "Yoshinori Susa",
+    "hiragana": "よしのり すさ",
+    "anime": "Kuroko's Basketball",
+    "role": "Joueur expérimenté de Too."
+  },
+  {
+    "latin": "Makoto Hanamiya",
+    "hiragana": "まこと はなみや",
+    "anime": "Kuroko's Basketball",
+    "role": "Capitaine manipulateur de Kirisaki Daiichi."
+  },
+  {
+    "latin": "Kentarō Seto",
+    "hiragana": "けんたろう せと",
+    "anime": "Kuroko's Basketball",
+    "role": "Joueur de Kirisaki Daiichi et complice de Hanamiya."
+  },
+  {
+    "latin": "Kazuya Hara",
+    "hiragana": "かずや はら",
+    "anime": "Kuroko's Basketball",
+    "role": "Joueur de Kirisaki Daiichi, membre de l'équipe provocatrice."
+  },
+  {
+    "latin": "Tatsuya Himuro",
+    "hiragana": "たつや ひむろ",
+    "anime": "Kuroko's Basketball",
+    "role": "Arrière de Yosen et ami d'enfance de Kagami."
+  },
+  {
+    "latin": "Kenichi Okamura",
+    "hiragana": "けんいち おかむら",
+    "anime": "Kuroko's Basketball",
+    "role": "Capitaine du lycée Yosen."
+  },
+  {
+    "latin": "Kensuke Fukui",
+    "hiragana": "けんすけ ふくい",
+    "anime": "Kuroko's Basketball",
+    "role": "Meneur de l'équipe Yosen."
+  },
+  {
+    "latin": "Reo Mibuchi",
+    "hiragana": "れお みぶち",
+    "anime": "Kuroko's Basketball",
+    "role": "Arrière tireur de Rakuzan, membre des Rois sans couronne."
+  },
+  {
+    "latin": "Kotarō Hayama",
+    "hiragana": "こたろう はやま",
+    "anime": "Kuroko's Basketball",
+    "role": "Joueur explosif de Rakuzan et Roi sans couronne."
+  },
+  {
+    "latin": "Eikichi Nebuya",
+    "hiragana": "えいきち ねぶや",
+    "anime": "Kuroko's Basketball",
+    "role": "Pivot très puissant de Rakuzan."
+  },
+  {
+    "latin": "Chihiro Mayuzumi",
+    "hiragana": "ちひろ まゆずみ",
+    "anime": "Kuroko's Basketball",
+    "role": "Joueur de Rakuzan qui utilise une faible présence sur le terrain."
+  },
+  {
+    "latin": "Masako Araki",
+    "hiragana": "まさこ あらき",
+    "anime": "Kuroko's Basketball",
+    "role": "Entraîneuse de l'équipe Yosen."
+  },
+  {
+    "latin": "Genta Takeuchi",
+    "hiragana": "げんた たけうち",
+    "anime": "Kuroko's Basketball",
+    "role": "Entraîneur de l'équipe Kaijo."
+  },
+  {
+    "latin": "Kagetora Aida",
+    "hiragana": "かげとら あいだ",
+    "anime": "Kuroko's Basketball",
+    "role": "Père de Riko et ancien basketteur professionnel."
+  },
+  {
+    "latin": "Momo Ayase",
+    "hiragana": "もも あやせ",
+    "anime": "Dandadan",
+    "role": "Lycéenne aux pouvoirs psychiques qui affronte les phénomènes paranormaux."
+  },
+  {
+    "latin": "Ken Takakura",
+    "hiragana": "けん たかくら",
+    "anime": "Dandadan",
+    "role": "Véritable nom du passionné d'extraterrestres surnommé Okarun."
+  },
+  {
+    "latin": "Okarun",
+    "hiragana": "おかるん",
+    "anime": "Dandadan",
+    "role": "Lycéen passionné d'occultisme, partenaire de Momo."
+  },
+  {
+    "latin": "Seiko Ayase",
+    "hiragana": "せいこ あやせ",
+    "anime": "Dandadan",
+    "role": "Grand-mère de Momo et médium très expérimentée."
+  },
+  {
+    "latin": "Aira Shiratori",
+    "hiragana": "あいら しらとり",
+    "anime": "Dandadan",
+    "role": "Lycéenne qui développe des pouvoirs spirituels."
+  },
+  {
+    "latin": "Jiji",
+    "hiragana": "じじ",
+    "anime": "Dandadan",
+    "role": "Surnom de Jin Enjoji, ami d'enfance de Momo."
+  },
+  {
+    "latin": "Kinta Sakata",
+    "hiragana": "きんた さかた",
+    "anime": "Dandadan",
+    "role": "Lycéen passionné de science-fiction et de robots."
+  },
+  {
+    "latin": "Vamola",
+    "hiragana": "ばもら",
+    "anime": "Dandadan",
+    "role": "Extraterrestre qui rejoint les amis de Momo."
+  },
+  {
+    "latin": "Rin Sawaki",
+    "hiragana": "りん さわき",
+    "anime": "Dandadan",
+    "role": "Déléguée de classe dotée d'un lien avec le monde des esprits."
+  },
+  {
+    "latin": "Unji Zuma",
+    "hiragana": "うんじ ずま",
+    "anime": "Dandadan",
+    "role": "Chef de bande qui obtient des pouvoirs liés à un parapluie."
+  },
+  {
+    "latin": "Rokurō Serpo",
+    "hiragana": "ろくろう せるぽ",
+    "anime": "Dandadan",
+    "role": "Clone extraterrestre devenu un allié du groupe."
+  },
+  {
+    "latin": "Reiko Kashima",
+    "hiragana": "れいこ かしま",
+    "anime": "Dandadan",
+    "role": "Esprit très puissant croisé par Momo."
+  },
+  {
+    "latin": "Turbo Granny",
+    "hiragana": "たあぼ ばばあ",
+    "anime": "Dandadan",
+    "role": "Esprit légendaire qui finit associé à un maneki-neko."
+  },
+  {
+    "latin": "Tarō",
+    "hiragana": "たろう",
+    "anime": "Dandadan",
+    "role": "Mannequin anatomique animé amoureux de Hana."
+  },
+  {
+    "latin": "Hana",
+    "hiragana": "はな",
+    "anime": "Dandadan",
+    "role": "Mannequin anatomique aimé de Taro."
+  },
+  {
+    "latin": "Banga",
+    "hiragana": "ばんが",
+    "anime": "Dandadan",
+    "role": "Extraterrestre qui prend soin de Vamola."
+  },
+  {
+    "latin": "Masamichi Bega",
+    "hiragana": "まさみち べが",
+    "anime": "Dandadan",
+    "role": "Policier qui recueille le jeune Unji Zuma."
+  },
+  {
+    "latin": "Raiya Kazama",
+    "hiragana": "らいや かざま",
+    "anime": "Dandadan",
+    "role": "Ami et bras droit de Unji Zuma."
+  },
+  {
+    "latin": "Mai Kawabanga",
+    "hiragana": "まい かわばんが",
+    "anime": "Dandadan",
+    "role": "Esprit lié au passé de Rin Sawaki."
+  },
+  {
+    "latin": "Light Yagami",
+    "hiragana": "らいと やがみ",
+    "anime": "Death Note",
+    "role": "Étudiant qui utilise le Death Note sous le nom de Kira."
+  },
+  {
+    "latin": "L",
+    "hiragana": "える",
+    "anime": "Death Note",
+    "role": "Détective de génie qui tente de démasquer Kira."
+  },
+  {
+    "latin": "Misa Amane",
+    "hiragana": "みさ あまね",
+    "anime": "Death Note",
+    "role": "Idole et deuxième détentrice d'un Death Note."
+  },
+  {
+    "latin": "Near",
+    "hiragana": "にあ",
+    "anime": "Death Note",
+    "role": "Jeune détective qui reprend l'enquête après L."
+  },
+  {
+    "latin": "Mello",
+    "hiragana": "めろ",
+    "anime": "Death Note",
+    "role": "Rival de Near qui poursuit Kira par ses propres moyens."
+  },
+  {
+    "latin": "Watari",
+    "hiragana": "わたり",
+    "anime": "Death Note",
+    "role": "Assistant et protecteur de L."
+  },
+  {
+    "latin": "Rem",
+    "hiragana": "れむ",
+    "anime": "Death Note",
+    "role": "Shinigami attachée à Misa Amane."
+  },
+  {
+    "latin": "Sōichirō Yagami",
+    "hiragana": "そういちろう やがみ",
+    "anime": "Death Note",
+    "role": "Père de Light et responsable de l'équipe d'enquête policière."
+  },
+  {
+    "latin": "Sayu Yagami",
+    "hiragana": "さゆ やがみ",
+    "anime": "Death Note",
+    "role": "Petite sœur de Light."
+  },
+  {
+    "latin": "Sachiko Yagami",
+    "hiragana": "さちこ やがみ",
+    "anime": "Death Note",
+    "role": "Mère de Light et de Sayu."
+  },
+  {
+    "latin": "Teru Mikami",
+    "hiragana": "てる みかみ",
+    "anime": "Death Note",
+    "role": "Procureur qui agit comme disciple de Kira."
+  },
+  {
+    "latin": "Kiyomi Takada",
+    "hiragana": "きよみ たかだ",
+    "anime": "Death Note",
+    "role": "Présentatrice choisie comme porte-parole de Kira."
+  },
+  {
+    "latin": "Touta Matsuda",
+    "hiragana": "とうた まつだ",
+    "anime": "Death Note",
+    "role": "Jeune inspecteur de l'équipe chargée de l'affaire Kira."
+  },
+  {
+    "latin": "Kanzō Mogi",
+    "hiragana": "かんぞう もぎ",
+    "anime": "Death Note",
+    "role": "Policier discret et expérimenté de l'équipe d'enquête."
+  },
+  {
+    "latin": "Hideki Ide",
+    "hiragana": "ひでき いで",
+    "anime": "Death Note",
+    "role": "Policier membre de la cellule d'enquête sur Kira."
+  },
+  {
+    "latin": "Naomi Misora",
+    "hiragana": "なおみ みそら",
+    "anime": "Death Note",
+    "role": "Ancienne agente du FBI qui enquête sur l'affaire Kira."
+  },
+  {
+    "latin": "Raye Penber",
+    "hiragana": "れい ぺんばあ",
+    "anime": "Death Note",
+    "role": "Agent du FBI qui surveille Light au début de l'enquête."
+  },
+  {
+    "latin": "Reiji Namikawa",
+    "hiragana": "れいじ なみかわ",
+    "anime": "Death Note",
+    "role": "Dirigeant d'entreprise impliqué dans les réunions de Yotsuba."
+  },
+  {
+    "latin": "Ichigo Kurosaki",
+    "hiragana": "いちご くろさき",
+    "anime": "Bleach",
+    "role": "Substitut Shinigami qui combat les Hollows."
+  },
+  {
+    "latin": "Rukia Kuchiki",
+    "hiragana": "るきあ くちき",
+    "anime": "Bleach",
+    "role": "Shinigami qui confie ses pouvoirs à Ichigo."
+  },
+  {
+    "latin": "Orihime Inoue",
+    "hiragana": "おりひめ いのうえ",
+    "anime": "Bleach",
+    "role": "Amie d'Ichigo dotée de pouvoirs de soin."
+  },
+  {
+    "latin": "Renji Abarai",
+    "hiragana": "れんじ あばらい",
+    "anime": "Bleach",
+    "role": "Lieutenant de la sixième division."
+  },
+  {
+    "latin": "Kenpachi Zaraki",
+    "hiragana": "けんぱち ざらき",
+    "anime": "Bleach",
+    "role": "Capitaine de la onzième division."
+  },
+  {
+    "latin": "Yachiru Kusajishi",
+    "hiragana": "やちる くさじし",
+    "anime": "Bleach",
+    "role": "Lieutenante de Zaraki."
+  },
+  {
+    "latin": "Tōshirō Hitsugaya",
+    "hiragana": "とうしろう ひつがや",
+    "anime": "Bleach",
+    "role": "Capitaine de la dixième division."
+  },
+  {
+    "latin": "Rangiku Matsumoto",
+    "hiragana": "らんぎく まつもと",
+    "anime": "Bleach",
+    "role": "Lieutenante de Hitsugaya."
+  },
+  {
+    "latin": "Sōsuke Aizen",
+    "hiragana": "そうすけ あいぜん",
+    "anime": "Bleach",
+    "role": "Ancien capitaine et antagoniste majeur."
+  },
+  {
+    "latin": "Gin Ichimaru",
+    "hiragana": "ぎん いちまる",
+    "anime": "Bleach",
+    "role": "Ancien capitaine au sourire énigmatique."
+  },
+  {
+    "latin": "Kaname Tōsen",
+    "hiragana": "かなめ とうせん",
+    "anime": "Bleach",
+    "role": "Ancien capitaine de la neuvième division."
+  },
+  {
+    "latin": "Retsu Unohana",
+    "hiragana": "れつ うのはな",
+    "anime": "Bleach",
+    "role": "Capitaine spécialiste des soins."
+  },
+  {
+    "latin": "Mayuri Kurotsuchi",
+    "hiragana": "まゆり くろつち",
+    "anime": "Bleach",
+    "role": "Capitaine scientifique de la douzième division."
+  },
+  {
+    "latin": "Nemu Kurotsuchi",
+    "hiragana": "ねむ くろつち",
+    "anime": "Bleach",
+    "role": "Assistante et lieutenante de Mayuri."
+  },
+  {
+    "latin": "Sajin Komamura",
+    "hiragana": "さじん こまむら",
+    "anime": "Bleach",
+    "role": "Capitaine de la septième division."
+  },
+  {
+    "latin": "Izuru Kira",
+    "hiragana": "いずる きら",
+    "anime": "Bleach",
+    "role": "Lieutenant de la troisième division."
+  },
+  {
+    "latin": "Momo Hinamori",
+    "hiragana": "もも ひなもり",
+    "anime": "Bleach",
+    "role": "Lieutenante de la cinquième division."
+  },
+  {
+    "latin": "Tetsuzaemon Iba",
+    "hiragana": "てつざえもん いば",
+    "anime": "Bleach",
+    "role": "Officier et lieutenant du Gotei 13."
+  },
+  {
+    "latin": "Isane Kotetsu",
+    "hiragana": "いさね こてつ",
+    "anime": "Bleach",
+    "role": "Shinigami de la quatrième division."
+  },
+  {
+    "latin": "Hanatarō Yamada",
+    "hiragana": "はなたろう やまだ",
+    "anime": "Bleach",
+    "role": "Guérisseur de la quatrième division."
+  },
+  {
+    "latin": "Shinji Hirako",
+    "hiragana": "しんじ ひらこ",
+    "anime": "Bleach",
+    "role": "Chef des Visored et ancien capitaine."
+  },
+  {
+    "latin": "Kensei Muguruma",
+    "hiragana": "けんせい むぐるま",
+    "anime": "Bleach",
+    "role": "Capitaine et membre des Visored."
+  },
+  {
+    "latin": "Mashiro Kuna",
+    "hiragana": "ましろ くな",
+    "anime": "Bleach",
+    "role": "Membre des Visored."
+  },
+  {
+    "latin": "Hiyori Sarugaki",
+    "hiragana": "ひより さるがき",
+    "anime": "Bleach",
+    "role": "Membre des Visored au tempérament vif."
+  },
+  {
+    "latin": "Lisa Yadomaru",
+    "hiragana": "りさ やどまる",
+    "anime": "Bleach",
+    "role": "Shinigami et membre des Visored."
+  },
+  {
+    "latin": "Love Aikawa",
+    "hiragana": "らぶ あいかわ",
+    "anime": "Bleach",
+    "role": "Ancien capitaine devenu Visored."
+  },
+  {
+    "latin": "Yumichika Ayasegawa",
+    "hiragana": "ゆみちか あやせがわ",
+    "anime": "Bleach",
+    "role": "Officier de la onzième division."
+  },
+  {
+    "latin": "Ulquiorra",
+    "hiragana": "うるきおら",
+    "anime": "Bleach",
+    "role": "Arrancar et membre de l'Espada."
+  },
+  {
+    "latin": "Neliel",
+    "hiragana": "ねりえる",
+    "anime": "Bleach",
+    "role": "Ancienne Espada bienveillante."
+  },
+  {
+    "latin": "Nnoitra",
+    "hiragana": "のいとら",
+    "anime": "Bleach",
+    "role": "Espada belliqueux."
+  },
+  {
+    "latin": "Harribel",
+    "hiragana": "はりべる",
+    "anime": "Bleach",
+    "role": "Puissante membre de l'Espada."
+  },
+  {
+    "latin": "Yammy",
+    "hiragana": "やみい",
+    "anime": "Bleach",
+    "role": "Arrancar à la force redoutable."
+  },
+  {
+    "latin": "Starrk",
+    "hiragana": "すたあく",
+    "anime": "Bleach",
+    "role": "Espada adepte du combat à distance."
+  },
+  {
+    "latin": "Baraggan",
+    "hiragana": "ばらがん",
+    "anime": "Bleach",
+    "role": "Ancien roi de Hueco Mundo et Espada."
+  },
+  {
+    "latin": "Zommari",
+    "hiragana": "ぞまり",
+    "anime": "Bleach",
+    "role": "Membre de l'Espada."
+  },
+  {
+    "latin": "Szayelaporro",
+    "hiragana": "ざえるあぽろ",
+    "anime": "Bleach",
+    "role": "Scientifique au sein de l'Espada."
+  },
+  {
+    "latin": "Masaki Kurosaki",
+    "hiragana": "まさき くろさき",
+    "anime": "Bleach",
+    "role": "Mère d'Ichigo."
+  },
+  {
+    "latin": "Karin Kurosaki",
+    "hiragana": "かりん くろさき",
+    "anime": "Bleach",
+    "role": "Sœur cadette d'Ichigo."
+  },
+  {
+    "latin": "Yuzu Kurosaki",
+    "hiragana": "ゆず くろさき",
+    "anime": "Bleach",
+    "role": "Sœur cadette d'Ichigo."
+  },
+  {
+    "latin": "Tatsuki Arisawa",
+    "hiragana": "たつき ありさわ",
+    "anime": "Bleach",
+    "role": "Amie d'enfance d'Ichigo et Orihime."
+  },
+  {
+    "latin": "Keigo Asano",
+    "hiragana": "けいご あさの",
+    "anime": "Bleach",
+    "role": "Camarade de classe d'Ichigo."
+  },
+  {
+    "latin": "Mizuiro Kojima",
+    "hiragana": "みずいろ こじま",
+    "anime": "Bleach",
+    "role": "Ami et camarade d'Ichigo."
+  },
+  {
+    "latin": "Kon",
+    "hiragana": "こん",
+    "anime": "Bleach",
+    "role": "Âme modifiée vivant dans une peluche."
+  },
+  {
+    "latin": "Yūji Itadori",
+    "hiragana": "ゆうじ いたどり",
+    "anime": "Jujutsu Kaisen",
+    "role": "Élève exorciste et réceptacle de Sukuna."
+  },
+  {
+    "latin": "Megumi Fushiguro",
+    "hiragana": "めぐみ ふしぐろ",
+    "anime": "Jujutsu Kaisen",
+    "role": "Élève exorciste maîtrisant les ombres."
+  },
+  {
+    "latin": "Nobara Kugisaki",
+    "hiragana": "のばら くぎさき",
+    "anime": "Jujutsu Kaisen",
+    "role": "Élève utilisant clous et poupée vaudou."
+  },
+  {
+    "latin": "Maki Zenin",
+    "hiragana": "まき ぜんいん",
+    "anime": "Jujutsu Kaisen",
+    "role": "Combattante spécialiste des armes."
+  },
+  {
+    "latin": "Toge Inumaki",
+    "hiragana": "とげ いぬまき",
+    "anime": "Jujutsu Kaisen",
+    "role": "Élève utilisant des mots imprégnés d'énergie occulte."
+  },
+  {
+    "latin": "Panda",
+    "hiragana": "ぱんだ",
+    "anime": "Jujutsu Kaisen",
+    "role": "Cadavre maudit intelligent de Tokyo."
+  },
+  {
+    "latin": "Masamichi Yaga",
+    "hiragana": "まさみち やが",
+    "anime": "Jujutsu Kaisen",
+    "role": "Directeur de l'école d'exorcisme de Tokyo."
+  },
+  {
+    "latin": "Kiyotaka Ijichi",
+    "hiragana": "きよたか いじち",
+    "anime": "Jujutsu Kaisen",
+    "role": "Assistant chargé des missions des exorcistes."
+  },
+  {
+    "latin": "Atsuya Kusakabe",
+    "hiragana": "あつや くさかべ",
+    "anime": "Jujutsu Kaisen",
+    "role": "Exorciste et professeur maniant le sabre."
+  },
+  {
+    "latin": "Kento Nanami",
+    "hiragana": "けんと ななみ",
+    "anime": "Jujutsu Kaisen",
+    "role": "Exorciste spécialiste de la technique des proportions."
+  },
+  {
+    "latin": "Suguru Getō",
+    "hiragana": "すぐる げとう",
+    "anime": "Jujutsu Kaisen",
+    "role": "Ancien élève devenu maître des fléaux."
+  },
+  {
+    "latin": "Utahime Iori",
+    "hiragana": "うたひめ いおり",
+    "anime": "Jujutsu Kaisen",
+    "role": "Enseignante à l'école d'exorcisme de Kyoto."
+  },
+  {
+    "latin": "Aoi Tōdō",
+    "hiragana": "あおい とうどう",
+    "anime": "Jujutsu Kaisen",
+    "role": "Élève de Kyoto à la force impressionnante."
+  },
+  {
+    "latin": "Kasumi Miwa",
+    "hiragana": "かすみ みわ",
+    "anime": "Jujutsu Kaisen",
+    "role": "Élève de Kyoto maniant le sabre."
+  },
+  {
+    "latin": "Mai Zenin",
+    "hiragana": "まい ぜんいん",
+    "anime": "Jujutsu Kaisen",
+    "role": "Sœur jumelle de Maki."
+  },
+  {
+    "latin": "Momo Nishimiya",
+    "hiragana": "もも にしみや",
+    "anime": "Jujutsu Kaisen",
+    "role": "Élève de Kyoto capable de voler sur un balai."
+  },
+  {
+    "latin": "Noritoshi Kamo",
+    "hiragana": "のりとし かも",
+    "anime": "Jujutsu Kaisen",
+    "role": "Élève utilisant la manipulation du sang."
+  },
+  {
+    "latin": "Kōkichi Muta",
+    "hiragana": "こうきち むた",
+    "anime": "Jujutsu Kaisen",
+    "role": "Élève pilotant Mechamaru."
+  },
+  {
+    "latin": "Yoshinobu Gakuganji",
+    "hiragana": "よしのぶ がくがんじ",
+    "anime": "Jujutsu Kaisen",
+    "role": "Directeur de l'école de Kyoto."
+  },
+  {
+    "latin": "Kinji Hakari",
+    "hiragana": "きんじ はかり",
+    "anime": "Jujutsu Kaisen",
+    "role": "Élève exorciste maîtrisant un domaine atypique."
+  },
+  {
+    "latin": "Kirara Hoshi",
+    "hiragana": "きらら ほし",
+    "anime": "Jujutsu Kaisen",
+    "role": "Allié de Hakari."
+  },
+  {
+    "latin": "Rika Orimoto",
+    "hiragana": "りか おりもと",
+    "anime": "Jujutsu Kaisen",
+    "role": "Esprit maudit lié à Yuta."
+  },
+  {
+    "latin": "Yū Haibara",
+    "hiragana": "ゆう はいばら",
+    "anime": "Jujutsu Kaisen",
+    "role": "Ancien camarade de Nanami."
+  },
+  {
+    "latin": "Takuma Ino",
+    "hiragana": "たくま いの",
+    "anime": "Jujutsu Kaisen",
+    "role": "Jeune exorciste admirant Nanami."
+  },
+  {
+    "latin": "Mei Mei",
+    "hiragana": "めい めい",
+    "anime": "Jujutsu Kaisen",
+    "role": "Exorciste indépendante et mercenaire."
+  },
+  {
+    "latin": "Ui Ui",
+    "hiragana": "うい うい",
+    "anime": "Jujutsu Kaisen",
+    "role": "Petit frère et assistant de Mei Mei."
+  },
+  {
+    "latin": "Tōji Fushiguro",
+    "hiragana": "とうじ ふしぐろ",
+    "anime": "Jujutsu Kaisen",
+    "role": "Combattant sans énergie occulte."
+  },
+  {
+    "latin": "Riko Amanai",
+    "hiragana": "りこ あまない",
+    "anime": "Jujutsu Kaisen",
+    "role": "Réceptacle du plasma stellaire."
+  },
+  {
+    "latin": "Misato Kuroi",
+    "hiragana": "みさと くろい",
+    "anime": "Jujutsu Kaisen",
+    "role": "Protectrice de Riko Amanai."
+  },
+  {
+    "latin": "Tengen",
+    "hiragana": "てんげん",
+    "anime": "Jujutsu Kaisen",
+    "role": "Maître des barrières."
+  },
+  {
+    "latin": "Esō",
+    "hiragana": "えそう",
+    "anime": "Jujutsu Kaisen",
+    "role": "Un des frères des peintures de la mort."
+  },
+  {
+    "latin": "Kechizu",
+    "hiragana": "けちず",
+    "anime": "Jujutsu Kaisen",
+    "role": "Un des frères des peintures de la mort."
+  },
+  {
+    "latin": "Mahito",
+    "hiragana": "まひと",
+    "anime": "Jujutsu Kaisen",
+    "role": "Fléau pouvant modifier les âmes."
+  },
+  {
+    "latin": "Hanami",
+    "hiragana": "はなみ",
+    "anime": "Jujutsu Kaisen",
+    "role": "Fléau lié à la nature."
+  },
+  {
+    "latin": "Dagon",
+    "hiragana": "だごん",
+    "anime": "Jujutsu Kaisen",
+    "role": "Fléau lié à l'océan."
+  },
+  {
+    "latin": "Sukuna",
+    "hiragana": "すくな",
+    "anime": "Jujutsu Kaisen",
+    "role": "Roi des fléaux, présent en Yuji."
+  },
+  {
+    "latin": "Uraume",
+    "hiragana": "うらうめ",
+    "anime": "Jujutsu Kaisen",
+    "role": "Fidèle allié de Sukuna."
+  },
+  {
+    "latin": "Haruta Shigemo",
+    "hiragana": "はるた しげも",
+    "anime": "Jujutsu Kaisen",
+    "role": "Maître des fléaux au comportement cruel."
+  },
+  {
+    "latin": "Mimiko Hasaba",
+    "hiragana": "みみこ はさば",
+    "anime": "Jujutsu Kaisen",
+    "role": "Protégée de Suguru Geto."
+  },
+  {
+    "latin": "Nanako Hasaba",
+    "hiragana": "ななこ はさば",
+    "anime": "Jujutsu Kaisen",
+    "role": "Protégée de Suguru Geto."
+  },
+  {
+    "latin": "Manami Suda",
+    "hiragana": "まなみ すだ",
+    "anime": "Jujutsu Kaisen",
+    "role": "Membre du groupe de Geto."
+  },
+  {
+    "latin": "Toshihisa Negi",
+    "hiragana": "としひさ ねぎ",
+    "anime": "Jujutsu Kaisen",
+    "role": "Membre du groupe de Geto."
+  },
+  {
+    "latin": "Miguel",
+    "hiragana": "みげる",
+    "anime": "Jujutsu Kaisen",
+    "role": "Combattant affrontant Gojo dans le film préquelle."
+  },
+  {
+    "latin": "Hajime Kashimo",
+    "hiragana": "はじめ かしも",
+    "anime": "Jujutsu Kaisen",
+    "role": "Joueur du jeu de l'Extermination."
+  },
+  {
+    "latin": "Hiromi Higuruma",
+    "hiragana": "ひろみ ひぐるま",
+    "anime": "Jujutsu Kaisen",
+    "role": "Avocat devenu exorciste."
+  },
+  {
+    "latin": "Fumihiko Takaba",
+    "hiragana": "ふみひこ たかば",
+    "anime": "Jujutsu Kaisen",
+    "role": "Humoriste possédant une technique singulière."
+  },
+  {
+    "latin": "Tsumiki Fushiguro",
+    "hiragana": "つみき ふしぐろ",
+    "anime": "Jujutsu Kaisen",
+    "role": "Demi-sœur de Megumi."
+  },
+  {
+    "latin": "Hana Kurusu",
+    "hiragana": "はな くるす",
+    "anime": "Jujutsu Kaisen",
+    "role": "Jeune femme liée à l'Ange."
+  },
+  {
+    "latin": "Asta",
+    "hiragana": "あすた",
+    "anime": "Black Clover",
+    "role": "Orphelin des Taureaux Noirs privé de magie."
+  },
+  {
+    "latin": "Yuno",
+    "hiragana": "ゆの",
+    "anime": "Black Clover",
+    "role": "Mage talentueux rival et ami d'Asta."
+  },
+  {
+    "latin": "Noelle",
+    "hiragana": "のえる",
+    "anime": "Black Clover",
+    "role": "Mage de la famille Silva."
+  },
+  {
+    "latin": "Yami Sukehiro",
+    "hiragana": "やみ すけひろ",
+    "anime": "Black Clover",
+    "role": "Capitaine des Taureaux Noirs."
+  },
+  {
+    "latin": "Magna",
+    "hiragana": "まぐな",
+    "anime": "Black Clover",
+    "role": "Membre des Taureaux Noirs usant de magie de feu."
+  },
+  {
+    "latin": "Gordon",
+    "hiragana": "ごおどん",
+    "anime": "Black Clover",
+    "role": "Mage des Taureaux Noirs spécialisé en poison."
+  },
+  {
+    "latin": "Grey",
+    "hiragana": "ぐれい",
+    "anime": "Black Clover",
+    "role": "Mage métamorphe des Taureaux Noirs."
+  },
+  {
+    "latin": "Zora Ideale",
+    "hiragana": "ぞら いでああれ",
+    "anime": "Black Clover",
+    "role": "Mage usant de pièges et de contre-magie."
+  },
+  {
+    "latin": "Henry Legolant",
+    "hiragana": "へんりい れごらんと",
+    "anime": "Black Clover",
+    "role": "Membre des Taureaux Noirs lié à leur repaire."
+  },
+  {
+    "latin": "Nacht",
+    "hiragana": "なはと",
+    "anime": "Black Clover",
+    "role": "Vice-capitaine des Taureaux Noirs."
+  },
+  {
+    "latin": "Mimosa",
+    "hiragana": "みもざ",
+    "anime": "Black Clover",
+    "role": "Mage de l'Aube d'Or et guérisseuse."
+  },
+  {
+    "latin": "Klaus",
+    "hiragana": "くらうす",
+    "anime": "Black Clover",
+    "role": "Mage sérieux de l'Aube d'Or."
+  },
+  {
+    "latin": "Langris",
+    "hiragana": "らんぎるす",
+    "anime": "Black Clover",
+    "role": "Mage utilisant la magie spatiale."
+  },
+  {
+    "latin": "Bell",
+    "hiragana": "べる",
+    "anime": "Black Clover",
+    "role": "Esprit du vent qui accompagne Yuno."
+  },
+  {
+    "latin": "Fuegoleon",
+    "hiragana": "ふえごれおん",
+    "anime": "Black Clover",
+    "role": "Capitaine des Lions flamboyants."
+  },
+  {
+    "latin": "Mereoleona",
+    "hiragana": "めれおれおな",
+    "anime": "Black Clover",
+    "role": "Combattante et cheffe des Lions flamboyants."
+  },
+  {
+    "latin": "Leopold",
+    "hiragana": "れおぽるど",
+    "anime": "Black Clover",
+    "role": "Petit frère de Fuegoleon."
+  },
+  {
+    "latin": "Dorothy Unsworth",
+    "hiragana": "どろしい あんずわあす",
+    "anime": "Black Clover",
+    "role": "Capitaine des Paons de corail."
+  },
+  {
+    "latin": "Nozel",
+    "hiragana": "のぜる",
+    "anime": "Black Clover",
+    "role": "Capitaine des Aigles d'argent."
+  },
+  {
+    "latin": "Solid",
+    "hiragana": "そりど",
+    "anime": "Black Clover",
+    "role": "Frère de Noelle."
+  },
+  {
+    "latin": "Nebra",
+    "hiragana": "ねぶら",
+    "anime": "Black Clover",
+    "role": "Sœur de Noelle."
+  },
+  {
+    "latin": "Acier",
+    "hiragana": "あしえ",
+    "anime": "Black Clover",
+    "role": "Mère de Noelle et ancienne chevalière-mage."
+  },
+  {
+    "latin": "Rill",
+    "hiragana": "りる",
+    "anime": "Black Clover",
+    "role": "Capitaine des Cerfs turquoise."
+  },
+  {
+    "latin": "Kaiser Granvorka",
+    "hiragana": "かいぜる ぐらんぼるか",
+    "anime": "Black Clover",
+    "role": "Capitaine des Orques pourpres."
+  },
+  {
+    "latin": "Julius",
+    "hiragana": "ゆりうす",
+    "anime": "Black Clover",
+    "role": "Empereur-Mage du royaume de Clover."
+  },
+  {
+    "latin": "Marx Francois",
+    "hiragana": "まるくす ふらんそわ",
+    "anime": "Black Clover",
+    "role": "Assistant de l'Empereur-Mage."
+  },
+  {
+    "latin": "Secre Swallowtail",
+    "hiragana": "せくれ すわろている",
+    "anime": "Black Clover",
+    "role": "Magicienne aux secrets anciens."
+  },
+  {
+    "latin": "Patry",
+    "hiragana": "ぱとり",
+    "anime": "Black Clover",
+    "role": "Elfe impliqué dans les événements du Royaume."
+  },
+  {
+    "latin": "Rhya",
+    "hiragana": "らいあ",
+    "anime": "Black Clover",
+    "role": "Membre du Troisième Œil."
+  },
+  {
+    "latin": "Licht",
+    "hiragana": "りひと",
+    "anime": "Black Clover",
+    "role": "Chef des elfes."
+  },
+  {
+    "latin": "Zenon",
+    "hiragana": "ぜのん",
+    "anime": "Black Clover",
+    "role": "Membre de la Triade sombre."
+  },
+  {
+    "latin": "Dante",
+    "hiragana": "だんて",
+    "anime": "Black Clover",
+    "role": "Membre de la Triade sombre."
+  },
+  {
+    "latin": "Lucius",
+    "hiragana": "るしうす",
+    "anime": "Black Clover",
+    "role": "Mage énigmatique aux grands projets."
+  },
+  {
+    "latin": "Liebe",
+    "hiragana": "りいべ",
+    "anime": "Black Clover",
+    "role": "Démon lié à l'anti-magie d'Asta."
+  },
+  {
+    "latin": "Licita",
+    "hiragana": "りちた",
+    "anime": "Black Clover",
+    "role": "Mère biologique d'Asta."
+  },
+  {
+    "latin": "Lotus",
+    "hiragana": "ろおたす",
+    "anime": "Black Clover",
+    "role": "Mage du royaume de Diamond."
+  },
+  {
+    "latin": "Adrammelech",
+    "hiragana": "あどらめれく",
+    "anime": "Black Clover",
+    "role": "Démon de haut rang."
+  },
+  {
+    "latin": "Zagred",
+    "hiragana": "ざぐれど",
+    "anime": "Black Clover",
+    "role": "Démon ayant manipulé le conflit des elfes."
+  },
+  {
+    "latin": "Beelzebub",
+    "hiragana": "べるぜぶぶ",
+    "anime": "Black Clover",
+    "role": "Démon lié à Zenon."
+  },
+  {
+    "latin": "Eren",
+    "hiragana": "えれん",
+    "anime": "Attack on Titan",
+    "role": "Soldat devenu détenteur du Titan Assaillant."
+  },
+  {
+    "latin": "Mikasa",
+    "hiragana": "みかさ",
+    "anime": "Attack on Titan",
+    "role": "Combattante d'élite liée à Eren et Armin."
+  },
+  {
+    "latin": "Armin Arlert",
+    "hiragana": "あるみん あるれると",
+    "anime": "Attack on Titan",
+    "role": "Stratège du Bataillon d'exploration."
+  },
+  {
+    "latin": "Reiner Braun",
+    "hiragana": "らいなあ ぶらうん",
+    "anime": "Attack on Titan",
+    "role": "Guerrier du Titan Cuirassé."
+  },
+  {
+    "latin": "Annie Leonhart",
+    "hiragana": "あに れおんはあと",
+    "anime": "Attack on Titan",
+    "role": "Guerrière du Titan Féminin."
+  },
+  {
+    "latin": "Bertholdt Hoover",
+    "hiragana": "べるとると ふうばあ",
+    "anime": "Attack on Titan",
+    "role": "Premier détenteur connu du Titan Colossal."
+  },
+  {
+    "latin": "Connie Springer",
+    "hiragana": "こにい すぷりんがあ",
+    "anime": "Attack on Titan",
+    "role": "Membre de la 104e brigade."
+  },
+  {
+    "latin": "Historia Reiss",
+    "hiragana": "ひすとりあ れいす",
+    "anime": "Attack on Titan",
+    "role": "Jeune femme de sang royal."
+  },
+  {
+    "latin": "Ymir",
+    "hiragana": "ゆみる",
+    "anime": "Attack on Titan",
+    "role": "Jeune soldate pouvant se transformer en Titan."
+  },
+  {
+    "latin": "Marco",
+    "hiragana": "まるこ",
+    "anime": "Attack on Titan",
+    "role": "Cadet proche de Jean."
+  },
+  {
+    "latin": "Hange",
+    "hiragana": "はんじ",
+    "anime": "Attack on Titan",
+    "role": "Chercheuse et commandante du Bataillon."
+  },
+  {
+    "latin": "Nile Dok",
+    "hiragana": "ないる どうく",
+    "anime": "Attack on Titan",
+    "role": "Commandant des Brigades spéciales."
+  },
+  {
+    "latin": "Marlowe",
+    "hiragana": "まるろ",
+    "anime": "Attack on Titan",
+    "role": "Membre des Brigades spéciales."
+  },
+  {
+    "latin": "Dina",
+    "hiragana": "だいな",
+    "anime": "Attack on Titan",
+    "role": "Femme de la lignée royale."
+  },
+  {
+    "latin": "Carla",
+    "hiragana": "かるら",
+    "anime": "Attack on Titan",
+    "role": "Mère d'Eren."
+  },
+  {
+    "latin": "Zeke",
+    "hiragana": "じいく",
+    "anime": "Attack on Titan",
+    "role": "Guerrier du Titan Bestial."
+  },
+  {
+    "latin": "Pieck",
+    "hiragana": "ぴいく",
+    "anime": "Attack on Titan",
+    "role": "Guerrière du Titan Charrette."
+  },
+  {
+    "latin": "Porco Galliard",
+    "hiragana": "ぽるこ がりああど",
+    "anime": "Attack on Titan",
+    "role": "Détenteur du Titan Mâchoire."
+  },
+  {
+    "latin": "Gabi Braun",
+    "hiragana": "がび ぶらうん",
+    "anime": "Attack on Titan",
+    "role": "Jeune candidate guerrière de Mahr."
+  },
+  {
+    "latin": "Udo",
+    "hiragana": "うど",
+    "anime": "Attack on Titan",
+    "role": "Jeune candidat guerrier de Mahr."
+  },
+  {
+    "latin": "Kenny",
+    "hiragana": "けにい",
+    "anime": "Attack on Titan",
+    "role": "Membre redouté de la police intérieure."
+  },
+  {
+    "latin": "Frieda Reiss",
+    "hiragana": "ふりいだ れいす",
+    "anime": "Attack on Titan",
+    "role": "Ancienne héritière du Titan Originel."
+  },
+  {
+    "latin": "Nicolo",
+    "hiragana": "にころ",
+    "anime": "Attack on Titan",
+    "role": "Cuisinier originaire de Mahr."
+  },
+  {
+    "latin": "Eren Kruger",
+    "hiragana": "えれん くるうがあ",
+    "anime": "Attack on Titan",
+    "role": "Agent secret surnommé la Chouette."
+  },
+  {
+    "latin": "Colt Grice",
+    "hiragana": "こると ぐらいす",
+    "anime": "Attack on Titan",
+    "role": "Candidat guerrier de Mahr."
+  },
+  {
+    "latin": "Tom",
+    "hiragana": "とむ",
+    "anime": "Attack on Titan",
+    "role": "Ancien détenteur du Titan Bestial."
+  },
+  {
+    "latin": "Edward",
+    "hiragana": "えどわあど",
+    "anime": "Fullmetal Alchemist: Brotherhood",
+    "role": "Alchimiste d'État surnommé Fullmetal."
+  },
+  {
+    "latin": "Al",
+    "hiragana": "ある",
+    "anime": "Fullmetal Alchemist: Brotherhood",
+    "role": "Surnom d'Alphonse, frère d'Edward."
+  },
+  {
+    "latin": "Roy Mustang",
+    "hiragana": "ろい ますたんぐ",
+    "anime": "Fullmetal Alchemist: Brotherhood",
+    "role": "Colonel alchimiste maniant le feu."
+  },
+  {
+    "latin": "Riza Hawkeye",
+    "hiragana": "りざ ほおくあい",
+    "anime": "Fullmetal Alchemist: Brotherhood",
+    "role": "Lieutenante et protectrice de Roy Mustang."
+  },
+  {
+    "latin": "Izumi",
+    "hiragana": "いずみ",
+    "anime": "Fullmetal Alchemist: Brotherhood",
+    "role": "Maîtresse d'alchimie des frères Elric."
+  },
+  {
+    "latin": "Sig",
+    "hiragana": "しぐ",
+    "anime": "Fullmetal Alchemist: Brotherhood",
+    "role": "Mari d'Izumi Curtis."
+  },
+  {
+    "latin": "Ling Yao",
+    "hiragana": "りん やお",
+    "anime": "Fullmetal Alchemist: Brotherhood",
+    "role": "Prince de Xing à la recherche de l'immortalité."
+  },
+  {
+    "latin": "Fū",
+    "hiragana": "ふう",
+    "anime": "Fullmetal Alchemist: Brotherhood",
+    "role": "Garde du corps de Ling."
+  },
+  {
+    "latin": "Selim",
+    "hiragana": "せりむ",
+    "anime": "Fullmetal Alchemist: Brotherhood",
+    "role": "Jeune garçon de la famille Bradley."
+  },
+  {
+    "latin": "Scar",
+    "hiragana": "すかあ",
+    "anime": "Fullmetal Alchemist: Brotherhood",
+    "role": "Combattant ishvalan en quête de vengeance."
+  },
+  {
+    "latin": "Lust",
+    "hiragana": "らすと",
+    "anime": "Fullmetal Alchemist: Brotherhood",
+    "role": "Homunculus incarnant la luxure."
+  },
+  {
+    "latin": "Gluttony",
+    "hiragana": "ぐらとにい",
+    "anime": "Fullmetal Alchemist: Brotherhood",
+    "role": "Homunculus incarnant la gourmandise."
+  },
+  {
+    "latin": "Sloth",
+    "hiragana": "すろうす",
+    "anime": "Fullmetal Alchemist: Brotherhood",
+    "role": "Homunculus incarnant la paresse."
+  },
+  {
+    "latin": "Greed",
+    "hiragana": "ぐりいど",
+    "anime": "Fullmetal Alchemist: Brotherhood",
+    "role": "Homunculus incarnant l'avarice."
+  },
+  {
+    "latin": "Pride",
+    "hiragana": "ぷらいど",
+    "anime": "Fullmetal Alchemist: Brotherhood",
+    "role": "Homunculus incarnant l'orgueil."
+  },
+  {
+    "latin": "Wrath",
+    "hiragana": "らあす",
+    "anime": "Fullmetal Alchemist: Brotherhood",
+    "role": "Homunculus incarnant la colère."
+  },
+  {
+    "latin": "Father",
+    "hiragana": "おとうさま",
+    "anime": "Fullmetal Alchemist: Brotherhood",
+    "role": "Créateur et maître des Homunculus."
+  },
+  {
+    "latin": "Hohenheim",
+    "hiragana": "ほおえんはいむ",
+    "anime": "Fullmetal Alchemist: Brotherhood",
+    "role": "Père des frères Elric."
+  },
+  {
+    "latin": "Nīna",
+    "hiragana": "にいな",
+    "anime": "Fullmetal Alchemist: Brotherhood",
+    "role": "Fille de Shou Tucker."
+  },
+  {
+    "latin": "Alexander",
+    "hiragana": "あれきさんだあ",
+    "anime": "Fullmetal Alchemist: Brotherhood",
+    "role": "Chien de Nina Tucker."
+  },
+  {
+    "latin": "Maria Ross",
+    "hiragana": "まりあ ろす",
+    "anime": "Fullmetal Alchemist: Brotherhood",
+    "role": "Lieutenante de l'armée d'Amestris."
+  },
+  {
+    "latin": "Denny",
+    "hiragana": "でにい",
+    "anime": "Fullmetal Alchemist: Brotherhood",
+    "role": "Soldat de l'armée d'Amestris."
+  },
+  {
+    "latin": "Heymans Breda",
+    "hiragana": "はいまんす ぶれだ",
+    "anime": "Fullmetal Alchemist: Brotherhood",
+    "role": "Subordonné du colonel Mustang."
+  },
+  {
+    "latin": "Kain",
+    "hiragana": "けいん",
+    "anime": "Fullmetal Alchemist: Brotherhood",
+    "role": "Soldat de l'équipe du colonel Mustang."
+  },
+  {
+    "latin": "Marcoh",
+    "hiragana": "まるこお",
+    "anime": "Fullmetal Alchemist: Brotherhood",
+    "role": "Médecin et ancien alchimiste d'État."
+  },
+  {
+    "latin": "Solf Kimblee",
+    "hiragana": "ぞるふ きんぶりい",
+    "anime": "Fullmetal Alchemist: Brotherhood",
+    "role": "Alchimiste d'État surnommé le Crimson Alchemist."
+  },
+  {
+    "latin": "Miles",
+    "hiragana": "まいるず",
+    "anime": "Fullmetal Alchemist: Brotherhood",
+    "role": "Soldat de la forteresse de Briggs."
+  },
+  {
+    "latin": "Grumman",
+    "hiragana": "ぐらまん",
+    "anime": "Fullmetal Alchemist: Brotherhood",
+    "role": "Commandant militaire d'Amestris."
+  },
+  {
+    "latin": "Gracia",
+    "hiragana": "ぐれいしあ",
+    "anime": "Fullmetal Alchemist: Brotherhood",
+    "role": "Épouse de Maes Hughes."
+  },
+  {
+    "latin": "Elicia",
+    "hiragana": "えりしあ",
+    "anime": "Fullmetal Alchemist: Brotherhood",
+    "role": "Fille de Maes Hughes."
+  },
+  {
+    "latin": "Rose Thomas",
+    "hiragana": "ろぜ とおます",
+    "anime": "Fullmetal Alchemist: Brotherhood",
+    "role": "Habitante de Liore."
+  },
+  {
+    "latin": "Yoki",
+    "hiragana": "よき",
+    "anime": "Fullmetal Alchemist: Brotherhood",
+    "role": "Ancien administrateur corrompu."
+  },
+  {
+    "latin": "Martel",
+    "hiragana": "まあてる",
+    "anime": "Fullmetal Alchemist: Brotherhood",
+    "role": "Chimère liée au groupe de Greed."
+  },
+  {
+    "latin": "Barry",
+    "hiragana": "ばりい",
+    "anime": "Fullmetal Alchemist: Brotherhood",
+    "role": "Âme fixée à une armure de boucher."
+  },
+  {
+    "latin": "Pinako",
+    "hiragana": "ぴなこ",
+    "anime": "Fullmetal Alchemist: Brotherhood",
+    "role": "Grand-mère de Winry."
+  },
+  {
+    "latin": "Mei",
+    "hiragana": "めい",
+    "anime": "Fullmetal Alchemist: Brotherhood",
+    "role": "Jeune alchimiste venue de Xing."
+  },
+  {
+    "latin": "Zampano",
+    "hiragana": "ざんぱの",
+    "anime": "Fullmetal Alchemist: Brotherhood",
+    "role": "Chimère alliée de Scar."
+  },
+  {
+    "latin": "Bidō",
+    "hiragana": "びどう",
+    "anime": "Fullmetal Alchemist: Brotherhood",
+    "role": "Chimère fidèle à Greed."
+  },
+  {
+    "latin": "Cornello",
+    "hiragana": "こおねろ",
+    "anime": "Fullmetal Alchemist: Brotherhood",
+    "role": "Prêtre manipulateur de Liore."
+  },
+  {
+    "latin": "Truth",
+    "hiragana": "しんり",
+    "anime": "Fullmetal Alchemist: Brotherhood",
+    "role": "Entité rencontrée lors de la transmutation humaine."
+  },
+  {
+    "latin": "Kiyotaka Ayanokōji",
+    "hiragana": "きよたか あやのこうじ",
+    "anime": "Classroom of the Elite",
+    "role": "Lycéen discret aux capacités exceptionnelles."
+  },
+  {
+    "latin": "Suzune Horikita",
+    "hiragana": "すずね ほりきた",
+    "anime": "Classroom of the Elite",
+    "role": "Élève studieuse voulant atteindre la classe A."
+  },
+  {
+    "latin": "Kei Karuizawa",
+    "hiragana": "けい かるいざわ",
+    "anime": "Classroom of the Elite",
+    "role": "Élève influente et proche d'Ayanokoji."
+  },
+  {
+    "latin": "Airi Sakura",
+    "hiragana": "あいり さくら",
+    "anime": "Classroom of the Elite",
+    "role": "Élève timide de la classe D."
+  },
+  {
+    "latin": "Ken Sudō",
+    "hiragana": "けん すどう",
+    "anime": "Classroom of the Elite",
+    "role": "Élève passionné de basketball."
+  },
+  {
+    "latin": "Yōsuke Hirata",
+    "hiragana": "ようすけ ひらた",
+    "anime": "Classroom of the Elite",
+    "role": "Délégué sociable de la classe D."
+  },
+  {
+    "latin": "Rokusuke Kōenji",
+    "hiragana": "ろくすけ こうえんじ",
+    "anime": "Classroom of the Elite",
+    "role": "Lycéen excentrique et extrêmement doué."
+  },
+  {
+    "latin": "Haruki Yamauchi",
+    "hiragana": "はるき やまうち",
+    "anime": "Classroom of the Elite",
+    "role": "Élève de la classe D."
+  },
+  {
+    "latin": "Kanji Ike",
+    "hiragana": "かんじ いけ",
+    "anime": "Classroom of the Elite",
+    "role": "Élève sociable de la classe D."
+  },
+  {
+    "latin": "Teruhiko Yukimura",
+    "hiragana": "てるひこ ゆきむら",
+    "anime": "Classroom of the Elite",
+    "role": "Élève sérieux et fort en théorie."
+  },
+  {
+    "latin": "Maya Satō",
+    "hiragana": "まや さとう",
+    "anime": "Classroom of the Elite",
+    "role": "Élève de la classe D."
+  },
+  {
+    "latin": "Mio Ibuki",
+    "hiragana": "みお いぶき",
+    "anime": "Classroom of the Elite",
+    "role": "Élève sportive de la classe C."
+  },
+  {
+    "latin": "Hiyori Shiina",
+    "hiragana": "ひより しいな",
+    "anime": "Classroom of the Elite",
+    "role": "Élève calme qui aime lire."
+  },
+  {
+    "latin": "Albert Yamada",
+    "hiragana": "あるべると やまだ",
+    "anime": "Classroom of the Elite",
+    "role": "Grand élève proche de Ryuen."
+  },
+  {
+    "latin": "Shiho Manabe",
+    "hiragana": "しほ まなべ",
+    "anime": "Classroom of the Elite",
+    "role": "Élève de la classe C."
+  },
+  {
+    "latin": "Honami Ichinose",
+    "hiragana": "ほなみ いちのせ",
+    "anime": "Classroom of the Elite",
+    "role": "Déléguée appréciée de la classe B."
+  },
+  {
+    "latin": "Arisu Sakayanagi",
+    "hiragana": "ありす さかやなぎ",
+    "anime": "Classroom of the Elite",
+    "role": "Stratège redoutable de la classe A."
+  },
+  {
+    "latin": "Kōhei Katsuragi",
+    "hiragana": "こうへい かつらぎ",
+    "anime": "Classroom of the Elite",
+    "role": "Élève sérieux de la classe A."
+  },
+  {
+    "latin": "Yahiko Totsuka",
+    "hiragana": "やひこ とつか",
+    "anime": "Classroom of the Elite",
+    "role": "Élève allié de Katsuragi."
+  },
+  {
+    "latin": "Manabu Horikita",
+    "hiragana": "まなぶ ほりきた",
+    "anime": "Classroom of the Elite",
+    "role": "Ancien président du conseil des élèves."
+  },
+  {
+    "latin": "Akane Tachibana",
+    "hiragana": "あかね たちばな",
+    "anime": "Classroom of the Elite",
+    "role": "Secrétaire du conseil des élèves."
+  },
+  {
+    "latin": "Chie Hoshinomiya",
+    "hiragana": "ちえ ほしのみや",
+    "anime": "Classroom of the Elite",
+    "role": "Professeure principale de la classe B."
+  },
+  {
+    "latin": "Miyabi Nagumo",
+    "hiragana": "みやび なぐも",
+    "anime": "Classroom of the Elite",
+    "role": "Président ambitieux du conseil des élèves."
+  },
+  {
+    "latin": "Hideo Sotomura",
+    "hiragana": "ひでお そとむら",
+    "anime": "Classroom of the Elite",
+    "role": "Élève passionné par l'informatique."
+  },
+  {
+    "latin": "Satsuki Shinohara",
+    "hiragana": "さつき しのはら",
+    "anime": "Classroom of the Elite",
+    "role": "Élève de la classe D."
+  },
+  {
+    "latin": "Masayoshi Hashimoto",
+    "hiragana": "まさよし はしもと",
+    "anime": "Classroom of the Elite",
+    "role": "Élève de la classe A."
+  },
+  {
+    "latin": "Ichika Amasawa",
+    "hiragana": "いちか あまさわ",
+    "anime": "Classroom of the Elite",
+    "role": "Élève de première année rusée."
+  },
+  {
+    "latin": "Takuya Yagami",
+    "hiragana": "たくや やがみ",
+    "anime": "Classroom of the Elite",
+    "role": "Élève de première année calculateur."
+  },
+  {
+    "latin": "Tsubasa Nanase",
+    "hiragana": "つばさ ななせ",
+    "anime": "Classroom of the Elite",
+    "role": "Élève de première année."
+  },
+  {
+    "latin": "Kazuomi Hōsen",
+    "hiragana": "かずおみ ほうせん",
+    "anime": "Classroom of the Elite",
+    "role": "Lycéen de première année intimidant."
+  },
+  {
+    "latin": "Sakurako Tsubaki",
+    "hiragana": "さくらこ つばき",
+    "anime": "Classroom of the Elite",
+    "role": "Élève de première année."
+  },
+  {
+    "latin": "Killua",
+    "hiragana": "きるあ",
+    "anime": "Hunter x Hunter",
+    "role": "Ami de Gon issu d'une famille d'assassins."
+  },
+  {
+    "latin": "Ging Freecss",
+    "hiragana": "じん ふりいくす",
+    "anime": "Hunter x Hunter",
+    "role": "Père de Gon et Hunter légendaire."
+  },
+  {
+    "latin": "Mito",
+    "hiragana": "みと",
+    "anime": "Hunter x Hunter",
+    "role": "Tante adoptive de Gon sur l'île de la Baleine."
+  },
+  {
+    "latin": "Bisky",
+    "hiragana": "びすけ",
+    "anime": "Hunter x Hunter",
+    "role": "Surnom de Biscuit Krueger, maîtresse du Nen."
+  },
+  {
+    "latin": "Kite",
+    "hiragana": "かいと",
+    "anime": "Hunter x Hunter",
+    "role": "Hunter lié à Ging Freecss."
+  },
+  {
+    "latin": "Netero",
+    "hiragana": "ねてろ",
+    "anime": "Hunter x Hunter",
+    "role": "Président emblématique de l'Association des Hunters."
+  },
+  {
+    "latin": "Zeno",
+    "hiragana": "ぜの",
+    "anime": "Hunter x Hunter",
+    "role": "Grand-père de Killua et assassin Zoldyck."
+  },
+  {
+    "latin": "Silva",
+    "hiragana": "しるば",
+    "anime": "Hunter x Hunter",
+    "role": "Père de Killua, chef de la famille Zoldyck."
+  },
+  {
+    "latin": "Illumi",
+    "hiragana": "いるみ",
+    "anime": "Hunter x Hunter",
+    "role": "Frère aîné de Killua."
+  },
+  {
+    "latin": "Milluki",
+    "hiragana": "みるき",
+    "anime": "Hunter x Hunter",
+    "role": "Frère de Killua spécialiste de technologie."
+  },
+  {
+    "latin": "Kalluto",
+    "hiragana": "かると",
+    "anime": "Hunter x Hunter",
+    "role": "Jeune membre de la famille Zoldyck."
+  },
+  {
+    "latin": "Alluka",
+    "hiragana": "あるか",
+    "anime": "Hunter x Hunter",
+    "role": "Sœur de Killua aux pouvoirs mystérieux."
+  },
+  {
+    "latin": "Nanika",
+    "hiragana": "なにか",
+    "anime": "Hunter x Hunter",
+    "role": "Être mystérieux lié à Alluka."
+  },
+  {
+    "latin": "Maha",
+    "hiragana": "まは",
+    "anime": "Hunter x Hunter",
+    "role": "Ancêtre de la famille Zoldyck."
+  },
+  {
+    "latin": "Chrollo Lucilfer",
+    "hiragana": "くろろ るしるふる",
+    "anime": "Hunter x Hunter",
+    "role": "Chef de la Brigade fantôme."
+  },
+  {
+    "latin": "Machi",
+    "hiragana": "まち",
+    "anime": "Hunter x Hunter",
+    "role": "Membre de la Brigade, spécialiste du fil de Nen."
+  },
+  {
+    "latin": "Shizuku",
+    "hiragana": "しずく",
+    "anime": "Hunter x Hunter",
+    "role": "Membre de la Brigade possédant un aspirateur de Nen."
+  },
+  {
+    "latin": "Franklin",
+    "hiragana": "ふらんくりん",
+    "anime": "Hunter x Hunter",
+    "role": "Membre de la Brigade fantôme qui tire des projectiles."
+  },
+  {
+    "latin": "Nobunaga Hazama",
+    "hiragana": "のぶなが はざま",
+    "anime": "Hunter x Hunter",
+    "role": "Sabreur de la Brigade fantôme."
+  },
+  {
+    "latin": "Pakunoda",
+    "hiragana": "ぱくのだ",
+    "anime": "Hunter x Hunter",
+    "role": "Membre de la Brigade capable de lire les souvenirs."
+  },
+  {
+    "latin": "Kortopi",
+    "hiragana": "こるとぴ",
+    "anime": "Hunter x Hunter",
+    "role": "Membre de la Brigade pratiquant la copie d'objets."
+  },
+  {
+    "latin": "Bonolenov",
+    "hiragana": "ぼのれのふ",
+    "anime": "Hunter x Hunter",
+    "role": "Combattant de la Brigade fantôme."
+  },
+  {
+    "latin": "Omokage",
+    "hiragana": "おもかげ",
+    "anime": "Hunter x Hunter",
+    "role": "Ancien membre de la Brigade apparaissant dans un film."
+  },
+  {
+    "latin": "Melody",
+    "hiragana": "せんりつ",
+    "anime": "Hunter x Hunter",
+    "role": "Musicienne et garde du corps de Kurapika."
+  },
+  {
+    "latin": "Komugi",
+    "hiragana": "こむぎ",
+    "anime": "Hunter x Hunter",
+    "role": "Championne du jeu de Gungi."
+  },
+  {
+    "latin": "Pitou",
+    "hiragana": "ぴとう",
+    "anime": "Hunter x Hunter",
+    "role": "Garde royal du roi des fourmis chimères."
+  },
+  {
+    "latin": "Pouf",
+    "hiragana": "ぷふ",
+    "anime": "Hunter x Hunter",
+    "role": "Garde royal du roi des fourmis chimères."
+  },
+  {
+    "latin": "Youpi",
+    "hiragana": "ゆぴい",
+    "anime": "Hunter x Hunter",
+    "role": "Garde royal du roi des fourmis chimères."
+  },
+  {
+    "latin": "Zazan",
+    "hiragana": "ざざん",
+    "anime": "Hunter x Hunter",
+    "role": "Cheffe d'escouade des fourmis chimères."
+  },
+  {
+    "latin": "Leol",
+    "hiragana": "れおる",
+    "anime": "Hunter x Hunter",
+    "role": "Chef de troupe de fourmis chimères."
+  },
+  {
+    "latin": "Ikalgo",
+    "hiragana": "いかるご",
+    "anime": "Hunter x Hunter",
+    "role": "Fourmi chimère alliée de Killua."
+  },
+  {
+    "latin": "Meleoron",
+    "hiragana": "めれおろん",
+    "anime": "Hunter x Hunter",
+    "role": "Fourmi chimère experte en camouflage."
+  },
+  {
+    "latin": "Colt",
+    "hiragana": "こると",
+    "anime": "Hunter x Hunter",
+    "role": "Fourmi chimère protectrice de sa reine."
+  },
+  {
+    "latin": "Hina",
+    "hiragana": "ひな",
+    "anime": "Hunter x Hunter",
+    "role": "Fourmi chimère spécialisée dans l'exorcisme du Nen."
+  },
+  {
+    "latin": "Palm Siberia",
+    "hiragana": "ぱあむ しべりあ",
+    "anime": "Hunter x Hunter",
+    "role": "Hunter alliée de l'équipe d'infiltration."
+  },
+  {
+    "latin": "Morel",
+    "hiragana": "もらう",
+    "anime": "Hunter x Hunter",
+    "role": "Hunter chevronné maniant de la fumée."
+  },
+  {
+    "latin": "Zushi",
+    "hiragana": "ずし",
+    "anime": "Hunter x Hunter",
+    "role": "Jeune élève de Wing à la Tour céleste."
+  },
+  {
+    "latin": "Wing",
+    "hiragana": "ういんぐ",
+    "anime": "Hunter x Hunter",
+    "role": "Maître de Nen de Gon et Killua."
+  },
+  {
+    "latin": "Kastro",
+    "hiragana": "かすとろ",
+    "anime": "Hunter x Hunter",
+    "role": "Combattant de la Tour céleste."
+  },
+  {
+    "latin": "Hanzō",
+    "hiragana": "はんぞう",
+    "anime": "Hunter x Hunter",
+    "role": "Ninja candidat à l'examen Hunter."
+  },
+  {
+    "latin": "Tonpa",
+    "hiragana": "とんぱ",
+    "anime": "Hunter x Hunter",
+    "role": "Candidat récidiviste à l'examen Hunter."
+  },
+  {
+    "latin": "Ponzu",
+    "hiragana": "ぽんず",
+    "anime": "Hunter x Hunter",
+    "role": "Candidate à l'examen Hunter."
+  },
+  {
+    "latin": "Menchi",
+    "hiragana": "めんち",
+    "anime": "Hunter x Hunter",
+    "role": "Examinatrice Hunter spécialisée dans la cuisine."
+  },
+  {
+    "latin": "Buhara",
+    "hiragana": "ぶはら",
+    "anime": "Hunter x Hunter",
+    "role": "Examinateur Hunter gastronome."
+  },
+  {
+    "latin": "Satotz",
+    "hiragana": "さとつ",
+    "anime": "Hunter x Hunter",
+    "role": "Examinateur lors de la première épreuve."
+  },
+  {
+    "latin": "Beans",
+    "hiragana": "びいんず",
+    "anime": "Hunter x Hunter",
+    "role": "Assistant du président Netero."
+  },
+  {
+    "latin": "Canary",
+    "hiragana": "かなりあ",
+    "anime": "Hunter x Hunter",
+    "role": "Apprentie domestique de la famille Zoldyck."
+  },
+  {
+    "latin": "Gotoh",
+    "hiragana": "ごとう",
+    "anime": "Hunter x Hunter",
+    "role": "Intendant des Zoldyck."
+  },
+  {
+    "latin": "Amane",
+    "hiragana": "あまね",
+    "anime": "Hunter x Hunter",
+    "role": "Servante de la famille Zoldyck."
+  },
+  {
+    "latin": "Tsubone",
+    "hiragana": "つぼね",
+    "anime": "Hunter x Hunter",
+    "role": "Servante expérimentée des Zoldyck."
+  },
+  {
+    "latin": "Zepile",
+    "hiragana": "ぜぱいる",
+    "anime": "Hunter x Hunter",
+    "role": "Expert en antiquités rencontré par Gon."
+  },
+  {
+    "latin": "Neon Nostrade",
+    "hiragana": "ねおん のすとらあど",
+    "anime": "Hunter x Hunter",
+    "role": "Fille du chef Nostrade aux dons de voyance."
+  },
+  {
+    "latin": "Light Nostrade",
+    "hiragana": "らいと のすとらあど",
+    "anime": "Hunter x Hunter",
+    "role": "Chef mafieux et père de Neon."
+  },
+  {
+    "latin": "Baise",
+    "hiragana": "べえぜ",
+    "anime": "Hunter x Hunter",
+    "role": "Garde du corps au service de la famille Nostrade."
+  },
+  {
+    "latin": "Squala",
+    "hiragana": "すくわら",
+    "anime": "Hunter x Hunter",
+    "role": "Garde du corps qui manipule des chiens."
+  },
+  {
+    "latin": "Zebro",
+    "hiragana": "ぜぶろ",
+    "anime": "Hunter x Hunter",
+    "role": "Gardien de l'entrée du domaine Zoldyck."
+  },
+  {
+    "latin": "Seaquant",
+    "hiragana": "しいくあんと",
+    "anime": "Hunter x Hunter",
+    "role": "Assistant au portail du domaine Zoldyck."
+  },
+  {
+    "latin": "Pariston Hill",
+    "hiragana": "ぱりすとん ひる",
+    "anime": "Hunter x Hunter",
+    "role": "Hunter politicien et ancien vice-président."
+  },
+  {
+    "latin": "Cheadle",
+    "hiragana": "ちいどる",
+    "anime": "Hunter x Hunter",
+    "role": "Hunter Zodiac et présidente de l'association."
+  },
+  {
+    "latin": "Ginta",
+    "hiragana": "ぎんた",
+    "anime": "Hunter x Hunter",
+    "role": "Membre des douze Zodiaques."
+  },
+  {
+    "latin": "Kanzai",
+    "hiragana": "かんざい",
+    "anime": "Hunter x Hunter",
+    "role": "Membre des douze Zodiaques."
+  },
+  {
+    "latin": "Saiyū",
+    "hiragana": "さいゆう",
+    "anime": "Hunter x Hunter",
+    "role": "Membre des douze Zodiaques."
+  },
+  {
+    "latin": "Mizaistom Nana",
+    "hiragana": "みざいすとむ なな",
+    "anime": "Hunter x Hunter",
+    "role": "Zodiaque spécialiste de justice et de règles."
+  },
+  {
+    "latin": "Botobai Gigante",
+    "hiragana": "ぼとばい ぎがんて",
+    "anime": "Hunter x Hunter",
+    "role": "Hunter Zodiac expérimenté."
+  },
+  {
+    "latin": "Gel",
+    "hiragana": "げる",
+    "anime": "Hunter x Hunter",
+    "role": "Membre des douze Zodiaques."
+  },
+  {
+    "latin": "Pyon",
+    "hiragana": "ぴよん",
+    "anime": "Hunter x Hunter",
+    "role": "Membre des douze Zodiaques."
+  },
+  {
+    "latin": "Beyond Netero",
+    "hiragana": "びよんど ねてろ",
+    "anime": "Hunter x Hunter",
+    "role": "Fils de Netero et explorateur du Continent obscur."
+  },
+  {
+    "latin": "Tanjirō Kamado",
+    "hiragana": "たんじろう かまど",
+    "anime": "Demon Slayer",
+    "role": "Pourfendeur cherchant à rendre son humanité à Nezuko."
+  },
+  {
+    "latin": "Nezuko Kamado",
+    "hiragana": "ねずこ かまど",
+    "anime": "Demon Slayer",
+    "role": "Sœur de Tanjiro transformée en démon."
+  },
+  {
+    "latin": "Zenitsu Agatsuma",
+    "hiragana": "ぜんいつ あがつま",
+    "anime": "Demon Slayer",
+    "role": "Pourfendeur maîtrisant le souffle de la Foudre."
+  },
+  {
+    "latin": "Inosuke Hashibira",
+    "hiragana": "いのすけ はしびら",
+    "anime": "Demon Slayer",
+    "role": "Pourfendeur utilisant le souffle de la Bête."
+  },
+  {
+    "latin": "Kanao Tsuyuri",
+    "hiragana": "かなお つゆり",
+    "anime": "Demon Slayer",
+    "role": "Disciple des sœurs Kocho."
+  },
+  {
+    "latin": "Genya Shinazugawa",
+    "hiragana": "げんや しなずがわ",
+    "anime": "Demon Slayer",
+    "role": "Pourfendeur frère de Sanemi."
+  },
+  {
+    "latin": "Muzan Kibutsuji",
+    "hiragana": "むざん きぶつじ",
+    "anime": "Demon Slayer",
+    "role": "Premier démon et ennemi principal."
+  },
+  {
+    "latin": "Giyū Tomioka",
+    "hiragana": "ぎゆう とみおか",
+    "anime": "Demon Slayer",
+    "role": "Pilier de l'Eau."
+  },
+  {
+    "latin": "Tengen Uzui",
+    "hiragana": "てんげん うずい",
+    "anime": "Demon Slayer",
+    "role": "Pilier du Son."
+  },
+  {
+    "latin": "Mitsuri Kanroji",
+    "hiragana": "みつり かんろじ",
+    "anime": "Demon Slayer",
+    "role": "Pilier de l'Amour."
+  },
+  {
+    "latin": "Obanai Iguro",
+    "hiragana": "おばない いぐろ",
+    "anime": "Demon Slayer",
+    "role": "Pilier du Serpent."
+  },
+  {
+    "latin": "Muichirō Tokitō",
+    "hiragana": "むいちろう ときとう",
+    "anime": "Demon Slayer",
+    "role": "Pilier de la Brume."
+  },
+  {
+    "latin": "Sanemi Shinazugawa",
+    "hiragana": "さねみ しなずがわ",
+    "anime": "Demon Slayer",
+    "role": "Pilier du Vent."
+  },
+  {
+    "latin": "Sakonji Urokodaki",
+    "hiragana": "さこんじ うろこだき",
+    "anime": "Demon Slayer",
+    "role": "Ancien pilier et maître de Tanjiro."
+  },
+  {
+    "latin": "Sabito",
+    "hiragana": "さびと",
+    "anime": "Demon Slayer",
+    "role": "Élève décédé d'Urokodaki."
+  },
+  {
+    "latin": "Makomo",
+    "hiragana": "まこも",
+    "anime": "Demon Slayer",
+    "role": "Élève décédée d'Urokodaki."
+  },
+  {
+    "latin": "Murata",
+    "hiragana": "むらた",
+    "anime": "Demon Slayer",
+    "role": "Pourfendeur du Corps des pourfendeurs de démons."
+  },
+  {
+    "latin": "Hotaru Haganezuka",
+    "hiragana": "ほたる はがねづか",
+    "anime": "Demon Slayer",
+    "role": "Forgeron des sabres de Tanjiro."
+  },
+  {
+    "latin": "Kōzō Kanamori",
+    "hiragana": "こうぞう かなもり",
+    "anime": "Demon Slayer",
+    "role": "Forgeron du village des forgerons."
+  },
+  {
+    "latin": "Kagaya Ubuyashiki",
+    "hiragana": "かがや うぶやしき",
+    "anime": "Demon Slayer",
+    "role": "Chef du Corps des pourfendeurs."
+  },
+  {
+    "latin": "Amane Ubuyashiki",
+    "hiragana": "あまね うぶやしき",
+    "anime": "Demon Slayer",
+    "role": "Épouse de Kagaya Ubuyashiki."
+  },
+  {
+    "latin": "Kiriya Ubuyashiki",
+    "hiragana": "きりや うぶやしき",
+    "anime": "Demon Slayer",
+    "role": "Fils de Kagaya Ubuyashiki."
+  },
+  {
+    "latin": "Hinaki Ubuyashiki",
+    "hiragana": "ひなき うぶやしき",
+    "anime": "Demon Slayer",
+    "role": "Fille de la famille Ubuyashiki."
+  },
+  {
+    "latin": "Nichika Ubuyashiki",
+    "hiragana": "にちか うぶやしき",
+    "anime": "Demon Slayer",
+    "role": "Fille de la famille Ubuyashiki."
+  },
+  {
+    "latin": "Koinatsu",
+    "hiragana": "こいなつ",
+    "anime": "Demon Slayer",
+    "role": "Oiran du quartier des plaisirs."
+  },
+  {
+    "latin": "Yushirō",
+    "hiragana": "ゆしろう",
+    "anime": "Demon Slayer",
+    "role": "Démon allié de Tamayo."
+  },
+  {
+    "latin": "Tamayo",
+    "hiragana": "たまよ",
+    "anime": "Demon Slayer",
+    "role": "Démon médecin aidant Tanjiro."
+  },
+  {
+    "latin": "Susamaru",
+    "hiragana": "すさまる",
+    "anime": "Demon Slayer",
+    "role": "Démon attaquant Tanjiro et ses alliés."
+  },
+  {
+    "latin": "Yahaba",
+    "hiragana": "やはば",
+    "anime": "Demon Slayer",
+    "role": "Démon manipulant des flèches invisibles."
+  },
+  {
+    "latin": "Rui",
+    "hiragana": "るい",
+    "anime": "Demon Slayer",
+    "role": "Membre des Douze Lunes démoniaques."
+  },
+  {
+    "latin": "Enmu",
+    "hiragana": "えんむ",
+    "anime": "Demon Slayer",
+    "role": "Démon du Train de l'Infini."
+  },
+  {
+    "latin": "Akaza",
+    "hiragana": "あかざ",
+    "anime": "Demon Slayer",
+    "role": "Troisième lune supérieure."
+  },
+  {
+    "latin": "Dōma",
+    "hiragana": "どうま",
+    "anime": "Demon Slayer",
+    "role": "Deuxième lune supérieure."
+  },
+  {
+    "latin": "Kokushibō",
+    "hiragana": "こくしぼう",
+    "anime": "Demon Slayer",
+    "role": "Première lune supérieure."
+  },
+  {
+    "latin": "Daki",
+    "hiragana": "だき",
+    "anime": "Demon Slayer",
+    "role": "Démone du quartier des plaisirs."
+  },
+  {
+    "latin": "Kaigaku",
+    "hiragana": "かいがく",
+    "anime": "Demon Slayer",
+    "role": "Démon lié au passé de Zenitsu."
+  },
+  {
+    "latin": "Hantengu",
+    "hiragana": "はんてんぐ",
+    "anime": "Demon Slayer",
+    "role": "Lune supérieure pouvant se diviser."
+  },
+  {
+    "latin": "Nakime",
+    "hiragana": "なきめ",
+    "anime": "Demon Slayer",
+    "role": "Démone manipulant la Forteresse infinie."
+  },
+  {
+    "latin": "Yoriichi Tsugikuni",
+    "hiragana": "よりいち つぎくに",
+    "anime": "Demon Slayer",
+    "role": "Épéiste légendaire du souffle du Soleil."
+  },
+  {
+    "latin": "Ruka Rengoku",
+    "hiragana": "るか れんごく",
+    "anime": "Demon Slayer",
+    "role": "Mère des frères Rengoku."
+  },
+  {
+    "latin": "Suma",
+    "hiragana": "すま",
+    "anime": "Demon Slayer",
+    "role": "Épouse de Tengen Uzui."
+  },
+  {
+    "latin": "Hinatsuru",
+    "hiragana": "ひなつる",
+    "anime": "Demon Slayer",
+    "role": "Épouse de Tengen Uzui."
+  },
+  {
+    "latin": "Kie Kamado",
+    "hiragana": "きえ かまど",
+    "anime": "Demon Slayer",
+    "role": "Mère de Tanjiro et Nezuko."
+  },
+  {
+    "latin": "Takeo Kamado",
+    "hiragana": "たけお かまど",
+    "anime": "Demon Slayer",
+    "role": "Frère de Tanjiro."
+  },
+  {
+    "latin": "Hanako Kamado",
+    "hiragana": "はなこ かまど",
+    "anime": "Demon Slayer",
+    "role": "Sœur cadette de Tanjiro."
+  },
+  {
+    "latin": "Shigeru Kamado",
+    "hiragana": "しげる かまど",
+    "anime": "Demon Slayer",
+    "role": "Frère cadet de Tanjiro."
+  },
+  {
+    "latin": "Rokuta Kamado",
+    "hiragana": "ろくた かまど",
+    "anime": "Demon Slayer",
+    "role": "Plus jeune frère de Tanjiro."
+  },
+  {
+    "latin": "Sumiyoshi",
+    "hiragana": "すみよし",
+    "anime": "Demon Slayer",
+    "role": "Ancêtre de Tanjiro Kamado."
+  },
+  {
+    "latin": "Suyako",
+    "hiragana": "すやこ",
+    "anime": "Demon Slayer",
+    "role": "Épouse de Sumiyoshi."
+  },
+  {
+    "latin": "Kōshi Sugawara",
+    "hiragana": "こうし すがわら",
+    "anime": "Haikyuu!!",
+    "role": "Passeur remplaçant de Karasuno."
+  },
+  {
+    "latin": "Asahi Azumane",
+    "hiragana": "あさひ あずまね",
+    "anime": "Haikyuu!!",
+    "role": "Attaquant vedette de Karasuno."
+  },
+  {
+    "latin": "Chikara Ennoshita",
+    "hiragana": "ちから えんのした",
+    "anime": "Haikyuu!!",
+    "role": "Joueur de Karasuno au sens des responsabilités."
+  },
+  {
+    "latin": "Hisashi Kinoshita",
+    "hiragana": "ひさし きのした",
+    "anime": "Haikyuu!!",
+    "role": "Réserviste de Karasuno."
+  },
+  {
+    "latin": "Kazuhito Narita",
+    "hiragana": "かずひと なりた",
+    "anime": "Haikyuu!!",
+    "role": "Central remplaçant de Karasuno."
+  },
+  {
+    "latin": "Kei Tsukishima",
+    "hiragana": "けい つきしま",
+    "anime": "Haikyuu!!",
+    "role": "Contreur central de Karasuno."
+  },
+  {
+    "latin": "Tadashi Yamaguchi",
+    "hiragana": "ただし やまぐち",
+    "anime": "Haikyuu!!",
+    "role": "Spécialiste du service flottant de Karasuno."
+  },
+  {
+    "latin": "Kiyoko Shimizu",
+    "hiragana": "きよこ しみず",
+    "anime": "Haikyuu!!",
+    "role": "Manager de l'équipe de Karasuno."
+  },
+  {
+    "latin": "Hitoka Yachi",
+    "hiragana": "ひとか やち",
+    "anime": "Haikyuu!!",
+    "role": "Nouvelle manager de l'équipe de Karasuno."
+  },
+  {
+    "latin": "Keishin Ukai",
+    "hiragana": "けいしん うかい",
+    "anime": "Haikyuu!!",
+    "role": "Entraîneur de l'équipe de Karasuno."
+  },
+  {
+    "latin": "Yui Michimiya",
+    "hiragana": "ゆい みちみや",
+    "anime": "Haikyuu!!",
+    "role": "Capitaine de l'équipe féminine de Karasuno."
+  },
+  {
+    "latin": "Mao Aihara",
+    "hiragana": "まお あいはら",
+    "anime": "Haikyuu!!",
+    "role": "Joueuse de l'équipe féminine de Karasuno."
+  },
+  {
+    "latin": "Rinko Sudō",
+    "hiragana": "りんこ すどう",
+    "anime": "Haikyuu!!",
+    "role": "Joueuse de volley à Karasuno."
+  },
+  {
+    "latin": "Moe Kikuchi",
+    "hiragana": "もえ きくち",
+    "anime": "Haikyuu!!",
+    "role": "Joueuse de l'équipe féminine de Karasuno."
+  },
+  {
+    "latin": "Manami Aoki",
+    "hiragana": "まなみ あおき",
+    "anime": "Haikyuu!!",
+    "role": "Joueuse de l'équipe féminine de Karasuno."
+  },
+  {
+    "latin": "Nozomi Watabe",
+    "hiragana": "のぞみ わたべ",
+    "anime": "Haikyuu!!",
+    "role": "Joueuse de l'équipe féminine de Karasuno."
+  },
+  {
+    "latin": "Chizuru Sasaki",
+    "hiragana": "ちずる ささき",
+    "anime": "Haikyuu!!",
+    "role": "Joueuse de l'équipe féminine de Karasuno."
+  },
+  {
+    "latin": "Hidemi Tashiro",
+    "hiragana": "ひでみ たしろ",
+    "anime": "Haikyuu!!",
+    "role": "Ancien capitaine de Karasuno."
+  },
+  {
+    "latin": "Hiroki Kurokawa",
+    "hiragana": "ひろき くろかわ",
+    "anime": "Haikyuu!!",
+    "role": "Ancien joueur de Karasuno."
+  },
+  {
+    "latin": "Tenma Udai",
+    "hiragana": "てんま うだい",
+    "anime": "Haikyuu!!",
+    "role": "Ancien Petit Géant de Karasuno."
+  },
+  {
+    "latin": "Akiteru Tsukishima",
+    "hiragana": "あきてる つきしま",
+    "anime": "Haikyuu!!",
+    "role": "Grand frère de Kei Tsukishima."
+  },
+  {
+    "latin": "Makoto Shimada",
+    "hiragana": "まこと しまだ",
+    "anime": "Haikyuu!!",
+    "role": "Ancien joueur, mentor de Tadashi Yamaguchi."
+  },
+  {
+    "latin": "Yūsuke Takinoue",
+    "hiragana": "ゆうすけ たきのうえ",
+    "anime": "Haikyuu!!",
+    "role": "Ami de l'entraîneur Ukai et supporter de Karasuno."
+  },
+  {
+    "latin": "Yukinari Mori",
+    "hiragana": "ゆきなり もり",
+    "anime": "Haikyuu!!",
+    "role": "Ancien élève de Karasuno."
+  },
+  {
+    "latin": "Hidenori Uchizawa",
+    "hiragana": "ひでのり うちざわ",
+    "anime": "Haikyuu!!",
+    "role": "Ancien élève de Karasuno."
+  },
+  {
+    "latin": "Natsu Hinata",
+    "hiragana": "なつ ひなた",
+    "anime": "Haikyuu!!",
+    "role": "Petite sœur de Shoyo Hinata."
+  },
+  {
+    "latin": "Saeko Tanaka",
+    "hiragana": "さえこ たなか",
+    "anime": "Haikyuu!!",
+    "role": "Grande sœur de Ryunosuke Tanaka."
+  },
+  {
+    "latin": "Madoka Yachi",
+    "hiragana": "まどか やち",
+    "anime": "Haikyuu!!",
+    "role": "Mère de Hitoka Yachi."
+  },
+  {
+    "latin": "Miwa Kageyama",
+    "hiragana": "みわ かげやま",
+    "anime": "Haikyuu!!",
+    "role": "Grande sœur de Tobio Kageyama."
+  },
+  {
+    "latin": "Mineo Nishinoya",
+    "hiragana": "みねお にしのや",
+    "anime": "Haikyuu!!",
+    "role": "Grand-père de Yu Nishinoya."
+  },
+  {
+    "latin": "Kenma Kozume",
+    "hiragana": "けんま こづめ",
+    "anime": "Haikyuu!!",
+    "role": "Passeur stratège de Nekoma."
+  },
+  {
+    "latin": "Nobuyuki Kai",
+    "hiragana": "のぶゆき かい",
+    "anime": "Haikyuu!!",
+    "role": "Vice-capitaine de Nekoma."
+  },
+  {
+    "latin": "Morisuke Yaku",
+    "hiragana": "もりすけ やく",
+    "anime": "Haikyuu!!",
+    "role": "Libéro de Nekoma."
+  },
+  {
+    "latin": "Taketora Yamamoto",
+    "hiragana": "たけとら やまもと",
+    "anime": "Haikyuu!!",
+    "role": "Attaquant de Nekoma."
+  },
+  {
+    "latin": "Sō Inuoka",
+    "hiragana": "そう いぬおか",
+    "anime": "Haikyuu!!",
+    "role": "Central de Nekoma."
+  },
+  {
+    "latin": "Tamahiko Teshiro",
+    "hiragana": "たまひこ てしろ",
+    "anime": "Haikyuu!!",
+    "role": "Passeur de Nekoma."
+  },
+  {
+    "latin": "Lev Haiba",
+    "hiragana": "りええふ はいば",
+    "anime": "Haikyuu!!",
+    "role": "Grand central de Nekoma."
+  },
+  {
+    "latin": "Yūki Shibayama",
+    "hiragana": "ゆうき しばやま",
+    "anime": "Haikyuu!!",
+    "role": "Libéro remplaçant de Nekoma."
+  },
+  {
+    "latin": "Yasufumi Nekomata",
+    "hiragana": "やすふみ ねこまた",
+    "anime": "Haikyuu!!",
+    "role": "Entraîneur expérimenté de Nekoma."
+  },
+  {
+    "latin": "Manabu Naoi",
+    "hiragana": "まなぶ なおい",
+    "anime": "Haikyuu!!",
+    "role": "Entraîneur adjoint de Nekoma."
+  },
+  {
+    "latin": "Akane Yamamoto",
+    "hiragana": "あかね やまもと",
+    "anime": "Haikyuu!!",
+    "role": "Petite sœur de Taketora Yamamoto."
+  },
+  {
+    "latin": "Alisa Haiba",
+    "hiragana": "ありさ はいば",
+    "anime": "Haikyuu!!",
+    "role": "Grande sœur de Lev Haiba."
+  },
+  {
+    "latin": "Tōru Oikawa",
+    "hiragana": "とおる おいかわ",
+    "anime": "Haikyuu!!",
+    "role": "Capitaine et passeur de Aoba Johsai."
+  },
+  {
+    "latin": "Takahiro Hanamaki",
+    "hiragana": "たかひろ はなまき",
+    "anime": "Haikyuu!!",
+    "role": "Attaquant de Aoba Johsai."
+  },
+  {
+    "latin": "Hajime Iwaizumi",
+    "hiragana": "はじめ いわいずみ",
+    "anime": "Haikyuu!!",
+    "role": "Vice-capitaine de Aoba Johsai."
+  },
+  {
+    "latin": "Shigeru Yahaba",
+    "hiragana": "しげる やはば",
+    "anime": "Haikyuu!!",
+    "role": "Passeur de Aoba Johsai."
+  },
+  {
+    "latin": "Shinji Watari",
+    "hiragana": "しんじ わたり",
+    "anime": "Haikyuu!!",
+    "role": "Libéro de Aoba Johsai."
+  },
+  {
+    "latin": "Yūtarō Kindaichi",
+    "hiragana": "ゆうたろう きんだいち",
+    "anime": "Haikyuu!!",
+    "role": "Central de Aoba Johsai."
+  },
+  {
+    "latin": "Akira Kunimi",
+    "hiragana": "あきら くにみ",
+    "anime": "Haikyuu!!",
+    "role": "Attaquant de Aoba Johsai."
+  },
+  {
+    "latin": "Nobuteru Irihata",
+    "hiragana": "のぶてる いりはた",
+    "anime": "Haikyuu!!",
+    "role": "Entraîneur de Aoba Johsai."
+  },
+  {
+    "latin": "Sadayuki Mizoguchi",
+    "hiragana": "さだゆき みぞぐち",
+    "anime": "Haikyuu!!",
+    "role": "Entraîneur adjoint de Aoba Johsai."
+  },
+  {
+    "latin": "Takanobu Aone",
+    "hiragana": "たかのぶ あおね",
+    "anime": "Haikyuu!!",
+    "role": "Central et spécialiste du contre de Date Tech."
+  },
+  {
+    "latin": "Kenji Futakuchi",
+    "hiragana": "けんじ ふたくち",
+    "anime": "Haikyuu!!",
+    "role": "Capitaine de Date Tech."
+  },
+  {
+    "latin": "Yutaka Obara",
+    "hiragana": "ゆたか おばら",
+    "anime": "Haikyuu!!",
+    "role": "Joueur de Date Tech."
+  },
+  {
+    "latin": "Takehito Sasaya",
+    "hiragana": "たけひと ささや",
+    "anime": "Haikyuu!!",
+    "role": "Ancien joueur de Date Tech."
+  },
+  {
+    "latin": "Yasushi Kamasaki",
+    "hiragana": "やすし かまさき",
+    "anime": "Haikyuu!!",
+    "role": "Ancien central de Date Tech."
+  },
+  {
+    "latin": "Kaname Moniwa",
+    "hiragana": "かなめ もにわ",
+    "anime": "Haikyuu!!",
+    "role": "Ancien capitaine de Date Tech."
+  },
+  {
+    "latin": "Kanji Koganegawa",
+    "hiragana": "かんじ こがねがわ",
+    "anime": "Haikyuu!!",
+    "role": "Passeur de Date Tech."
+  },
+  {
+    "latin": "Tarō Onagawa",
+    "hiragana": "たろう おながわ",
+    "anime": "Haikyuu!!",
+    "role": "Joueur de Date Tech."
+  },
+  {
+    "latin": "Jingo Fukiage",
+    "hiragana": "じんご ふきあげ",
+    "anime": "Haikyuu!!",
+    "role": "Joueur de Date Tech."
+  },
+  {
+    "latin": "Kōsuke Sakunami",
+    "hiragana": "こうすけ さくなみ",
+    "anime": "Haikyuu!!",
+    "role": "Libéro de Date Tech."
+  },
+  {
+    "latin": "Mai Nametsu",
+    "hiragana": "まい なめつ",
+    "anime": "Haikyuu!!",
+    "role": "Manager de Date Tech."
+  },
+  {
+    "latin": "Takurō Oiwake",
+    "hiragana": "たくろう おいわけ",
+    "anime": "Haikyuu!!",
+    "role": "Entraîneur de Date Tech."
+  },
+  {
+    "latin": "Tatsuki Washio",
+    "hiragana": "たつき わしお",
+    "anime": "Haikyuu!!",
+    "role": "Central de Fukurodani."
+  },
+  {
+    "latin": "Yamato Sarukui",
+    "hiragana": "やまと さるくい",
+    "anime": "Haikyuu!!",
+    "role": "Joueur de Fukurodani."
+  },
+  {
+    "latin": "Kōtarō Bokuto",
+    "hiragana": "こうたろう ぼくと",
+    "anime": "Haikyuu!!",
+    "role": "Capitaine et attaquant vedette de Fukurodani."
+  },
+  {
+    "latin": "Keiji Akaashi",
+    "hiragana": "けいじ あかあし",
+    "anime": "Haikyuu!!",
+    "role": "Passeur de Fukurodani."
+  },
+  {
+    "latin": "Akinori Konoha",
+    "hiragana": "あきのり このは",
+    "anime": "Haikyuu!!",
+    "role": "Joueur polyvalent de Fukurodani."
+  },
+  {
+    "latin": "Haruki Komi",
+    "hiragana": "はるき こみ",
+    "anime": "Haikyuu!!",
+    "role": "Libéro de Fukurodani."
+  },
+  {
+    "latin": "Wataru Onaga",
+    "hiragana": "わたる おなが",
+    "anime": "Haikyuu!!",
+    "role": "Central de Fukurodani."
+  },
+  {
+    "latin": "Yukie Shirofuku",
+    "hiragana": "ゆきえ しろふく",
+    "anime": "Haikyuu!!",
+    "role": "Manager de Fukurodani."
+  },
+  {
+    "latin": "Kaori Suzumeda",
+    "hiragana": "かおり すずめだ",
+    "anime": "Haikyuu!!",
+    "role": "Manager de Fukurodani."
+  },
+  {
+    "latin": "Takeyuki Yamiji",
+    "hiragana": "たけゆき やまじ",
+    "anime": "Haikyuu!!",
+    "role": "Entraîneur de Fukurodani."
+  },
+  {
+    "latin": "Tsukasa Iizuna",
+    "hiragana": "つかさ いいづな",
+    "anime": "Haikyuu!!",
+    "role": "Passeur de Itachiyama."
+  },
+  {
+    "latin": "Kiyoomi Sakusa",
+    "hiragana": "きよおみ さくさ",
+    "anime": "Haikyuu!!",
+    "role": "Attaquant vedette de Itachiyama."
+  },
+  {
+    "latin": "Motoya Komori",
+    "hiragana": "もとや こもり",
+    "anime": "Haikyuu!!",
+    "role": "Libéro de Itachiyama."
+  },
+  {
+    "latin": "Kazuki Maruyama",
+    "hiragana": "かずき まるやま",
+    "anime": "Haikyuu!!",
+    "role": "Capitaine de Tsubakihara."
+  },
+  {
+    "latin": "Sakae Echigo",
+    "hiragana": "さかえ えちご",
+    "anime": "Haikyuu!!",
+    "role": "Passeur de Tsubakihara."
+  },
+  {
+    "latin": "Chiharu Tsukioka",
+    "hiragana": "ちはる つきおか",
+    "anime": "Haikyuu!!",
+    "role": "Joueur de Tsubakihara."
+  },
+  {
+    "latin": "Motoki Teradomari",
+    "hiragana": "もとき てらどまり",
+    "anime": "Haikyuu!!",
+    "role": "Attaquant vedette de Tsubakihara."
+  },
+  {
+    "latin": "Dai Mikawa",
+    "hiragana": "だい みかわ",
+    "anime": "Haikyuu!!",
+    "role": "Joueur de Tsubakihara."
+  },
+  {
+    "latin": "Tōgo Iwamuro",
+    "hiragana": "とうご いわむろ",
+    "anime": "Haikyuu!!",
+    "role": "Joueur de Tsubakihara."
+  },
+  {
+    "latin": "Yoshitomo Atema",
+    "hiragana": "よしとも あてま",
+    "anime": "Haikyuu!!",
+    "role": "Joueur de Tsubakihara."
+  },
+  {
+    "latin": "Yūshi Maiko",
+    "hiragana": "ゆうし まいこ",
+    "anime": "Haikyuu!!",
+    "role": "Joueur de Tsubakihara."
+  },
+  {
+    "latin": "Akifumi Kaikake",
+    "hiragana": "あきふみ かいかけ",
+    "anime": "Haikyuu!!",
+    "role": "Joueur de Tsubakihara."
+  },
+  {
+    "latin": "Aoi Himekawa",
+    "hiragana": "あおい ひめかわ",
+    "anime": "Haikyuu!!",
+    "role": "Serveur de Tsubakihara."
+  },
+  {
+    "latin": "Shinsuke Kita",
+    "hiragana": "しんすけ きた",
+    "anime": "Haikyuu!!",
+    "role": "Capitaine rigoureux de Inarizaki."
+  },
+  {
+    "latin": "Ren Ōmimi",
+    "hiragana": "れん おおみみ",
+    "anime": "Haikyuu!!",
+    "role": "Central de Inarizaki."
+  },
+  {
+    "latin": "Aran Ojiro",
+    "hiragana": "あらん おじろ",
+    "anime": "Haikyuu!!",
+    "role": "Attaquant de Inarizaki."
+  },
+  {
+    "latin": "Hitoshi Ginjima",
+    "hiragana": "ひとし ぎんじま",
+    "anime": "Haikyuu!!",
+    "role": "Attaquant de Inarizaki."
+  },
+  {
+    "latin": "Atsumu Miya",
+    "hiragana": "あつむ みや",
+    "anime": "Haikyuu!!",
+    "role": "Passeur prodige de Inarizaki."
+  },
+  {
+    "latin": "Rintarō Suna",
+    "hiragana": "りんたろう すな",
+    "anime": "Haikyuu!!",
+    "role": "Central de Inarizaki."
+  },
+  {
+    "latin": "Osamu Miya",
+    "hiragana": "おさむ みや",
+    "anime": "Haikyuu!!",
+    "role": "Attaquant de Inarizaki, jumeau d'Atsumu."
+  },
+  {
+    "latin": "Yūto Kosaku",
+    "hiragana": "ゆうと こさく",
+    "anime": "Haikyuu!!",
+    "role": "Joueur de Inarizaki."
+  },
+  {
+    "latin": "Heisuke Riseki",
+    "hiragana": "へいすけ りせき",
+    "anime": "Haikyuu!!",
+    "role": "Joueur de Inarizaki."
+  },
+  {
+    "latin": "Michinari Akagi",
+    "hiragana": "みちなり あかぎ",
+    "anime": "Haikyuu!!",
+    "role": "Libéro de Inarizaki."
+  },
+  {
+    "latin": "Norimune Kurosu",
+    "hiragana": "のりむね くろす",
+    "anime": "Haikyuu!!",
+    "role": "Entraîneur de Inarizaki."
+  },
+  {
+    "latin": "Yumie Kita",
+    "hiragana": "ゆみえ きた",
+    "anime": "Haikyuu!!",
+    "role": "Grand-mère de Shinsuke Kita."
+  },
+  {
+    "latin": "Wakatoshi Ushijima",
+    "hiragana": "わかとし うしじま",
+    "anime": "Haikyuu!!",
+    "role": "Capitaine et ace de Shiratorizawa."
+  },
+  {
+    "latin": "Satori Tendō",
+    "hiragana": "さとり てんどう",
+    "anime": "Haikyuu!!",
+    "role": "Central de Shiratorizawa."
+  },
+  {
+    "latin": "Eita Semi",
+    "hiragana": "えいた せみ",
+    "anime": "Haikyuu!!",
+    "role": "Passeur de Shiratorizawa."
+  },
+  {
+    "latin": "Tsutomu Goshiki",
+    "hiragana": "つとむ ごしき",
+    "anime": "Haikyuu!!",
+    "role": "Attaquant de Shiratorizawa."
+  },
+  {
+    "latin": "Kenjirō Shirabu",
+    "hiragana": "けんじろう しらぶ",
+    "anime": "Haikyuu!!",
+    "role": "Passeur de Shiratorizawa."
+  },
+  {
+    "latin": "Reon Ōhira",
+    "hiragana": "れおん おおひら",
+    "anime": "Haikyuu!!",
+    "role": "Attaquant de Shiratorizawa."
+  },
+  {
+    "latin": "Hayato Yamagata",
+    "hiragana": "はやと やまがた",
+    "anime": "Haikyuu!!",
+    "role": "Libéro de Shiratorizawa."
+  },
+  {
+    "latin": "Taichi Kawanishi",
+    "hiragana": "たいち かわにし",
+    "anime": "Haikyuu!!",
+    "role": "Central de Shiratorizawa."
+  },
+  {
+    "latin": "Goten",
+    "hiragana": "ごてん",
+    "anime": "Dragon Ball",
+    "role": "Deuxième fils de Goku."
+  },
+  {
+    "latin": "Gotenks",
+    "hiragana": "ごてんくす",
+    "anime": "Dragon Ball",
+    "role": "Fusion de Goten et Trunks."
+  },
+  {
+    "latin": "Chi-Chi",
+    "hiragana": "ちち",
+    "anime": "Dragon Ball",
+    "role": "Épouse de Goku et mère de Gohan."
+  },
+  {
+    "latin": "Pan",
+    "hiragana": "ぱん",
+    "anime": "Dragon Ball",
+    "role": "Petite-fille de Goku."
+  },
+  {
+    "latin": "Videl",
+    "hiragana": "びいでる",
+    "anime": "Dragon Ball",
+    "role": "Épouse de Gohan et mère de Pan."
+  },
+  {
+    "latin": "Broly",
+    "hiragana": "ぶろりい",
+    "anime": "Dragon Ball",
+    "role": "Saiyan possédant une puissance exceptionnelle."
+  },
+  {
+    "latin": "Recoome",
+    "hiragana": "りくうむ",
+    "anime": "Dragon Ball",
+    "role": "Membre du Commando Ginyu."
+  },
+  {
+    "latin": "Burter",
+    "hiragana": "ばあた",
+    "anime": "Dragon Ball",
+    "role": "Membre du Commando Ginyu réputé pour sa vitesse."
+  },
+  {
+    "latin": "Jeice",
+    "hiragana": "じいす",
+    "anime": "Dragon Ball",
+    "role": "Membre du Commando Ginyu."
+  },
+  {
+    "latin": "Guldo",
+    "hiragana": "ぐるど",
+    "anime": "Dragon Ball",
+    "role": "Membre du Commando Ginyu."
+  },
+  {
+    "latin": "Dodoria",
+    "hiragana": "どどりあ",
+    "anime": "Dragon Ball",
+    "role": "Bras droit de Freezer."
+  },
+  {
+    "latin": "Zarbon",
+    "hiragana": "ざあぼん",
+    "anime": "Dragon Ball",
+    "role": "Officier au service de Freezer."
+  },
+  {
+    "latin": "Dābura",
+    "hiragana": "だあぶら",
+    "anime": "Dragon Ball",
+    "role": "Roi des démons asservi par Babidi."
+  },
+  {
+    "latin": "Majin Buu",
+    "hiragana": "まじん ぶう",
+    "anime": "Dragon Ball",
+    "role": "Majin extrêmement puissant, plusieurs formes."
+  },
+  {
+    "latin": "Kibito",
+    "hiragana": "きびと",
+    "anime": "Dragon Ball",
+    "role": "Assistant du Kaioshin de l'Est."
+  },
+  {
+    "latin": "Shin",
+    "hiragana": "しん",
+    "anime": "Dragon Ball",
+    "role": "Kaioshin de l'Est."
+  },
+  {
+    "latin": "Zenō",
+    "hiragana": "ぜんおう",
+    "anime": "Dragon Ball",
+    "role": "Roi de tout l'univers Dragon Ball Super."
+  },
+  {
+    "latin": "Whis",
+    "hiragana": "ういす",
+    "anime": "Dragon Ball",
+    "role": "Ange et maître des arts martiaux de Beerus."
+  },
+  {
+    "latin": "Caulifla",
+    "hiragana": "かりふら",
+    "anime": "Dragon Ball",
+    "role": "Saiyanne de l'univers 6."
+  },
+  {
+    "latin": "Kale",
+    "hiragana": "けえる",
+    "anime": "Dragon Ball",
+    "role": "Saiyanne de l'univers 6."
+  },
+  {
+    "latin": "Jiren",
+    "hiragana": "じれん",
+    "anime": "Dragon Ball",
+    "role": "Guerrier du commando Pride Troopers."
+  },
+  {
+    "latin": "Zamasu",
+    "hiragana": "ざます",
+    "anime": "Dragon Ball",
+    "role": "Kaioshin apprenti opposé aux mortels."
+  },
+  {
+    "latin": "Gowasu",
+    "hiragana": "ごわす",
+    "anime": "Dragon Ball",
+    "role": "Kaioshin de l'univers 10."
+  },
+  {
+    "latin": "Moro",
+    "hiragana": "もろ",
+    "anime": "Dragon Ball",
+    "role": "Ancien prisonnier maîtrisant une magie dévastatrice."
+  },
+  {
+    "latin": "Granolah",
+    "hiragana": "ぐらのら",
+    "anime": "Dragon Ball",
+    "role": "Survivant de la planète Cereal."
+  },
+  {
+    "latin": "Gas",
+    "hiragana": "がす",
+    "anime": "Dragon Ball",
+    "role": "Combattant de la famille Heeter."
+  },
+  {
+    "latin": "Elec",
+    "hiragana": "えれく",
+    "anime": "Dragon Ball",
+    "role": "Chef de la famille Heeter."
+  },
+  {
+    "latin": "Cheelai",
+    "hiragana": "ちらい",
+    "anime": "Dragon Ball",
+    "role": "Alliée de Broly et Lemo."
+  },
+  {
+    "latin": "Lemo",
+    "hiragana": "れも",
+    "anime": "Dragon Ball",
+    "role": "Ami de Broly et Cheelai."
+  },
+  {
+    "latin": "Paragus",
+    "hiragana": "ぱらがす",
+    "anime": "Dragon Ball",
+    "role": "Père de Broly."
+  },
+  {
+    "latin": "Dende",
+    "hiragana": "でんで",
+    "anime": "Dragon Ball",
+    "role": "Namek devenu gardien de la Terre."
+  },
+  {
+    "latin": "Nail",
+    "hiragana": "ねいる",
+    "anime": "Dragon Ball",
+    "role": "Guerrier namek au service du Grand Chef."
+  },
+  {
+    "latin": "Oolong",
+    "hiragana": "ううろん",
+    "anime": "Dragon Ball",
+    "role": "Cochon métamorphe ami de Goku."
+  },
+  {
+    "latin": "Puar",
+    "hiragana": "ぷうある",
+    "anime": "Dragon Ball",
+    "role": "Petit compagnon de Yamcha."
+  },
+  {
+    "latin": "Launch",
+    "hiragana": "らんち",
+    "anime": "Dragon Ball",
+    "role": "Jeune femme dont l'humeur change en éternuant."
+  },
+  {
+    "latin": "Pilaf",
+    "hiragana": "ぴらふ",
+    "anime": "Dragon Ball",
+    "role": "Petit empereur à la recherche des Dragon Balls."
+  },
+  {
+    "latin": "Mai",
+    "hiragana": "まい",
+    "anime": "Dragon Ball",
+    "role": "Membre du gang Pilaf."
+  },
+  {
+    "latin": "Tambourine",
+    "hiragana": "たんばりん",
+    "anime": "Dragon Ball",
+    "role": "Démon engendré par le Roi Démon Piccolo."
+  },
+  {
+    "latin": "Mr Satan",
+    "hiragana": "みすたあ さたん",
+    "anime": "Dragon Ball",
+    "role": "Champion du monde d'arts martiaux."
+  },
+  {
+    "latin": "Marron",
+    "hiragana": "まあろん",
+    "anime": "Dragon Ball",
+    "role": "Fille de Kuririn et C-18."
+  },
+  {
+    "latin": "Paikūhan",
+    "hiragana": "ぱいくうはん",
+    "anime": "Dragon Ball",
+    "role": "Guerrier du Grand Tournoi de l'autre monde."
+  },
+  {
+    "latin": "Turles",
+    "hiragana": "たあれす",
+    "anime": "Dragon Ball",
+    "role": "Saiyan antagoniste d'un film Dragon Ball Z."
+  },
+  {
+    "latin": "Cooler",
+    "hiragana": "くうら",
+    "anime": "Dragon Ball",
+    "role": "Frère aîné de Freezer."
+  },
+  {
+    "latin": "Meta Cooler",
+    "hiragana": "めたる くうら",
+    "anime": "Dragon Ball",
+    "role": "Version mécanique de Cooler."
+  },
+  {
+    "latin": "Frost",
+    "hiragana": "ふろすと",
+    "anime": "Dragon Ball",
+    "role": "Combattant de l'univers 6 ressemblant à Freezer."
+  },
+  {
+    "latin": "Botamo",
+    "hiragana": "ぼたも",
+    "anime": "Dragon Ball",
+    "role": "Guerrier de l'univers 6."
+  },
+  {
+    "latin": "Monaka",
+    "hiragana": "もなか",
+    "anime": "Dragon Ball",
+    "role": "Personnage présenté comme le plus puissant guerrier."
+  },
+  {
+    "latin": "Ribrianne",
+    "hiragana": "りぶりあん",
+    "anime": "Dragon Ball",
+    "role": "Combattante de l'univers 2."
+  },
+  {
+    "latin": "Kefla",
+    "hiragana": "けふら",
+    "anime": "Dragon Ball",
+    "role": "Fusion de Kale et Caulifla."
+  },
+  {
+    "latin": "Gogeta",
+    "hiragana": "ごじいた",
+    "anime": "Dragon Ball",
+    "role": "Fusion de Goku et Vegeta par la danse."
+  },
+  {
+    "latin": "Glorio",
+    "hiragana": "ぐろりお",
+    "anime": "Dragon Ball",
+    "role": "Voyageur du royaume des démons dans Dragon Ball Daima."
+  }
+]
